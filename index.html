@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+    <title>SL Best Practice</title>
+    <style type="text/css">
+      .title {
+        margin: 30px;
+      }
+      .result {
+        margin-top: 50px;
+        display: none;
+      }
+      .success-result {
+        display: none;
+      }
+      .no-result {
+        display: none;
+      }
+
+    </style>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+    <script type="text/javascript" src="helper.js"></script>
+    <script type="text/javascript" src="data.js"></script>
+    <script type="text/javascript">
+
+      var selectedCategories;
+
+      $(document).ready(function() {
+        for (var item of universityList){
+          $('#universitySelect').append($('<option>', {value: item, text: item}));
+        }
+
+        for (var item of deptList){
+          $('#departmentSelect').append($('<option>', {value: item, text: item}));
+        }
+
+        for (var [key, value] of Object.entries(categories)){
+          $('#categories').append($('<option>', {value: key, text: value}));
+        }
+
+        for (var item of subElements){
+          $('#subElements').append($('<option>', {value: item, text: item}));
+        }
+
+
+      });
+      
+      function getResult() {
+        $('.result').show();
+        var filteredData = [];
+
+        var filter = {
+          university: $('#universitySelect').val() ,
+          department: $('#departmentSelect').val(),
+          domain: $('#domain').val(),
+          caseCode: $('#caseCode').val(),
+          courseTitle: $('#courseTitle').val(),
+          categories: $("#categories :selected").map((_, e) => e.value).get()
+        }
+
+        let filterCategories = (arr, target) => target.every(v => arr.includes(v));
+
+        filteredData = data.filter(x => filter.university ? x.university == filter.university : true);
+        filteredData = filteredData.filter(x => filter.department ? x.department == filter.department : true);
+        filteredData = filteredData.filter(x => filter.domain ? x.domain.toLowerCase().includes(filter.domain.toLowerCase()) : true);
+        filteredData = filteredData.filter(x => filter.caseCode ? x.caseCode == filter.caseCode : true);
+        filteredData = filteredData.filter(x => filter.courseTitle ? x.courseTitle.toLowerCase().includes(filter.courseTitle.toLowerCase()) : true);
+        filteredData = filteredData.filter(x => filterCategories(Object.keys(x.details), filter.categories));
+
+        if(filteredData.length > 0){
+          $('#caseTable').empty();
+          for (var record of filteredData) {
+            $('#caseTable').append('<tr><td>'+ record.caseCode + '</td>'+ 
+                                  '<td>'+ record.university + ' - ' + record.department + '</td>'+
+                                  '<td>'+ record.courseTitle + '</td>'+
+                                  '<td>'+ record.lecturer + '</td>'+
+                                  '<td>'+ record.credits + '</td>'+
+                                  '<td>'+ record.classSize + '</td>'+
+                                  '<td><a href = "caseDetails.html?case='+ record.caseCode +'"> See </a></td></tr>'
+                                  );
+
+          }
+          $('.success-result').show();
+          $('.no-result').hide();
+        }
+        else {
+          $('.no-result').show()
+          $('.success-result').hide();
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="index.html">SL Best Practice</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="caseStudyLibrary.html">Case Library</a>
+              </li>
+            </ul>
+            <form class="d-flex" id="form">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+    </div>
+    <div class="container">
+      <div class="search">
+        <h2 class="title">Case Study Search </h2>
+          <div class="row">
+            <div class="col">
+              <h4>Case Study Details</h4>
+              <form>
+                <div class="mb-3">
+                  <label class="form-label">Key Elements</label>
+                  <select id="categories" class="form-select" multiple></select>
+                </div>
+                <div class="mb-3">
+                  <label class="form-label">University</label>
+                  <select id = "universitySelect" class="form-select">
+                    <option value="">--Select University--</option>
+                  </select>
+
+                </div>
+                <div class="mb-3">
+                  <label class="form-label">Department</label>
+                  <select id = "departmentSelect" class="form-select">
+                    <option value="">--Select Department--</option>
+                  </select>
+                </div>
+            </div>
+            <div class="col">
+              <h4>Course Information</h4>
+              
+              <div class="mb-3">
+                <label class="form-label">Domain of Disciplinary</label>
+                <input id="domain" class="form-control" aria-describedby="emailHelp">
+              </div>
+              <div class="mb-3">
+                <label class="form-label">Case Code</label>
+                <input id="caseCode" class="form-control" aria-describedby="emailHelp">
+              </div>
+              <div class="mb-3">
+                <label class="form-label">Course Title</label>
+                <input id="courseTitle" class="form-control" aria-describedby="emailHelp">
+              </div><br><br><br>
+            <button type="button" class="btn btn-primary" onclick="getResult()">Search</button>
+            </div>
+            </form>
+          </div>
+        </div>
+        <div class="result">
+          <h2 class = 'title'>Searching result</h2>
+          <div class="success-result">
+            <table class="table table-hover" id='table'>
+            <thead>
+              <tr>
+                <th scope="col">Case Code</th>
+                <th scope="col">University - Department</th>
+                <th scope="col">Course Title</th>
+                <th scope="col">Course Lecturer</th>
+                <th scope="col">Course Credit</th>
+                <th scope="col">Class Size</th>
+                <th scope="col">See Details</th>
+              </tr>
+            </thead>
+            <tbody id="caseTable">
+              <tr>
+              </tr>
+            </tbody>
+          </table>    
+          </div>
+          <div class="no-result">
+            <p> No results </p>
+          </div>
+          <div class="caseDetails">
+
+          </div>
+        </div>
+    </div>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-eMNCOe7tC1doHpGoWe/6oMVemdAVTMs2xqW4mwXrXsW0L84Iytr2wi5v2QjrP/xp" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
