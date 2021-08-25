@@ -34,22 +34,6 @@
       const urlParams = new URLSearchParams(queryString);
       const caseCode = urlParams.get("case");
       var targetCase = data.filter((x) => x.caseCode == caseCode)[0];
-
-      function populateData(params, id) {
-        id = "#" + id;
-        console.log(id);
-        if (typeof params == "string") {
-          $(id).text(params);
-        } else {
-          for (var content of params) {
-            console.log(content);
-            $(id).append("<h5>" + content.header + "</h5>");
-            $(id).append("<br/>");
-            $(id).append("<p>" + content.text + "<p>");
-            $(id).append("<br/>");
-          }
-        }
-      }
     </script>
   </head>
   <body>
@@ -106,8 +90,6 @@
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#panelsStayOpen-collapseOne"
-              aria-expanded="true"
-              aria-controls="panelsStayOpen-collapseOne"
             >
               Course Details
             </button>
