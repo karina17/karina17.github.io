@@ -48,19 +48,17 @@ var selectedCategories;
 function populateData(params, id) {
   id = "#" + id;
   if (typeof params == "string") {
-    $(id).text(params);
+    $(id).append(params);
   } else {
     for (var content of params) {
       $(id).append("<h5>" + content.header + "</h5>");
-      $(id).append("<br/>");
-      $(id).append("<p>" + content.text + "<p>");
-      $(id).append("<br/>");
+      $(id).append("<p class = 'content'>" + content.text + "<p>");
     }
   }
 }
 
 function addPreamble(key, caseTitle, department, university, lecturer) {
-  $('#' + key).append("<p><i>The following " + categories[key] + " practice was extracted from the case " + caseTitle + ". This course was offered by the " + department + " of " + university + ". The interviewed teacher was " + lecturer + ".</b></p>")
+  $('#' + key).append("<p><i>The following " + categories[key] + " practice was extracted from the case " + caseTitle + ". This course was offered by the " + department + " of " + university + ". The interviewed teacher was " + lecturer + ".</i></p>");
 }
 
 function createAccordion(category){
@@ -74,8 +72,6 @@ function createAccordion(category){
 }
 
 function getResult() {
-  $('.result').show();
-  $('.accordion').empty();
   var filteredData = [];
 
   var filter = {
@@ -87,32 +83,44 @@ function getResult() {
     categories: $("#categories :selected").map((_, e) => e.value).get()
   }
 
-  let filterCategories = (arr, target) => target.every(v => arr.includes(v));
+  if (filter.categories.length > 0){
+    $("#categories").removeClass("is-invalid");
+    $("#error").hide();
 
-  filteredData = data.filter(x => filter.university ? x.university == filter.university : true);
-  filteredData = filteredData.filter(x => filter.department ? x.department == filter.department : true);
-  filteredData = filteredData.filter(x => filter.domain ? x.domain.toLowerCase().includes(filter.domain.toLowerCase()) : true);
-  filteredData = filteredData.filter(x => filter.caseCode ? x.caseCode == filter.caseCode : true);
-  filteredData = filteredData.filter(x => filter.courseTitle ? x.courseTitle.toLowerCase().includes(filter.courseTitle.toLowerCase()) : true);
-  filteredData = filteredData.filter(x => filterCategories(Object.keys(x.details), filter.categories));
+    let filterCategories = (arr, target) => target.every(v => arr.includes(v));
 
-  if(filteredData.length > 0){
-    $('#success-result').empty();
-    for (var key of filter.categories){
-      $('#'+key).empty();
-      createAccordion(key);
-      for(var record of filteredData){
-        addPreamble(key, record.caseTitle, record.department, record.university, record.lecturer);
-        populateData(record.details[key].content, key);
-        $("#"+key).append("<hr/>")
+    let filteredData = [];
+    filteredData = data.filter(x => filter.university ? x.university == filter.university : true);
+    filteredData = filteredData.filter(x => filter.department ? x.department == filter.department : true);
+    filteredData = filteredData.filter(x => filter.domain ? x.domain.toLowerCase().includes(filter.domain.toLowerCase()) : true);
+    filteredData = filteredData.filter(x => filter.caseCode ? x.caseCode == filter.caseCode : true);
+    filteredData = filteredData.filter(x => filter.courseTitle ? x.courseTitle.toLowerCase().includes(filter.courseTitle.toLowerCase()) : true);
+    filteredData = filteredData.filter(x => filterCategories(Object.keys(x.details), filter.categories));
+    
+    $('.result').show();
+    if(filteredData.length > 0){
+      $('#success-result').empty();
+      $('.accordion').empty();
+      for (var key of filter.categories){
+        $('#' + key).empty();
+        createAccordion(key);
+        for(var record of filteredData){
+          addPreamble(key, record.caseTitle, record.department, record.university, record.lecturer);
+          populateData(record.details[key].content, key);
+          $("#" + key).append("<hr/>")
+        }
       }
+      $('.success-result').show();
+      $('.no-result').hide();
     }
-
-    $('.success-result').show();
-    $('.no-result').hide();
+    else {
+      $('.no-result').show()
+      $('.success-result').hide();
+    }
   }
   else {
-    $('.no-result').show()
-    $('.success-result').hide();
+    $("#categories").addClass("is-invalid");
+    $("#error").show();
+    $('.result').hide();
   }
 }

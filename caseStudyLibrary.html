@@ -24,11 +24,10 @@
     <script type="text/javascript">
         
       $(document).ready(function() {
-          console.log(data)
         for (var record of data) {
           $('#caseTable').append('<tr><td>'+ record.caseCode + '</td>'+ 
                                 '<td>'+ record.university + ' - ' + record.department + '</td>'+
-                                '<td>'+ record.courseTitle + '</td>'+
+                                '<td>'+ record.caseTitle + '</td>'+
                                 '<td>'+ record.lecturer + '</td>'+
                                 '<td>'+ record.credits + '</td>'+
                                 '<td>'+ record.classSize + '</td>'+

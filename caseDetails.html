@@ -91,7 +91,7 @@
               data-bs-toggle="collapse"
               data-bs-target="#panelsStayOpen-collapseOne"
             >
-              Course Details
+              Case Description
             </button>
           </h2>
           <div
@@ -101,7 +101,7 @@
           >
             <div
               class="accordion-body"
-              id="courseDescription"
+              id="caseDescription"
               style="white-space: pre-wrap;"
             ></div>
           </div>
@@ -335,19 +335,7 @@
       <script type="text/javascript">
         $(".title").text(targetCase.courseTitle);
 
-        var ids = [
-          "#courseDescription",
-          "#partnership",
-          "#linkage",
-          "#service",
-          "#reflection",
-          "#assessment",
-          "#support",
-          "#communityPractice",
-          "#evaluation",
-          "#challenges"
-        ];
-
+        const ids = Object.keys(categories);
         const caseDetails = targetCase.details;
 
         for (let category in caseDetails) {
@@ -355,7 +343,7 @@
         }
 
         ids.forEach((x) => {
-          if (!$(x).text()) $(x).parent().parent().hide();
+          if (!$("#" + x).text()) $("#" + x).parent().parent().hide();
         });
       </script>
     </div>

@@ -27,7 +27,14 @@
       color: grey;
       font-style: italic;
     }
-
+    #error {
+      display: none;
+      color:  red;
+      padding-left: 20px;
+    }
+    .content {
+      margin-top: 10px;
+    }
   </style>
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
   <script type="text/javascript" src="helper.js"></script>
@@ -109,12 +116,13 @@
             <div class="mb-3">
               <label class="form-label">Key Elements <span class="grey-color">(Hold Ctrl/CMD for multiple selection)</span></label>
               <select id="categories" class="form-select" size="10" multiple></select>
+              <span id="error" class="help-block">Please select a key element</span>
             </div>
           </form>
         </div>
     </div>
     <div class="result">
-      <h2 class = 'title'>Searching result</h2>
+      <h2 class = 'title'>Search results</h2>
       <div class="success-result">
         <div class="accordion">
         </div> 
