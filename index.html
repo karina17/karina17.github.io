@@ -40,7 +40,7 @@
   <script type="text/javascript" src="helper.js"></script>
   <script type="text/javascript" src="data.js"></script>
   <script type="text/javascript">
-
+    loadModule();
     $(document).ready(function() {
       for (var item of universityList){
         $('#universitySelect').append($('<option>', {value: item, text: item}));
@@ -52,10 +52,6 @@
 
       for (var [key, value] of Object.entries(categories)){
         $('#categories').append($('<option>', {value: key, text: value}));
-      }
-
-      for (var item of subElements){
-        $('#subElements').append($('<option>', {value: item, text: item}));
       }
     });
 
@@ -122,7 +118,7 @@
         </div>
     </div>
     <div class="result">
-      <h2 class = 'title'>Search results</h2>
+      <h2 class = 'title'>Search result</h2>
       <div class="success-result">
         <div class="accordion">
         </div> 

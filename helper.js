@@ -1,3 +1,6 @@
+let universityList = [];
+let deptList = [];
+
 const categories = {
   caseDescription : "Case Description",
   partnership: "Partnership",
@@ -11,36 +14,10 @@ const categories = {
   challenges: "Challanges"
 };
 
-const subElements = [
-"Transactional partnership",
-"Transformational partnership",
-"Sustainable partnership",
-"Meaningful service (from the perspective of students",
-"Direct or indirect service",
-"Short-term intensive service",
-"20-40 hours regular service",
-"Student-led service",
-"Understanding Service-Learning",
-"Writing to reflect: journal, reflective essay, term paper",
-"Speaking to reflect: consultation, presentation",
-"Course "
-];
-
-const test = [];
-
-const universityList = [
-"CityU",
-"CUHK",
-"EdUHK",
-"HKBU",
-"HKU",
-"HKUST",
-"LU",
-"OUHK",
-"PolyU"
-];
-const deptList = ['Department of Visual Arts', 'Department of Computing'];
-
+function loadModule(){
+  universityList = [...new Set(data.map(x => x.university))];
+  deptList = [...new Set(data.map(x => x.department))];
+}   
 
 var panelCount = 0;
 var selectedCategories;
@@ -73,7 +50,6 @@ function createAccordion(category){
 
 function getResult() {
   var filteredData = [];
-
   var filter = {
     university: $('#universitySelect').val() ,
     department: $('#departmentSelect').val(),
@@ -82,6 +58,8 @@ function getResult() {
     caseTitle: $('#caseTitle').val(),
     categories: $("#categories :selected").map((_, e) => e.value).get()
   }
+
+  console.log(filter.caseTitle);
 
   if (filter.categories.length > 0){
     $("#categories").removeClass("is-invalid");
@@ -94,7 +72,7 @@ function getResult() {
     filteredData = filteredData.filter(x => filter.department ? x.department == filter.department : true);
     filteredData = filteredData.filter(x => filter.domain ? x.domain.toLowerCase().includes(filter.domain.toLowerCase()) : true);
     filteredData = filteredData.filter(x => filter.caseCode ? x.caseCode == filter.caseCode : true);
-    filteredData = filteredData.filter(x => filter.courseTitle ? x.courseTitle.toLowerCase().includes(filter.courseTitle.toLowerCase()) : true);
+    filteredData = filteredData.filter(x => filter.caseTitle ? x.caseTitle.toLowerCase().includes(filter.caseTitle.toLowerCase()) : true);
     filteredData = filteredData.filter(x => filterCategories(Object.keys(x.details), filter.categories));
     
     $('.result').show();
