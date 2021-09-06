@@ -35,7 +35,11 @@ function populateData(params, id) {
 }
 
 function addPreamble(key, caseTitle, department, university, lecturer) {
-  $('#' + key).append("<p><i>The following " + categories[key] + " practice was extracted from the case " + caseTitle + ". This course was offered by the " + department + " of " + university + ". The interviewed teacher was " + lecturer + ".</i></p>");
+  let practice = " practice"
+  if(key == 'caseDescription'){
+    practice = "";
+  }
+  $('#' + key).append($("<div class='preamble'>The following " + categories[key] + practice + " was extracted from the case " + caseTitle + ". This course was offered by the " + department + " of " + university + ". The interviewed teacher was " + lecturer + ".</div>").addClass('preamble'));
 }
 
 function createAccordion(category){
