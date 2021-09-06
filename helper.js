@@ -23,9 +23,10 @@ var panelCount = 0;
 var selectedCategories;
 
 function populateData(params, id) {
+  console.log(id);
   id = "#" + id;
   if (typeof params == "string") {
-    $(id).append(params);
+    $(id).append("<p class = 'content'>" + params + "</p>");
   } else {
     for (var content of params) {
       $(id).append("<h5>" + content.header + "</h5>");
@@ -63,8 +64,6 @@ function getResult() {
     categories: $("#categories :selected").map((_, e) => e.value).get()
   }
 
-  console.log(filter.caseTitle);
-
   if (filter.categories.length > 0){
     $("#categories").removeClass("is-invalid");
     $("#error").hide();
@@ -78,7 +77,7 @@ function getResult() {
     filteredData = filteredData.filter(x => filter.caseCode ? x.caseCode == filter.caseCode : true);
     filteredData = filteredData.filter(x => filter.caseTitle ? x.caseTitle.toLowerCase().includes(filter.caseTitle.toLowerCase()) : true);
     filteredData = filteredData.filter(x => filterCategories(Object.keys(x.details), filter.categories));
-    
+
     $('.result').show();
     if(filteredData.length > 0){
       $('#success-result').empty();
