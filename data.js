@@ -211,7 +211,6 @@ const data = [
   {
     caseCode: 3,
     university: universityList[9],
-    department: "Department of ???",
     caseTitle: "Motor Learning and Development",
     lecturer: "Prof. Cheung Siu Yin",
     details: {
@@ -263,7 +262,6 @@ const data = [
   {
     caseCode: 4,
     university: universityList[4],
-    department: "Department of ???",
     caseTitle: "Community Engagement through Service-Learning",
     lecturer: "Ms. CHAN Wing-yee, Constance",
     details: {
@@ -311,7 +309,7 @@ const data = [
           },
           {
             header: "Field supervisors in community centers",
-            text: "Cooperative organizations are very clear about the goals of the course. When students conduct service activities in the organizations, they are more willing to lead them to understand certain social issues. For example, one of the topics was about poverty. The staff in the organization explained the poverty-related phenomena before and after each service activity. During the service process, the staff led students to observe from some perspectives, and connected the experiences of students with what they had seen from the newspaper and literature.\n\nCompared with course instructors, the staff in the organization were more familiar with the communities they serve, and could explain the relationship of the issues with the specific community groups. It was easier for students to understand. Poverty-related theories could be used to explain specific situations and problems in Hong Kong. Students’ understanding of poverty was also reflected in the feedback and reports of the student groups.\n\nFor example, sometimes after the completion of service activities, the social workers in the organization initiated to lead students to conduct review and reflection. Social workers were well aware of the focus of the course, and they could play the roles of co-educators to help students sort out and deepen their experience in service activates. It was more effective for the social workers in the organization to point out the free-riders or students’ poor performance because the social workers directly expressed their expectations and unsatisfactory work areas. They would also relate how the students could cope with their needs. Students receiving direct feedback from the organization would realize the organization’s perspectives and concerns as well as their own performance from others’ views. Students could often make adjustments and change quickly accordingly."
+            text: "Coo perative organizations are very clear about the goals of the course. When students conduct service activities in the organizations, they are more willing to lead them to understand certain social issues. For example, one of the topics was about poverty. The staff in the organization explained the poverty-related phenomena before and after each service activity. During the service process, the staff led students to observe from some perspectives, and connected the experiences of students with what they had seen from the newspaper and literature.\n\nCompared with course instructors, the staff in the organization were more familiar with the communities they serve, and could explain the relationship of the issues with the specific community groups. It was easier for students to understand. Poverty-related theories could be used to explain specific situations and problems in Hong Kong. Students’ understanding of poverty was also reflected in the feedback and reports of the student groups.\n\nFor example, sometimes after the completion of service activities, the social workers in the organization initiated to lead students to conduct review and reflection. Social workers were well aware of the focus of the course, and they could play the roles of co-educators to help students sort out and deepen their experience in service activates. It was more effective for the social workers in the organization to point out the free-riders or students’ poor performance because the social workers directly expressed their expectations and unsatisfactory work areas. They would also relate how the students could cope with their needs. Students receiving direct feedback from the organization would realize the organization’s perspectives and concerns as well as their own performance from others’ views. Students could often make adjustments and change quickly accordingly."
           },
         ]
       },
