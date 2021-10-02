@@ -1,0 +1,42 @@
+.title {
+  margin: 30px;
+}
+.result {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: none;
+}
+.success-result {
+  display: none;
+}
+.no-result {
+  display: none;
+}
+.grey-color {
+  color: grey;
+  font-style: italic;
+}
+#error {
+  display: none;
+  color:  red;
+  padding-left: 20px;
+}
+.content {
+  margin-top: 10px;
+}
+.preamble {
+  padding: 15px 0 0 10px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-radius: 3px;
+  border-left-color: #428bca;
+  color: #004085;
+}
+hr {
+  margin: 50px 0;
+  border: 2px solid #428bca;
+}
+body {
+  margin-bottom: 50px;
+}
