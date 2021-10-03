@@ -20,14 +20,23 @@
         $('#universitySelect').append($('<option>', {value: item, text: item}));
       }
 
-      for (var item of deptList){
-        $('#departmentSelect').append($('<option>', {value: item, text: item}));
-      }
-
       for (var [key, value] of Object.entries(categories)){
         $('#categories').append($('<option>', {value: key, text: value}));
       }
+
+      
     });
+
+    function syncDept() {
+      let deptList = [];
+      $('#departmentSelect').empty();
+      $('#departmentSelect').append($('<option>', {value: "", text: "--Select Department--"}));
+      const university = $('#universitySelect').val();
+      deptList = [...new Set(data.filter(x=> x.university == university && x.department).map(x => x.department))];
+      for (var item of deptList){
+        $('#departmentSelect').append($('<option>', {value: item, text: item}));
+      }
+    }
 
   </script>
 </head>
@@ -68,7 +77,7 @@
           </div>
           <div class="mb-3">
             <label class="form-label">University</label>
-            <select id = "universitySelect" class="form-select">
+            <select id = "universitySelect" class="form-select" onchange ="syncDept()">
               <option value="">--Select University--</option>
             </select>
           </div>

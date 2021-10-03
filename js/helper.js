@@ -15,15 +15,14 @@ const categories = {
 };
 
 function loadModule(){
-  universityList = [...new Set(data.map(x => x.university))];
-  deptList = [...new Set(data.map(x => x.department))];
+  universityList = [...new Set(data.filter(x=> typeof(x.university) == "string").map(x => x.university))];
+  deptList = [...new Set(data.filter(x=> x.department).map(x => x.department))];
 }   
 
 var panelCount = 0;
 var selectedCategories;
 
 function populateData(params, id) {
-  console.log(id);
   id = "#" + id;
   if (typeof params == "string") {
     $(id).append("<p class = 'content'>" + params + "</p>");
@@ -71,7 +70,7 @@ function getResult() {
     caseTitle: $('#caseTitle').val(),
     categories: $("#categories :selected").map((_, e) => e.value).get()
   }
-
+  console.log(filter.department)
   if (filter.categories.length > 0){
     $("#categories").removeClass("is-invalid");
     $("#error").hide();
@@ -79,7 +78,7 @@ function getResult() {
     let filterCategories = (arr, target) => target.every(v => arr.includes(v));
 
     let filteredData = [];
-    filteredData = data.filter(x => filter.university ? x.university == filter.university : true);
+    filteredData = data.filter(x => filter.university ? x.university == filter.university || x.university.includes(filter.university) : true);
     filteredData = filteredData.filter(x => filter.department ? x.department == filter.department : true);
     filteredData = filteredData.filter(x => filter.domain ? x.domain.toLowerCase().includes(filter.domain.toLowerCase()) : true);
     filteredData = filteredData.filter(x => filter.caseCode ? x.caseCode == filter.caseCode : true);
