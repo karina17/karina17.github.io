@@ -1,5 +1,5 @@
  <!doctype html>
-  <html lang="en">
+  <html lang="cn">
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -11,17 +11,17 @@
     <title>SL Best Practice</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link href='https://fonts.googleapis.com/css?family=Spartan' rel='stylesheet'>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
-  <script type="text/javascript" src="js/helper.js"></script>
-  <script type="text/javascript" src="js/data-en.js"></script>
-  <script type="text/javascript">
-    loadModule("EN");
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+    <script type="text/javascript" src="js/helper.js"></script>
+    <script type="text/javascript" src="js/data-cn.js"></script>
+    <script type="text/javascript">
+    loadModule("CN");
     $(document).ready(function() {
       for (var item of universityList){
         $('#universitySelect').append($('<option>', {value: item, text: item}));
       }
 
-      for (var [key, value] of Object.entries(categories)){
+      for (var [key, value] of Object.entries(categoriesCn)){
         $('#categories').append($('<option>', {value: key, text: value}));
       }
 
@@ -45,23 +45,23 @@
   <div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.html">SL Best Practice</a>
+        <a class="navbar-brand" href="index-cn.html">SL Best Practice</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+              <a class="nav-link active" aria-current="page" href="index-cn.html">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="caseStudyLibrary.html">Case Library</a>
+              <a class="nav-link" href="caseStudyLibrary-cn.html">Case Library</a>
             </li>
           </ul>
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                EN
+                CN
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li><a class="dropdown-item" href="index.html">EN</a></li>

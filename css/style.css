@@ -40,3 +40,17 @@ hr {
 body {
   margin-bottom: 50px;
 }
+
+.navbar-nav {
+  flex-direction: row;
+}
+
+.nav-link {
+  padding-right: .5rem !important;
+  padding-left: .5rem !important;
+}
+
+.me-auto .dropdown-lang {
+  left: auto !important;
+  right: 0px;
+}

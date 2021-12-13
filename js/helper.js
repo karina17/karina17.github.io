@@ -2,7 +2,7 @@ let universityList = [];
 let deptList = [];
 
 const categories = {
-  caseDescription : "Case Description",
+  caseDescription: "Case Description", 
   partnership: "Partnership",
   linkage: "Linkage and Integration",
   service: "Meaningful Service activities",
@@ -14,7 +14,20 @@ const categories = {
   challenges: "Challanges"
 };
 
-function loadModule(){
+const categoriesCn = {
+  caseDescription: "個案說明",
+  partnership: "夥伴合作關係",
+  linkage: "聯結及整合課程",
+  service: "具意義的服務活動",
+  reflection: "反思",
+  assessment: "學習評核",
+  support: "支援系統",
+  communityPractice: "實踐社群",
+  evaluation: "課程評估及改進",
+  challenges: "應對挑戰"
+}
+
+function loadModule(lang){
   universityList = [...new Set(data.filter(x=> typeof(x.university) == "string").map(x => x.university))];
   deptList = [...new Set(data.filter(x=> x.department).map(x => x.department))];
 }   
@@ -54,7 +67,7 @@ function createAccordion(category){
   panelCount++;
   $( ".accordion" ).append($('<div></div>').addClass('accordion-item').attr({id: 'item' +panelCount})
     .append($('<h2></h2>').attr({id: 'heading' + panelCount}).addClass('accordion-header')
-      .append($('<button></button>').text(categories[category]).addClass('accordion-button').attr({type: 'button', "data-bs-toggle": 'collapse', "data-bs-toggle": 'collapse', "data-bs-target":"#collapse" + panelCount}))));
+      .append($('<button></button>').text(categoriesCn[category]).addClass('accordion-button').attr({type: 'button', "data-bs-toggle": 'collapse', "data-bs-toggle": 'collapse', "data-bs-target":"#collapse" + panelCount}))));
 
   $('#item' + panelCount).append($('<div></div>').addClass('accordion-collapse collapse show').attr({id: "collapse" + panelCount,"aria-labelledby":"heading" + panelCount})
     .append($('<div></div>').addClass("accordion-body").attr({id : category}).css("white-space", "pre-wrap")));
