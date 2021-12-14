@@ -1054,5 +1054,167 @@ const data = [
         content: "For Dr. Chan, the main challenge was that for students from the social work profession, it was relatively difficult for them to pick up the services. They had higher anxiety and challenge in differentiating community service from their own professional practice. Some of them would undermine the service and think that the community service was too easy for them while others would raise the bar of excellence so high that they became too demanding on themselves as well as the service NGO.\n\nFor students who set higher bar for their performance, Dr. Chan attempted to solve the problem by re-emphasizing to the students that this was not a social work practicum, but a community service. He tried to tell the students to set lower requirement because it was unreasonable to have high demand on students who were not registered social workers."
       }
     }
+  },
+  {
+    caseCode: 15,
+    university: universityList["polyu"],
+    department: "Department of Biomedical Engineering",
+    caseTitle: "Reducing the Scientific Divide in Secondary Students through STEM (Science, Technology, Engineering and Mathematics) Projects",
+    lecturer: "Dr Lau Hin Chung",
+    details: {
+      caseDescription: {
+        content: [
+          {
+            header: "",
+            text: "Case 15 reports on a 3-credit service-learning course titled ‘Reducing the Scientific Divide in Secondary Students through STEM (Science, Technology, Engineering and Mathematics) Projects’ (hereinafter referred to as STEM Projects). This course was offered for a certain period by Dr Lau Hin Chung, who is a Senior Teaching Fellow in the Department of Biomedical Engineering at the Hong Kong Polytechnic University."
+          },
+          {
+            header: "Background of the course",
+            text: "Dr Lau became director of the STEM Projects course in 2013. Since then, there have been changes in the activity modes of the course and the backgrounds of students, and thus the types of training provided have also been changed.\n\nAt the beginning, the course was open only to students with a science and engineering background. The course quota was approximately 60 students, and approximately 30– 40 students enrolled each year. In 2013, however, the course was opened to all students, which resulting in 100 student enrolling. In the opinion of Dr Lau, this increase was beneficial because enabled more service-learning activities to performed than was possible with fewer students. The recipients of service were students from secondary schools, and the number of participating schools increased from one to eight. This increase in the number of service recipients resulted in more faculty members and university students joining the course to perform various service-learning projects. Over the years, these service-learning projects were continually revised to ensure that they were linked to the course curriculum and met the practical needs of the community.\n\n"
+          },
+          {
+            header: "Course structure and organisation",
+            text: "The STEM Projects course was a 3-credit compulsory course. The enrolled university students had to attend all lectures, seminars and relevant workshops before being allowed to participate in the service-learning projects. There were only four lectures provided over 4 weeks. Dr Lau explained that he reduced the teaching hours to enable the students to be more involved in and thus gain more knowledge from their service-learning projects. Dr Lau invited students to learn through experience by participating in the service-learning activities. Dr Lau pointed out that the type of teaching depended on the nature of the service-learning activities; for example, more training was provided to enhance the professional skills of students who were to be involved in service activities to monitor people’s health conditions. Nevertheless, students did not generally require specific professional knowledge to perform the activities, but rather theoretical knowledge. Their main tasks were to review the knowledge acquired by S1 and S2 secondary school students and determine how they could have taught this knowledge to the secondary school students in an interesting way."
+          },
+          {
+            header: "Distribution of engineering students between groups",
+            text: "Approximately 90% of the university students who enrolled in the STEM Projects course were not majoring in engineering; thus, teaching STEM subjects and the assemblage of machine components to secondary school students was expected to represent a challenge for them. Therefore, Dr Lau ensured that each team of university students had one or two students with an engineering background. In this way, each team had a wide range of professional knowledge and expertise, which enhanced its efficiency and effectiveness in the activities. For instance, students with an engineering background were expected to show a team how to assemble machine components; those with an educational background were expected to instruct a team on classroom- management; and those with a business background were expected to demonstrate to a team the appropriate use of business terms. This exchange of knowledge between different types of students widened their perspective and created a mutually beneficial learning platform."
+          }  
+        ]
+      },
+      partnership: {
+        content: "Dr Lau worked with colleagues at the Service-Learning and Leadership Office (SLLO) to contact interested secondary schools and define the service-learning projects. At that time, the Hong Kong Sheng Kung Hui (HKSKH) had launched an exhibition of product designs produced by students who had interacted with elderly people. Dr Lau was greatly impressed by this initiative and a proposed a similar type of cooperative project to the HKSKH staff. The SLLO asked additional schools whether they were interested in participating in this project and, if they were, directly contacted them to better define the collaboration."
+      },
+      service: {
+        content: [
+          {
+            header: "Sharing STEM products between secondary schools",
+            text: "Dr Lau organised a small-scale competition for all primary and secondary schools each July, in which students from secondary schools participating in the STEM Projects course were asked to display their STEM products. This competition had two aims: to enhance the motivation and engagement of students and teachers in the service-learning activities; and to show that STEM disciplines are not just about computer programming, as they can also be applied to develop simple technologies to assist people in need."
+          }
+        ]
+      },
+      reflection: {
+        content: "In the first years of the course, the university students were required to record their reflection on personal learning in a two-page document and conduct a group presentation. However, the writing of that document did not really benefit the students. Therefore, Dr Lau replaced this activity with one that required students to record aspects related to their service-learning experiences that warranted mention in their resumes (e.g. their personal growth and new relationships they had formed). Furthermore, the requirement for students to conduct a group presentation about their service-learning experiences was replaced with a requirement to write a document (i.e. a self-assessment report) of at least three pages about these experiences.\n\nDr Lau led briefings and debriefings (before and after the service-learning activities, respectively) to facilitate the university students’ tasks. At the first debriefing session, he reminded them about classroom management and to prepare appropriately for the next service-learning activity."
+      },
+      assessment: {
+        content: "The learning assessment comprised three steps. The first step involved the preparation of teaching materials (e.g. PowerPoint slides, booklets and laboratory notes) and the completion of an e-learning module delivered by the SLLO (concerning the basic principles of service-learning). The second step involved the services provided to the secondary school students and in meetings with schoolteachers. The course instructors directly assessed the performance of the university students at the secondary schools. For this assessment and the sake of consistency, a single instructor monitored the entire process of service provision in each secondary school to a specific group of students. On-site, the university students were assessed on their development after the service- learning activities (e.g. in terms of their familiarisation with the secondary school students and the new perspectives they had adopted). The third step involved an assessment of the self-assessment reports produced by the university students."
+      },
+      support: {
+        content: [
+          {
+            header: "",
+            text: "Dr Lau emphasised the importance of the SLLO’s support, which was mainly related to the provision of instructors and the training of student assistant (teaching assistants) for the course. The support of a large number of teaching staff ensured the smooth implementation of the service-learning activities. Since 2013, when the number of enrolled students increased, the SLLO had provided two to four instructors to support the course. When five secondary schools hosted service activities on the same day and at the same time, three to four instructors were required for the supervision of the activities. At each secondary school, an instructor and a teaching assistant worked together to coordinate the activities. Dr Lau emphasised that the course would have not been effective without the support of these instructors.\n\nThe SLLO instructors supervised the university students as they ran the service- learning activities, guided the students to perform self-assessments and scored their on- site performance. Each instructor was encouraged to supervise a specific group of students throughout the entire process to ensure consistency in the student performance assessments. The instructors were also encouraged to record details of any interesting events during the service-learning activities. A continuous interchange of supervisors between schools would not have provided a detailed overview of the entire process. For example, if the supervisors had remained in each school for only one day at a time, there would be no day-to-day background information on occurrences, such as arguments. The supervisors also taught some classes about team building and communication skills; however, due to budget restrictions, Dr Lau took over this teaching role in the last years of service-learning activities.\n\nThe SLLO instructors worked based on the hours required by the course instructors. For example, Dr Lau asked the SLLO instructors to take the university students to the schools, have meetings with them and help them in their self-assessments."
+          },
+          {
+            header: "Support from teaching assistants",
+            text: "The SLLO also provided a teaching assistant to support Dr Lau. In general, the teaching assistants involved in the activities had previously participated in service-learning courses and had received a scholarship for their good performance in these courses (i.e. grade B+ or above). Then, they had worked for 20 hours and undergone leadership training before taking up their roles as teaching assistants. They received additional payments from Dr Lau if they had worked for more than 20 hours, i.e., were more experienced. The teaching assistants were mainly involved in logistics management (e.g. data entry and recording of the students’ performance scores) and in the debriefing sessions with the university students."
+          },
+          {
+            header: "Provision of appropriate training",
+            text: "Initially, when the course was restricted to students with science and engineering backgrounds, no specific training was given to students prior to the service-learning activities. However, when the course was opened to students with other backgrounds, after-class training was arranged for those without an engineering background. The training provided knowledge on connecting wires and the assembly of machine components. After a change in the nature of the services offered (in response to the needs of elderly people), the university students started to teach secondary school students and, together with them, produced products for the elderly. In cases where the university students had difficulties in determining appropriate products, Dr Lau replaced the normal training with small group consultations to facilitate the solution of such problems within the groups."
+          }, 
+          {
+            header: "Small group consultations",
+            text: "Some students were initially confused about the topics they were expected to teach secondary school students and about which products could be suitable for elderly people. Dr Lau therefore arranged a consultation session with each student team, during which he guided them to discuss the problems typically faced by elderly people and to identify some technologies that could solve these problems. These sessions effectively improved the problem-solving skills of students and facilitated the development of their ideas."
+          },
+          {
+            header: "Financial support",
+            text: "The department allocated funding to the course based on the number of students enrolled. Most of the funding was used for hiring teaching and research assistants, and a portion was spent on teaching materials that supported the students in their service- learning activities. Thus, the students were able to purchase all necessary materials (e.g. the machine components necessary for assembling products). A budget of HK$300– 500 was set for each student team, and Dr Lau encouraged the recycling of materials for use in subsequent semesters."
+          }
+        ]
+      },
+      evaluation: {
+        content: [
+          {
+            header: "",
+            text: "Dr Lau believes that this type of course could be improved by encouraging more interactions between the university students and the service recipients, as he noticed that 40 hours did not result in an optimal experience for both parties involved. In particular, he notes that a longer experience would allow university and secondary school students form stronger relationships. Thus, to enhance the effectiveness of the program, improve mutual communication and facilitate the self-assessment of university students, Dr Lau suggests that more time should be allocated to service- learning activities."
+          },
+          {
+            header: "Serving mode of the activities",
+            text: "Over time, the target of the service-learning activities changed: from secondary school students to a combination of secondary school students and elderly people. STEM knowledge was only transferred to secondary school students; elderly people instead received useful products created by the secondary school students under the guidance of the university students. Nevertheless, STEM knowledge informed the creation of products for people in need. Additionally, by including elderly people in the activities, Dr Lau aimed to develop the understanding of secondary school students about the important social problem of population ageing."
+          },
+          {
+            header: "Improvements in the training approach",
+            text: "In the first 2 years of the course, during the morning of service-provision days, university students with a science and engineering background taught the youngest secondary school students on any topics related to STEM (e.g. the functioning of muscles and how their contraction can generate power). During the afternoon, they provided 1:1 or 1:2 tutoring to the oldest secondary school students. However, from 2014 onwards, the university students were required to teach specific topics in teams and design their lesson plans. Dr Lau provided a teaching framework for the university students, which improved service structure and effectively supported the university students to achieve their teaching goals."
+          }
+        ]
+      },
+      challenges: {
+        content: [
+          {
+            header: "Need for professional knowledge",
+            text: "As mentioned, Dr Lau ensured the teams included at least one or two students with an engineering background, and thus other students had education, science or business backgrounds. This diversity of skills within each team facilitate their successful completion of the activities.\n\nDr Lau was aware that university students who did not have a good understanding of technological concepts would have difficulties in designing helpful products for elderly people. Moreover, he had to carefully consider which kinds of technological knowledge could be effectively taught to secondary school students. Thus, Dr Lau organised the above-mentioned consultations with teams to guide discussions on these matters. In particular, he advised students that they could use different types of technology, other than IT, to develop products to assist elderly people, e.g. mechanical technology to produce a walking stick."
+          },
+          {
+            header: "Problems in sustaining partnerships",
+            text: "Two main problems were encountered in maintaining partnerships with secondary schools. The first problem was that after some years of partnership, some schools chose to run their own programme independently. The second problem was that some school teachers, although initially enthusiastic about the provision of activities to their secondary school students, subsequently felt that the activities did not generate any benefits for their school students."
+          }
+        ]
+      }
+    }
+  },
+  {
+    caseCode: 16,
+    university: universityList["hkbu"],
+    department: "School of Chinese Medicine",
+    caseTitle: "Paths to Service Leadership in Health Services",
+    lecturer: "Dr Kevin K. M. Yue",
+    details: {
+      caseDescription: {
+        content: [
+          {
+            header: "A brief history",
+            text: "This course was offered from 2014 and typically attracted 60 to 80 students. It was a cross-disciplinary general education course focused on service leadership and incorporated many service-learning elements over the years.\n\nDr Yue maintained the cross-disciplinary nature of the course by, for example, co- organising the section on service leadership with the Department of Religion and Philosophy and the Office of Student Affairs. Dr Yue guided the Office of Student Affairs to organise community partners for the course, such as Caritas Medical Centre (明愛醫院) and United Christian Hospital (聯合醫院), according to their ethos and the medical services they provide. This ensured that students gained a comprehensive understanding of how to best service people’s healthcare needs."
+          },
+          {
+            header: "Course structure and organization",
+            text: "The Paths course was divided into two parts, a service part and a learning part, with their relative proportions or nature varying from one course to another. For example, the service part of the first and second Paths courses in Jiangxi was larger than the learning part, but the service part of the second course covered campus design, a completely topic to that covered in the service part of the first course. Thus, the Paths course structure was highly dynamic and changed according to the needs of a given situation, whilst remaining student-oriented. This was because the Paths course was itself a form of service, in this case to students, and the service was about providing others with the help they needed. In turn, this gave service-providers the greatest satisfaction."
+          }
+        ]
+      },
+      partnership: {
+        content: [
+          {
+            header: "Establishing Relationships",
+            text: "Dr Yue emphasises that service learning involves achieving a positive and cooperative relationship with various stakeholders. For example, at the beginning of a Paths course, when students met older adults and provided them with services for the first time, they did not have close relationship with their clients. Therefore, Dr Yue arranged for students to provide services to the elderly clients a second time, which allowed students to have detailed discussions with the clients. This enabled a tacit understanding to develop between students and clients, with teachers present to provide support and guidance."
+          },
+          {
+            header: "Maintaining sustainable relationship",
+            text: "Dr Yue explains that teachers and students gained the greatest benefit from the Paths course by maintaining a long-term (i.e., 3–5 year) relationship with their service partners. Specifically, if teachers and students could meet the same and specific service recipients for a period of time, they gained a comprehensive understanding of the needs of the service recipients and how to make adjustments to service provision, when required.\n\nDr Yue emphasises that unlike other courses, which are highly structured with a clearer scope of learning, the Paths course was a process of mutual interaction with a clearer definition of the expected learning outcome. Furthermore, he notes that service learning encompasses learning how to make adjustments to respond to the specific needs of clients during service provision. Thus, it is crucial for students to understand that a clear dialogue must be established between service provider and client, as this ensures that clients and the broader community receive the help they need and that service targets are met."
+          }
+        ]
+      },
+      linkage: {
+        content: "The Paths course was designed to teach students how to provide health-related information to elderly clients in a manner that is not purely didactic or theoretical. Thus, by spending time interacting and conversing with their elderly clients, students learnt how to best communicate with them. Students were prepared for this by being shown videos on how to (and how not to) interact with the elderly, and by practising such interactions by role-playing. Consequently, they improved their communication skills. In addition, when students visited various community centres and had personal interactions with elderly residents, they developed a deep understanding of the living conditions and community environment of these residents, and were able to practice conversing with them. All of this was excellent training.\n\nThe Paths course was somewhat structured, in that students were also taught acupuncture points and massage (including instruction in the hands-on body technique known as tuīná), and then provided these services to elderly clients. Students were also required to design activities for the elderly clients, and thus gained skills in many key service-learning learning areas, such as teamwork and communication."
+      },
+      service: {
+        content: "Chinese medicine students have many opportunities to provide services. Thus, they must be taught in accordance with their aptitude and the actual situations they are likely to encounter. However, most students in the Paths course were not Chinese medicine students and many knew little about Chinese medicine, as they had not received such treatments since childhood. Dr Yue thus used examples to teach students the practical utility of Chinese medicine, such as how to apply acupuncture at hegu (合谷) points to treat headaches and at fengchi (風池) points to treat colds, which immediately relieves the discomfort of clinical symptoms. Students were invariably delighted to learn these techniques to help themselves and their family members and friends, and no doubt became very popular as a result!\n\nDr Yue clarifies that in addition to the Paths course being designed for students, it had to teach them how best to serve those in need of health services. That is, in addition to helping students to gain satisfaction from learning well, we must also ensure that this learning will enable them to contribute to the community.\n\nFurthermore, service learning teaches students how to help beyond the boundaries of a community. Thus, the Paths course empowered students to broaden their horizons and apply what they had learned about providing services in any area of their life.\n\nDr Yue understands that each student has a different learning start-point and thus a different level of commitment to learning, which means that students’ learning progress varies. Thus, he focuses on helping students to make positive changes in their service-provision abilities. Many students in the Paths course exhibited such changes, often within a short period of time. Such rapid changes are not seen students in courses based on traditional teaching paradigms."
+      },
+      reflection: {
+        content: "After students completed each session of service provision, they participated in a sharing session. This enabled them to learn from each other while their memories were fresh about their service-provision experience, and thus they internalised and deepened their understanding of what they had learned, which prepared them for their next service-provision session. For example, students’ second session of service provision to their elderly clients involved helping their clients to complete questionnaires.\n\nStudents were also required to design activities that are suitable for the elderly, which involved consideration of many elements and required much teamwork and communication. Ultimately, students gained extensive experience and developed excellent levels of empathy and creativity."
+      },
+      assessment: {
+        content: "Students were assessed on their understanding of the content provided in lectures and in case studies. They also role-played various scenarios to practise the service and leadership competencies (knowledge, skills, values and attitudes) they acquired.\n\nThe Paths course assessment graded students’ (1) understanding of the service and healthcare needs of their clients; (2) organisation, interpersonal relationships and problem-solving skills, (3) performance in follow-up service activities; and (4) reflections on the experience and learning in service; and (5) service attitude and social attention to the groups in the community who require healthcare assistance."
+      },
+      support: {
+        content: [
+          {
+            header: "University commitment",
+            text: "The university’s commitment was important to the success of the Paths course, because it required the allocation of resources and affected teachers’ workloads ."
+          },
+          {
+            header: "Faculty members",
+            text: "Faculty members had to be cooperative and committed to be teachers on the Paths course, as it required teachers to step out of their comfort zone, maintain an open attitude, learn new things and explore different areas of service learning. Dr Yue acknowledges that teachers typically have a good understanding of students and their needs. As such, the teachers’ key tasks in the Path course were to master the other aspects of service learning they needed to teach to students, including specialised skills such as acupuncture and massage. Five or six teachers and registered Chinese medicine practitioners closely guided and monitored the students’ provision of these specialised services to elderly clients, as students might not have been able to answer all of the questions asked by the clients.\n\nDr Yue led by example by accompanying students into the community and actively communicating about their experience, feelings and thinking with students. He was also involved when students were providing services by themselves, rather than in a group. Such support from teachers helped students to enjoy providing service and allowed them to speak freely with teachers and their fellow students on their experiences. By reflecting on their experiences, students could develop their ideas and suggest areas for improvement."
+          },
+          {
+            header: "Preparation and training",
+            text: "Students acquire knowledge from teachers, but the sources of new knowledge are continually changing. For example, a principal stated that a few years ago he did not expect communication via WhatsApp and the use of aerial photography to become so popular, and that he now realises that life-long learning is inevitable. Thus, after completing university, students will have to learn new knowledge by themselves, as it would have previously been unknown and thus would not have been taught to them by teachers. It is therefore critical for teachers to cultivate and train students’ self- learning abilities. In addition, each student has a certain set of strengths and can thus master certain skills more easily than others, which means that students should be provided with an environment to develop the all-round attributes of graduates that the university hopes to cultivate. Teachers are educators and must therefore be committed to cultivating the strengths of students."
+          }
+        ]
+      },
+      evaluation: {
+        content: "If we want to know the effectiveness of a course, we usually ask students. However, as we need an integrated evaluation plan, I think we should also have collected the opinions of teachers, service organisations and service targets. This is because each stakeholder in service provision has different expectations and goals, and it is important that stakeholders share best practices with each other. If we learn the service provision-related practices of others we can better adapt to the needs of different clients. This will broaden our perspective and may offer us some useful role models."
+      }
+    }
   }//end case
 ];
