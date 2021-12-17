@@ -72,7 +72,7 @@ const data = [
           {
             header: "對理論的理解",
             text:
-              "「兒童」這一課程第二至第四節，主要是介紹與兒童和青少年發展相關的理論、一些 正向心理學的理論，以及生態模式(ecological model)等基本理論。第四課節結束後，大 學生需要完成一份反思日誌(reflective journal)，綜合個人成長過程,以探討所學理論如 何幫助他們理解服務對象的特點和發展。"
+              "「兒童」這一課程第二至第四節，主要是介紹與兒童和青少年發展相關的理論、一些 正向心理學的理論，以及生態模式(ecological model)等基本理論。第四課節結束後，大學生需要完成一份反思日誌(reflective journal)，綜合個人成長過程,以探討所學理論如 何幫助他們理解服務對象的特點和發展。"
           },
           {
             header: "服務過程中的直接觀察",
@@ -106,7 +106,7 @@ const data = [
           {
             header: "課程導師",
             text:
-              "服務學習不同於傳統的教學， 這要求導師認識到服務學習的概念，並相信它可以對學 生的學習產生積極的影響，它還要求導師對服務學習的特點有一個具體而透徹的理解。 此外，學科導師還需要投入更多的時間和精力來處理與其他利益相關者相關的事務， 例如學生和其他服務合作夥伴。課程講師還需要為學生與合作夥伴和服務對象一起設 計和實踐服務計劃提供額外的指導。因此，課程導師也需要花時間深入了解合作夥伴 的期望和需求。\n\n關於「兒童」課程，在服務活動之前的準備階段，課程導師對學生提供指導和支持， 包括教案設計的指導。例如，當發現小學生可能難以理解時，課程導師會建議學生調 整內容的難度。課程導師亦會建議所選課題是否適合內地學生，並會建議大學生如何 根據小學的背景和情況修改計劃。例如，一組學生設計了與性教育相關的主題， 課程 導師會解釋內地與香港在小學在生身體健康和性教育方面的差異，並建議大學生如何 修改教學計劃和方法。學生們參考導師的意見，修改了自己的教學計劃。\n\n再比如「兒童」課程側重於促進正向青年發展 (positive youth development)。 理解和尊 重学生的多样发展是重要原則之一。在指導大學生設計教學計劃和教學實踐中，課程 導師非常注重引導大學生照顧學生多样性。如果有學生跟不上進度，導師會就如何設置分層內容和課程作業提出具體建議。在實施過程中，也考慮到學童的多元化，根據 學生參與活動的差異給與不同的支持和幫助。\n\n當服務活動正式開始時，大學生們會遇到一些無法預料的挑戰，他們的情緒也會波動。 課程導師十分注重為學生提供情緒上的支援。他們將觀察大學生在態度、參與程度和 對學生的關懷方面的表現和改進，導師會認可學生的長處並提出改進建議。 導師觀察 到，當大學生受到積極鼓勵時，他們往往更願意主動改進教學計劃，並考慮多種策略 來提高小學生的學習效率。例如，在教學的第一天，通常每個人都感到沮喪，導師會 著重給大學生情感上的支持，告訴他們第一天的表現並不是最重要的。導師更關心大 學生在整個服務過程中所投入的時間和精力，他們對服務活動的態度，對小學生的關 懷，以及在此過程中大學生的進步。導師們肯定了大學生的長處，並指出了他們需要 改進的地方。這鼓勵了大學生願意主動改變自己，修正自己的計劃，並考慮採取各種 策略與小學生相處\n\n此外，若期望服務活動進行順，很大程度上取決於大學與社區之間良好的合作關係。 大學生在服務活動中的表現已經成為建立這種關係的關鍵因素，因此導師對大學生的 表現也更為關注。\n\n作為所有本科生的必修課，參與學生的背景和學習動機各不相同。例如，一些大學生 在課程開始時參與度較低，他們只是想滿足基本課程要求。從以往的經驗來看，大學 生在與小學生直接接觸時，往往會改變對服務活動的看法。因此，課程導師會細心提 供適時的相關指導，引導學生了解服務活動的意義和功能。由此帶出的好消息是，大 學生的學習動機往往會在這個服務學習過程中得到積極的培養。"
+              "服務學習不同於傳統的教學， 這要求導師認識到服務學習的概念，並相信它可以對學 生的學習產生積極的影響，它還要求導師對服務學習的特點有一個具體而透徹的理解。 此外，學科導師還需要投入更多的時間和精力來處理與其他利益相關者相關的事務， 例如學生和其他服務合作夥伴。課程講師還需要為學生與合作夥伴和服務對象一起設 計和實踐服務計劃提供額外的指導。因此，課程導師也需要花時間深入了解合作夥伴 的期望和需求。\n\n關於「兒童」課程，在服務活動之前的準備階段，課程導師對學生提供指導和支持， 包括教案設計的指導。例如，當發現小學生可能難以理解時，課程導師會建議學生調 整內容的難度。課程導師亦會建議所選課題是否適合內地學生，並會建議大學生如何 根據小學的背景和情況修改計劃。例如，一組學生設計了與性教育相關的主題， 課程 導師會解釋內地與香港在小學在生身體健康和性教育方面的差異，並建議大學生如何 修改教學計劃和方法。學生們參考導師的意見，修改了自己的教學計劃。\n\n再比如「兒童」課程側重於促進正向青年發展 (positive youth development)。 理解和尊 重学生的多样发展是重要原則之一。在指導大學生設計教學計劃和教學實踐中，課程 導師非常注重引導大學生照顧學生多样性。如果有學生跟不上進度，導師會就如何設置分層內容和課程作業提出具體建議。在實施過程中，也考慮到學童的多元化，根據 學生參與活動的差異給與不同的支持和幫助。\n\n當服務活動正式開始時，大學生們會遇到一些無法預料的挑戰，他們的情緒也會波動。 課程導師十分注重為學生提供情緒上的支援。他們將觀察大學生在態度、參與程度和 對學生的關懷方面的表現和改進，導師會認可學生的長處並提出改進建議。 導師觀察 到，當大學生受到積極鼓勵時，他們往往更願意主動改進教學計劃，並考慮多種策略 來提高小學生的學習效率。例如，在教學的第一天，通常每個人都感到沮喪，導師會 著重給大學生情感上的支持，告訴他們第一天的表現並不是最重要的。導師更關心大 學生在整個服務過程中所投入的時間和精力，他們對服務活動的態度，對小學生的關 懷，以及在此過程中大學生的進步。導師們肯定了大學生的長處，並指出了他們需要 改進的地方。這鼓勵了大學生願意主動改變自己，修正自己的計劃，並考慮採取各種 策略與小學生相處\n\n此外，若期望服務活動進行順，很大程度上取決於大學與社區之間良好的合作關係。 大學生在服務活動中的表現已經成為建立這種關係的關鍵因素，因此導師對大學生的 表現也更為關注。\n\n作為所有本科生的必修課，參與學生的背景和學習動機各不相同。例如，一些大學生 在課程開始時參與度較低，他們只是想滿足基本課程要求。從以往的經驗來看，大學 生在與小學生直接接觸時，往往會改變對服務活動的看法。因此，課程導師會細心提 供適時的相關指導，引導學生了解服務活動的意義和功能。由此帶出的好消息是，大學生的學習動機往往會在這個服務學習過程中得到積極的培養。"
           },
           {
             header: "學生導師",
@@ -741,121 +741,121 @@ const data = [
   {
     caseCode: 11,
     university: universityList["lu"],
-    caseTitle: "Life Sciences: the way life works",
+    caseTitle: "生命科學：探索生命如何運作  ( Life Sciences: The Way Life Works)",
     lecturer: "Dr. Fong Jonathan",
     details: {
       caseDescription: {
-        content: "Case 11 reports a three-credit service-learning course titled “Life Sciences: the way life works” (Hereinafter referred to as Life). This course was offered by Dr. Fong Jonathan, he is from Lingnan University.\n\nThis course gives a brief introduction to the Origin of Life and provides an understanding of the physical conditions that enable planet Earth to create and sustain life. A practical approach was adopted to arouse the curiosity and interest of the students in the subject in order to stimulate critical scientific thinking. The course addressed the basic chemistry and biochemistry of vital components for the living cell. The course explained the role and functions of the various organs and organelles in plants and animals.\n\nThe course “Life sciences: the way life works” aims to introduce the origin of life and provides an understanding of the physical conditions that enable planet earth to create and sustain life. A practical approach is adopted to arouse the curiosity and interest of the students in the subject in order to stimulate critical scientific thinking. With Dr. Fong’s connection, he managed to cooperate with the Ocean Park Hong Kong (香港海洋公園) (hereafter called the Ocean Park). Different from other courses which aimed to serve the elderly, in this “Life” course, students and the elderly went together to the Ocean Park to teach the visitors some knowledge about biology, such as shark and conservation. The Ocean Park wanted the visitors to learn more about knowledge of ocean protection. The practical experience for students not only help them broaden their knowledge scope, but also address life issues competently and with confidence. The intergeneration service activities allowed students to change their views towards the elderly and to learn more from them."
+        content: "個案十一報導了一個名為 「生命科學：探索生命如何運作」（以下簡稱「生命」）的三學分服務學習課程。 本課程是由來自嶺南大學(以下簡稱 嶺大) 方教授所提供。\n\n本課程簡要介紹生命的起源，並了解使地球能夠創造和維持生命的物理條件。將採用實用的方法來激發學生對該學科的好奇心和興趣，以激發批判性的科學思維。本課程涉及活細胞重要成分的基礎化學和生物化學，並解釋了植物和動物中各種器官和細胞器的作用和功能。 \n\n這課程「生命科學：生命的運作方式」旨在介紹生命的起源，並讓參加的學生了解使地球能夠創造和維持生命的物理條件。課程採用實用的方法來激發學生對學科的好奇心和興趣，以促進批判性的科學思維。透過方敎授的聯繫，他成功地與香港海洋公園（以下簡稱海洋公園）合作。與其他為老年人服務的課程不同，在這門「生命」課程中，學生和老年人會一起來到海洋公園，向遊客傳授一些生物知識，例如鯊魚和保育等。學生們的實踐經驗不僅可以幫助他們拓寬知識層面，還可以讓他們充滿自信，以個人的能力解決關於生命的問題。跨代服務活動讓學生改變對老年人的看法，並向他們學習。"
       },
       partnership: {
-        content: "Dr. Fong thinks that it would be easily to conduct the service-learning course if it can be integrated into the existing and well-structured activities delivered by the community partners. Prior to the service-learning, he was planning to partner with a primary school. However, there were 35 students in his course and it was impossible that all of them came to teach in only one primary school. It would also become complicated if students were allocated to different schools and handled different projects and in such regard, Dr. Fong was concerned with the complexity of supervising different projects in one service-learning course. Therefore, he tried to look for existing activities that were of large scales yet very well-structured that students could just join to do service-learning. At that time, he had some friends working in the Ocean Park and they happened to have some projects that they could work together with Dr. Fong.\n\nAfter the confirmation of the partnership, students came to the Ocean Park and took up the roles to deliver the activities designed by the Ocean Park. Due to time constraint, Dr. Fong did not ask students to design the activities.\n\nAlso, he believed that his service-learning project could be delivered smoothly if he could integrate his course content into the structured programme already been available in Ocean Park. As a matter of fact, the Ocean Park had fruitful experience in organizing these activities. Moreover, most of the partners in the Ocean Park used to study in Lingnan University, and therefore they were familiar with the courses and students’ situation."
+        content: "方敎授認為，如果能够將服務學習課程融入社區合作夥伴所提供現有而結構良好的活動中，便會很容易進行。 在舉辦服務學習課程之前，他計劃與一所小學合作， 但他的課程有35名學生，不可能安排所有學生都只進入一所小學任教。 如果學生被分配到不同的學校和處理不同的項目，也會變得很複雜。在這方面，方敎授關注在一門服務學習課程中監督不同項目的複雜性。 因此，他嘗試尋找現有一些規模大但結構非常好的活動，學生便可以參加服務學習。 剛好當時他有一些朋友在海洋公園工作，他們有一些項目正好可以與方敎授合作。\n\n當合作的關係確立後，學生們來到海洋公園，帶領海洋公園設計的活動。 由於時間有限，方敎授沒有讓學生設計活動。此外他相信如果他能將課程內容整合到海洋公園已有的完整結構的課程中，他的服務學習項目便能順利地展開。 事實上，海洋公園在舉辦這些活動方面有著豐富的經驗。 而且，海洋公園的大部分的合作夥伴都曾在嶺南大學就讀，因此對課程及學生的情況都很熟悉。(XXX)"
       },
       linkage: {
         content: [
           {
-            header: "Reinforcing learning knowledge through real interaction with customers",
-            text: "Dr. Fong thinks that this course is related to General Education (通識教育), which will be easier to link it to service learning when compared with the compulsory courses. Many students with different majors can enroll in this course.\n\nDr. Fong understands that if the students do not have background knowledge of Science, they may find the lectures boring and meaningless to them. The addition of service-learning component in this course, to some extent, would be more attractive to students because through doing services, students experienced how they could apply what they had learnt from the class into reality and this even facilitated their understanding of the knowledge taught in class.\n\nFor instance, many tourists in the Ocean Park would come up with different questions that students, with insufficient background knowledge, could not answer immediately. Therefore, during breaks, the students would initiate to look for the answers by themselves through the internet. They would put more efforts in answering the tourists’ questions, which, in return, helped them develop self-learning habits. This learning process further facilitated their understanding of the learning contents."
+            header: "與客戶互動強化學習知識",
+            text: "與必修課相比，方敎授認為本課程與通識教育相關，更容易與服務學習聯繫起來。 而許多不同專業的學生都可以報讀這課程。方敎授明白，如果學生沒有科學的背景知識，他們可能會覺得課堂講座對他們來說枯燥無味。 本課程增加服務學習部分，在一定程度上對學生更有吸引力，因為通過服務，學生體驗如何將課堂上學到的知識應用到現實中，這甚至促進了他們理解對課堂所傳授有關知識。\n\n例如，海洋公園的許多遊客會提出不同的問題，學生的背景知識不足，無法立即回答。 因此，在課間休息時，學生們會主動通過互聯網自行尋找答案。 他們會更加努力地回答遊客的問題，從而也有助於他們養成自學的習慣。 這個學習過程進一步促進了他們對學習內容的理解。 "
           },
           {
-            header: "Adapting teaching contents with the Ocean Park experience",
-            text: "Dr. Fong said that Life Sciences is a general education (GE) course in Lingnan University. Compared with the compulsory courses, GE courses are more flexible in terms of the 8."
+            header: "配合海洋公園的教學內容 (English version incomplete)",
+            text: "方教授表示，「生命科學」是嶺大的一門通識教育課程。 與必修課相比，通識教育課程在教學內容上更加靈活。 海洋公園希望遊客能夠多了解保護海洋的知識。 因此，他將題目改編成「生命科學：生命的運作方式」，以適應服務學習的主題，而且由於他有設備，這門課程對學生來說變得更加容易明白。"
           }
         ]
       },
       service: {
         content: [
           {
-            header: "More experiential practice in society",
-            text: "Dr. Fong believes that the service-learning curriculum enables students to gain more work experience. He agrees that the collaboration with the Ocean Park not only can enhance students’ course knowledge, but can also help them gain more opportunities to communicate with other people in society. For example, students, during their service days in the Ocean Park, enlarged their social network through building personal relationships with the management staff. If the students are interested in this field, it is easier for them to continue working as interns or to find full-time jobs in the Ocean Park later on."
+            header: "更多的社會中實踐機會",
+            text: "方教授相信服務學習課程能讓學生獲得更多的工作經驗。他認同與海洋公園的合作，不僅可以提升學生的課程知識，更可以幫助他們獲得更多與社會上其他人士交流的機會。 例如，學生在海洋公園服務期間，通過與管理人員建立個人關係擴大了他們的社交網絡。 如果學生對這個領域感興趣，他們更容易繼續實習，或者以後在海洋公園找到全職工作。"
           },
           {
-            header: "Intergenerational learning experience",
-            text: "Dr. Fong said it was very special for students to have intergenerational learning experience. Most of the elderly came back to study after they retired. He felt that most of these elderly were very diligent in learning. This atmosphere, to some extent, influenced students’ attitudes towards studying. That was, students might appreciate their learning opportunities more. Furthermore, students and the elderly not only conducted service together, but also had lunch break together. During the break time, they had the chance to discuss things other than things related to service-learning. This interaction time enhanced their relationship.\n\nDr. Fong added that the intergenerational learning experience also facilitated students to reflect on their behaviors. For example, most of the students were very shy during service- learning activities. After seeing that the elderly was very active in participation, students tended to do more reflections later on.\n\nFurthermore, Dr. Fong mentioned that many students felt that the intergenerational learning experience changed their mindset towards the elderly. The elderly was the service recipients in their previous service-learning activities. However, this time, their roles had changed to become the service providers."
+            header: "跨代學習經歷",
+            text: "方教授表示，學生有跨代學習的經歷是很特別的。 大部分老 年人退休後回來讀書。 他覺得這些老年人大多學習都很勤奮。 這種氛圍在一定程度上影響了學生的學習態度。 也就是說，學生可能會更珍惜他們的學習機會。 此外，學生和老年人不僅一起提供服務，在中午還一起用膳，於休息時間，他們有機會討論服務學習以外的事情， 這段互動時間增進了他們的關係。\n\n方教授還認為，跨代學習的經歷也有利於學生反思自己的行為。 例如，大多數學生在服務學習活動中非常害羞。 同學們看到老年人的積極參與後，往往會有較多的反思。此外，方教授提到許多學生覺得跨代學習的經歷改變了他們對老年人的看法。 長者是他們以往服務學習活動的服務對象，  然而，這一次，他們的角色變成了服務提供者。"
           },
           {
-            header: "Students’ training and preparation",
-            text: "Students’ training involved two parts. For the first part, the staff from the Ocean Park would give training to students, which was related to the knowledge about animals. For the second part, Dr. Fong would talk about logistics and customer service."
+            header: "學生的培訓和準備",
+            text: "學生的培訓包括兩個部分。 第一部分，海洋公園的工作人員會為學生提供有關動物知識的培訓。 第二部分，方教授會講解講物流和僱客服務。"
           }
         ]
       },
       assessment: {
-        content: "For the assessment, scores were distributed to class tests, service-learning reflection and service-learning project. The class tests accounted for 50% of the assessment, with two tests for the semester term. The service-learning reflection accounted for 15% of the assessment. Dr. Fong provided two to three pages of rubrics for students to write the reflective journal, which involved the guiding questions. For the service-learning project, Dr. Fong allocated 35% of the assessment to evaluate students’ performance during the visits, group participation and qualities of activities produced. In terms of the performance during the visits and qualities of the service activities, three parties involved in the evaluation.\n\nFor instance, staff from the OSL and teaching assistants gave scores based on students’ performance in delivering the service activities. Meanwhile, staff from the Ocean Park also gave scores. Dr. Fong mentioned that these scores were normally high as long as students showed up in the service sites. For the group presentation, members in each group could evaluate each other and allocate scores. Dr. Fong hoped that involving students in each group to do evaluations could further strengthen students’ responsibilities in service activities."
+        content: "關於學習評核的分數被分配到課堂測驗、服務學習反思和服務學習項目。一個學期共有兩次的課堂測驗，佔總考核評估的50%。服務學習反思佔評估的15%。方教授為學生寫反思日誌提供了二到三頁的評核說明 (rubrics)，其中包括指導性問題。在服務學習項目中，方教授分配了 35% 的評核分數，用於評核學生在訪問、小組參與和提供活動質量方面的表現。在訪問過程中的表現和服務活動的質量方面，三方面都會給予評分。例如，來自 OSL的同事及助教會根據學生在提供服務活動中的表現作出評分。同時，海洋公園的工作人員也會評分。方教授提到，只要學生出現在服務地點，他們所獲的分數通常都很高。對於小組報告 (presentation)，每個小組的成員可以互相評核並分配分數。方教授希望讓每個小組的學生參與評核，以進一步加強學生在服務活動中的責任感。"
       },
       communityPractice: {
         content: [
           {
-            header: "Support from the Office of Service-Learning (OSL)",
-            text: "The Office of Service-Learning (OSL) in Lingnan University provides some personnel support to faculty members in service-learning related courses, such as teaching assistants. Dr. Fong had three teaching assistants (TAs) to help him during his course. These TAs were students who had taken service-learning courses and they were interested in offering help. Their main responsibilities were related to handling administration, logistics and on-site supervision, but not academic isssues. For example, each of them went to supervise students’ service on-site at least once. During their supervision, they managed the students and also handled the administration things, such as asking students to submit materials to the Ocean Park and registering students’ names."
+            header: "服務研習處的支持 ",
+            text: "OSL 為教職員提供服務學習相關課程的一些人力資源，例如助教。在課程期間有三位助教（Teaching Assistants） 來幫助方教授。 這些助教是曾參加服務學習課程的學生，他們有興趣提供幫助。 他們的主要職責是處理行政、後勤事務和現場監督，而不是關於學術問題。 例如，他們每一位最少一次到現場督導學生所提供的服務，在期間，他們管理學生，處理行政事務，例如要求學生向海洋公園提交材料及登記學生姓名等。"
           }
         ]
       },
       evaluation: {
-        content: "Time and training design are two areas for improvement in this course. Firstly, more time could be added in this course. With more time, students could complete a project on their own. Meanwhile, Dr. Fong also mentioned that most of these students did not have science background knowledge, which would be difficult for students to complete the project. He is still working on improving the course. He added that the ideal situation was that with enough time provided, students were able to design an activity for the course and then taught the visitors in the Ocean Park to join this activity.\n\nSecondly, Dr. Fong still wants to work with the elderly so as to facilitate intergenerational learning experience, but this would lead to the same issue as having a large group of participants. Dr. Fong said, after discussion with his colleagues, they came up with a solution that the training could be tailored for two to three times. With more training, students would be able to know more about their roles in the service-learning activities."
+        content: "本課程需要改進時間和培訓設計兩方面的條件。首先，本課程可以增加更多時間。有了更多的時間，學生便可以自己完成一個項目。同時，方教授也提到，這些學生大多沒有科學背景知識，學生完成項目會很困難。他仍在努力改進課程。他補充說，理想的情況是，學生有足夠的時間為課程設計活動，然後指導海洋公園的遊客參加這項活動。\n\n其次，方教授仍然希望與長者一起工作，以促進跨代學習體驗，但這會導致與有很多參加者的活動相同的問題。方教授說，經過與同事的討論，他們提出了一個解決方案，培訓可以定制為二到三次。通過更多的培訓，學生將能夠更多機會地了解他們在服務學習活動中的角色。"
       },
       challenges: {
-        content: "Dr. Fong had encountered some challenges when teaching this course when the number of enrolled students had increased to 45 in the class. With the large number of participants, it affected the quality of the training prior to the service-learning.\n\nAnother challenge was that there were around 8-9 exchange students. For these students, they were not allowed to do service in the Ocean Park because it was considered as a job. Dr. Fong did not know this issue before. He quickly made the decision of rearranging these students to do other service-learning activities organized within the Lingnan University. In future, Dr. Fong would ask exchange students to apply for the working visa earlier if they are willing to enroll in the service-learning activities in the Ocean Park."
+        content: "當這課程的註冊的學生人數增加到45人時，方教授在教授這門課程時會面對一些挑戰。 由於參加人數眾多，影響了服務學習前的培訓質量。\n\n另一個挑戰是班級裏大約有 八至九 名交換生。 對於這些學生來說，他們不被允許在海洋公園服務，因為它被認為是一份工作。 方教授之前不知道這個問題。 他很快就決定重新安排這些學生在嶺大組織及進行其他服務學習活動。 在未來，如果交換生願意參加海洋公園的服務學習活動，方教授會要求他們儘早申請工作簽證。"
       }
     }
   },
   {
     caseCode: 12,
     university: universityList["lu"],
-    caseTitle: "News Writing",
+    caseTitle: "新聞寫作",
     lecturer: "Prof. Siu Yan-ho",
     details: {
       caseDescription: {
-        content: "Case 12 reports a three-credit service-learning course titled “News Writing” (Hereinafter referred to as Writing). This course was offered by Prof. Siu Yan-ho, he is from Lingnan University.\n\nProf. Siu Yan-ho first came into contact with service-learning in 2015. At that time he worked with a professor to teach the course 'Classical Fiction'. With the collaboration with the Elder Academy, this course uses the method of “life retrospective narrative, and combines literary creation and interviews to help students understand the process of literary creation. During this process, Dr. Siu gains a lot of experience in service-learning, including how to cooperate with organizations, the formulation of processes and goals, the guidance of writing, and conducting interviews. The accumulation of these experiences has helped him follow up the development of service-learning courses in the future.\n\nIn 2016-2017, Dr. Siu started to independently teach a service-learning course, namely 'news writing'. This course inherited the interview and writing model of 'classical novels'. The service target was still mainly the elderly. It was launched with the theme of 'Hong Kong in 1950' and with the purpose to integrate the interview writing knowledge acquired in the classroom and service-learning, and to let students practice what they had learned. He said that there were three main reasons for the choice of the theme of interviewing the elderly and Hong Kong in 1950: First, Dr. Siu was interested in the study of Hong Kong literature and culture after the World War II, that is, after 1950. However, there was a lack of relevant information during that period and little could be understood. Through the survey through interview with the elderly, this missing part of the research data could be supplemented; second, he felt that the elderly of this age group were old and if that was not done at that time, there might not be any chance in the future. In addition, most of the elderly that he had contacted with had primary cognitive impairments. Even if they were in good health, their memory would inevitably deteriorate. Therefore, it would be better to do interviews and conduct surveys promptly with this group of old people whenever possible. Third, Dr. Siu believed that the history of Hong Kong in the 1950s and 1960s should be retained. He treated the retention of such history his personal responsibility to the Hong Kong community. He felt that this historical memory was precious and important to the interviewed elders, their families and communities.\n\nIn 2017-2018, Dr. Siu continued to work with the elderly centre in Hung Shui Kiu, but the theme was changed to 'Hong Kong in 1960' because the university wanted the instructors to present different courses. In addition, he had also increased the cooperation with other organizations, and the service target was still the elderly. The other organizations included were about food therapy services with the School of Chinese Medicine of Hong Kong Baptist University, co-organizing an exhibition of an era with Tai Kwun, and he also tried to move to Taiwan to have practice and to further enrich the curriculum model and outputs."
+        content: "個案十二報導了一個名為新「新聞寫作」（以下簡稱「寫作」）的三學分服務學習課程。 本課程是由來自嶺南大學中文系的蕭欣浩博士所提供。\n蕭欣浩博士第一次接觸服務學習是在2015年的時候。那時候他與一位教授合作教授「古典小說」這門課程。該課程與長者中心合作，運用生命回顧敘事的方法，結合文學創作與訪問，幫助學生理解文學的創作過程。在這過程中，蕭博士獲得了許多開展服務學習的經驗，包括如何與機構合作、擬定流程與目標、指導寫作及訪談等經驗。這些經驗的累積，有助蕭博士展開日後的服務學習課程。\n\n2016-2017年度，蕭博士開始獨立教授服務學習的課程，即「新聞寫作」。這門課程承接了「古典小說」中採訪加寫作的模式，服務對象也仍然是以長者為主，並以「1950年的香港」為主題展開，嘗試將課堂中所學有關採訪寫作知識與服務學習相結合，讓學生實踐所學。他表示，選擇以訪問長者、1950年的香港為主題主要有三個原因：一是蕭博士對二戰以後，即1950往後的香港文學文化有研究興趣，然而該時段的相關資料有所缺乏，而他所能了解的東西也較少，他相信通過長者的訪問調查，能夠補充該部分的研究資料; 二是蕭博士覺得，該年齡層的長者年紀較大，如果當時没有即時跟進，往後可能便沒有機會了。此外，蕭博士所接觸的長者很多都有初級認知障礙問題，他們即使身體健康狀態良好，難免記憶會退化模糊，所以如果想做採訪調查，及早做會較好; 三是蕭博士認為，保留五六十年代香港的記憶，是他對香港社區的責任，因為他覺得這份記憶無論對受訪長者個人、其家人以及社區都是珍貴的及重要的。\n\n到了2017-2018年度，蕭博士繼續與洪水橋的長者中心合作，但主題改為「1960年的香港」，原因是學校希望導師發展不同的課程。除此之外，他還增加了與其他機構的合作，服務對象仍然是長者，這包括與香港浸會大學中醫藥學院開展有關食療的服務，與大館合辦年代展覽，也嘗試走到台灣實踐計劃，進一步使課程模式和成果更加豐富。"
       },
       partnership: {
         content: [
           {
-            header: "",
-            text: "In the first year or two of doing service-learning, Dr. Siu’s contact with partner institutions was mainly established with the assistance of the OSL of LU. The rich experience and professional competence of the OSL can offer great help to novice instructors. Later, the instructors can add their inputs and develop greater awareness of the community. With the interpersonal network with the relevant communities strengthened, they would also try to find cooperative opportunities on their own. For example, in 2017, in addition to continuing the cooperation with Hung Shui Kiu Elderly Center, Dr. Siu also contacted the 'Tai Kwun' (大館) and co-organized the '1960s Exhibition'. He took the initiation to coordinate the cooperation between the 'Tai Kwun' organization and the OSL. The OSL supported with the provision of human resources while the main contact work was undertaken by Dr. Siu himself."
+            header: "關係的建立",
+            text: "剛開始做服務學習的一兩年，蕭博士與合作機構的聯繫主要是由嶺南大學的服務研習處(Office of Service-Learning, OSL）協助建立的。OSL豐富的經驗和專業的能力能夠給予新進導師很大的幫助。後來，隨著導師增加了對社區的認識及投入，加強了相關社區的人際網絡，他們也會嘗試自行尋找合作機會。例如在2017年，蕭博士除了延續與洪水橋的長者中心合作外，還自己聯繫到了「大館」，合作舉辦了「1960年代展覽」。在這次合作中，蕭博士是主動協調「大館」機構及OSL的合作工作。在這過程中，OSL協助提供人力資源，而主要聯繫的工作則由蕭博士自己承擔。"
           },
           {
-            header: "Expectations of partner institutions",
-            text: "Upon completion of the elderly stories or discussion of the local issues, Dr. Siu could give feedback to the local partner institutions and helped them understand better the elderly and the community, and then to improve policies and measures for the community. For example, regarding the relocation of community elders, Dr. Siu said that there was a certain implicit cultural constraints, and the results of service-learning courses could help community partners better understand this implicit culture and deal with related problem issues."
+            header: "合作機構的期望",
+            text: "當蕭博士的課程完成了長者的故事或者當地的議題經討論後，可反饋當地合作機構，幫助他們更深入地了解長者和社區，進而完善社區的政策和措施。舉例而言，關於社區長者的搬遷問題，蕭博士表示有一定隱性文化的約束，而服務學習的課程成果能夠幫助社區機構更好地了解該隱性文化，進而處理相關問題。"
           },
           {
-            header: "Establishment of cooperation network",
-            text: "In addition to the support of OSL in making contact with partner institutions, Dr. Siu himself would also look for cooperative opportunities. It required more time and energy to establish and maintain relationships. For example, there would be meetings outside the planned program schedule and therefore taking up extra time of instructors."
+            header: "建立合作網絡",
+            text: "蕭博士表示，雖然OSL會幫忙聯繫合作機構，他個人也會去尋找合作機會，但這往往需要使用較多的時間及精神去建立和維持關係。例如，導師與合作機構對計劃以外的邀約及會面也較難推辭，從而佔用導師額外的時間。"
           }
         ]
       },
       linkage: {
-        content: "'News Writing' is divided into a service-learning module and a non-service-learning module. The service-learning module is also known as the 'new writing service research plan' and it mainly contains two major parts, namely 'interview with people' and 'local topics'. In the 'interview with people' part, the students will form a group of two, and each group will interview an elderly to understand his life in Hong Kong in the 1950s, and gradually explore and understand the events experienced by the elderly and the related cultural context behind them. In the 'local topics' part, students had to have a deep understanding of the local community, including the need for field trips, discovering problems, collecting and integrating data, etc., and then discussing local issues through text, presenting the development of community history and the changes past and present.\n\nThe specific course content and arrangement are as follows:\n\n\t(1) Historical research: Students investigate and understand the background in the early stage before the service delivery, which helps the offering of the services that follow. For example, to communicate with the staff of the elderly center to understand the background of the elderly prior to the 'interview with people', or to pay field visit and collect information during the exploration of the 'local topic'.\n\n\t(2) Visits: Students have to conduct three interviews with the elders. For the first time, it aims to get acquainted with the elders and establish a relationship with them. The second visit is to define the scope of research, service and the subsequent articles. In the third visit, the students should have established a clear theme. Through interviews, the writing materials will be supplemented, or more detailed materials can be obtained orally, so that more in-depth character descriptions or plot narratives can be achieved.\n\n\t(3) Consultation interviews: Students need to conduct four consultation meetings with their instructors individually or in groups. They have to report the status of the visit and the difficulties encountered to the instructors to help them to understand the needs of the students and make corresponding adjustments.\n\n\t(4) Field visit: The staff members of the elderly centre would leads the students to enter the community to gain insight into the local community culture and history.\n\n\t(5) Results sharing: This includes class discussion and sharing, sharing of results and some follow-up activities. In the classroom discussion and sharing, everyone will study the difficulties and value in the service-learning process; in the results sharing session, the elderly, center staff and colleagues in service-learning will be invited, and the instructors will listen to the students' report on the learning results, and give comments ; and in the follow-up activities, that is, after the book about 'personal interview' has been compiled, the results of service-learning will be shared and passed on to the public in press conferences, exhibitions and other activities."
+        content: "「寫作」分為服務學習部分與非服務學習部分，其中服務學習部分的課程又名「新寫服研計劃」，主要包含兩大部分，分別是「人物專訪」與「地方專題」。其中於「人物專訪」部分，學生會以兩人為一組，每組訪問一位長者，以了解該名長者於1950年代的香港生活，從中逐步探討及明白長者所經歷的事件與背後所涉及的文化。而在「地方專題」的部分中，學生則需要深入地了解地方社區，包括需要實地考察、發掘問題、收集並整合資料等，然後透過文字探討地方議題，介紹社區歷史的發展與今昔變遷。具體的課程内容如下：\n\n\t • 歷史研究：學生於服務前期調查及瞭解背景，有助於後續的服務進行。例如在「人物專訪」中與長者中心的職員溝通，了解長者背景，又如在「地方專題」中實地考察及收集資料。\n\n\t • 探訪：學生需與受訪長者進行三次面談。第一次旨在熟悉長者，與長者建立關係；第二次探訪則確立研究範圍，服務與後續的文章寫作；而第三次探訪時，學生已有明確的主題，通過訪問補充寫作材料，或取得更仔細的口述資料，以便作深刻的人物描寫或情節敘述。\n\n\t • 諮詢面談：學生需與導師進行四次諮詢面談，包括以個人或小組的形式。學生需向導師匯報訪問的狀況與遇到的困難，以幫助導師了解學生的需要並作出相應的調整。\n\n\t  • 實地考察：長者中心的職員帶領學生走進社區，深入了解當地社區文化與歷史。\n\n\t • 成果分享：包括課堂討論分享，成果分享會以及後續活動。在課堂討論分享中，大家將探討服務學習過程中的困難及其價值；在成果分享會中，長者、中心職員及服務學習的同事會被邀請，導師會聆聽學生匯報學習成果，並稍作回應；而在後續的活動中，即「人物專訪」集結成書後，會於發佈會、展覽等活動中將服務學習所得的成果分享及傳遞給大眾。"
       },
       service: {
         content: [
           {
-            header: "Two-generation communication",
-            text: "Dr. Siu believes that promoting communication between the young and the elderly is one of the goals of his service-learning curriculum. Before taking up his service-learning course, some students might have stereotyped impressions of the elderly who were born in the 1950s and 1960s. The students felt that they were either more sick, old-fashioned, or compassionate. But after their contact with the elderly, the students would find that getting along with them was mostly pleasant, and they were more fascinated by the trend than the students could think of."
+            header: "兩代溝通",
+            text: "蕭博士認為，促使年青人和長者兩代人的溝通，是他服務學習課程中其中一個目的。在參與服務學習之前，有些同學可能會對50及60年代的老人有刻板的印象，覺得他們或是較多病痛、或是古板、或是悲天憫人。但於接觸後同學們會發現，與長者的相處大多是愉快的，他們比學生想像中更醉心潮流。"
           },
           {
-            header: "Impact on the elderly interview",
-            text: "At the end of the service, there would be a presentation meeting in which the elderly would be invited to cooperate with students, and their families would be invited as the audience. With the use of PPT, it was to show the life review and thoughts of the elderly. The family of the elderly often had a deeper understanding of the elderly and they would respond, “It turns out that my father is like this: and “It turns out that my husband loves me very much.” With this positive impact, it helped the elderly and their families to re-recognize family relationships.\n\nThe service-learning event also helped the elders to build their own meaning in life. At the beginning, many elders would say, “I am old. There is nothing special in life and nothing special to be interviewed.” However, during the interview, the students’ attention to and affirmation of the experiences of the elders could help them enhance their confidence and re-examine the value and meaning of their life.\n\nDr. Siu believes that people who do not necessarily do great things to be heroes, as long as they live wonderfully, they are heroes. He hopes to express the affirmation of ordinary life to the elderly, students, and even the general public through the power of words, which leads to a wider impact."
+            header: "對受訪長者的影響",
+            text: "在服務最後會有一場報告會，將邀請長者與學生合作進行，並邀請長者的家人作為觀眾。通過 PPT展示長者的生命回顧與想法，長者的家人常常會對長者有更深切的認識，「原來我的爸爸是這樣的」、「原來我的老公很愛我」。這對家庭關係造成正面的影響。\n\n服務學習也幫助長者去構建自己的人生意義，因為一開始的時候，許多長者會說：「我老了，人生也沒什麼特別，沒什麼好採訪的。」而學生在採訪時對他們經歷的重視與肯定，能夠幫助長者提升自信，重新審視自己人生的價值與意義。蕭博士認為，不一定處理大事的人才是英雄，但只要活得精彩，就是英雄了。 他希望把對平凡生活的肯定，通過文字的力量去傳遞給長者、學生、甚至社會大眾，進而造成更廣泛的影響。"
           },
           {
-            header: "Training and preparation",
-            text: "<i>Screening of service recipients</i>\n\nPrior to the service-learning, the instructor would understand the elders preliminarily and conduct a screening process through interviews. This was to ensure that the selected elders could accept the interviews and speak freely, thereby reducing the difficulty of interviews for students. According to Dr. Siu’s experience, the elders interviewed always had stories to provide, and students would never worry about a lack of interview topics. Problems arise, mostly because the students lacked preparation before the interview, or the publicity and coordination work of the partner organization was not good enough.\n\n<i>Preparatory workshops</i>\n\nIn the early stage of the course, there were two workshops about “communication skills” and “Hong Kong culture”. Colleagues from OSL would explain the concepts of service-learning and interview methods at the first workshop. In addition, staff of the elderly center would be invited to introduce the service targets and the skills of getting along with the elderly. The main objective of the cultural workshop was to let students understand the historical and cultural background of the issues discussed in the course. Students had to attend both workshops."
+            header: "培訓與準備",
+            text: "<i>受訪者的篩選</i>\n\n在服務學習開始之前，導師會初步了解和篩選受訪者，保證受訪的長者能夠接收採訪及 暢所欲言，以此降低學生的採訪難度。根據蕭博士的經驗，受訪長者總有故事可提供， 學生絶對不愁沒有採訪內容。問題的出現，多會是學生在採訪前缺乏準備，又或是合作 機構的宣傳及協調工作未能完善。\n\n<i>工作坊</i>\n\n在課程前期共設兩次工作坊，分別為「溝通技巧工作坊」以及「香港文化工作坊」。前 者邀請服務研習處同事講解服務學習的理念及採訪方法等。除此之外，還會邀請長者中 心職員為學生介紹服務對象及與長者相處的技巧等。而「香港文化工作坊」主要作用則 是讓學生瞭解課程議題下的歷史文化背景。學生都必須出席這兩次工作坊。"
           }
         ]
       },
       reflection: {
-        content: "Reflection consists of three parts. First, the reflection is about relationship between oneself and Hong Kong, the elderly, the community and etc. in of individual and group interview process, and the second part was for the students to think about what they had learned in the classroom and the related applications. Third, the students would reflect fully during the results sharing session and to rethink their relationship with the elderly.\n\nIn the early stage of the course, students can choose to participate in the service-learning part or non-service-learning part of 'news writing'. In the service-learning part, fixed interview subjects and themes had been set up, namely, the elderly in Hung Shui Kiu and 'Hong Kong in 1950'. In the non-service-learning part, there was no rigidly designated interview subject. The participating students could choose the interview subject and writing theme by themselves. In addition, there were specific requirements for the number of consultation meetings for service-learning students, but not for non-service-learning students. Dr. Siu explained that the reason for setting up this requirement was that students were not familiar with the elders and the interview difficulty was relatively high. The three consultations were required to ensure the support of the instructors to the students and the quality of the course. For students who participate in non-service-learning part, most of them would find people whom they knew well or friends as interview subjects, so the interview arrangement was relatively easy. Therefore, if non-service-learning students did not have questions to ask, they would not be forced to participate in the instructor’s consultation meetings."
+        content: "反思包括三個部分:一是在個人與小組的面談過程中反思自己與香港、長者、社區等的 關係，思考課堂所學與其應用;二是在課程討論時，學生發表與聆聽意見，引發更多的 反思;三是於成果分享會中作充份反思，讓學生重新思考自己與長者的關係。\n\n課程前期，學生可自行選擇參加「新聞寫作」中服務學習部分或是非服務學習部分。其中服務學習部分設置了固定的採訪對象與主題，即洪水橋的長者與「1950年的香港」。不同的是，非服務學習部分沒有硬性指定的採訪對象，參與的同學可自行挑選採訪對象及寫作主題。此外，服務學習的學生的諮詢面談次數有指定的要求，而非服務學習的學生則沒有。蕭博士解釋，如此規定是因為在服務學習中，學生對長者不熟悉，採訪難度較高，規定學生三次的諮詢，較能確保導師對學生的支持及課程的質量。而對於參加非服務學習的同學來說，他們大多會找自己熟悉的人或者朋友作為採訪對象，故採訪安排相對較易。所以如果非服務學習的學生沒有想諮詢的問題，不會強制要求他們參加導師諮詢活動。"
       },
       assessment: {
-        content: "Dr. Siu was responsible for all the course evaluation work. He would personally lead and participate in a number of activities, such as every workshop, visit and interview to ensure the quality of the course and to strive to give students immediate feedback and guidance. He expected to conduct a relatively comprehensive assessment through his full participation."
+        content: "蕭博士表示，所有的課程評核工作都由他一人負責。在課程中，蕭博士會親自帶領多項活動，比如每一次工作坊、探訪、面談他都會參與，一方面保證課程的質量，另一方面力求給予學生即時的反饋與引導，並希望做到相對全面的評核。"
       },
       challenges: {
         content: [
           {
-            header: "Communication issues with partner institutions",
-            text: "Before the service event, how the partner organization introduces the service-learning to the selected elders will directly affect the quality of service-learning. If they simply say to the elders: 'Come and participate!' without details, the elders will easily refuse directly, causing the service activities to fail. Dr. Siu explained that he was relatively lucky as the partner institution worked hard to promote the service-learning plan to the elderly, so the overall cooperation was relatively smooth. However, some colleagues also reported that it was extremely unpleasant to cooperate with the institution and the elderly. Therefore, the instructors and the representative of the partner institution should have a good communication before the operation of the service-learning project.\n\n<i>Cooperation with other universities</i>\n\nDr. Siu had collaborated with the School of Chinese Medicine of the Hong Kong Baptist University (HKBU) in a service-learning course, combining 'personal interviews' with 'Chinese medicine diet'. This joint effort allowed students of LU to be responsible for interviewing the elderly and students of HKBU could then provide dietary treatment plan based on interview content. However, there were some challenges in this process:\n\n\t(1) The setting of the curriculum separated the content that the students of the two universities were responsible for. Specifically, there was little overlap in the content of the responsibilities of the students of the two universities, resulting in less communication between the two parties, and there was no exchange of interview knowledge and Chinese medicine knowledge. The measure taken by Dr. Siu was to add additional workshops to give Lingnan students the opportunity to learn more about Chinese medicine.\n\t(2) The schedule of the two universities needed to be adjusted. For example, Dr. Siu would insist that Lingnan students paid three visits, however, HKBU had no such rigid requirements for students."
+            header: "與合作機構的溝通問題",
+            text: "在服務之前，合作機構如何向受訪長者介紹本次服務學習，會直接影響到服務學習的質量。如果只是簡單地對長者說：「來參與吧！」 而沒有詳細的介紹，長者們很容易就直接拒絕，導致服務活動無法進行。蕭博士解釋自己比較幸運，合作的機構都很努力地去向長者宣傳服務學習的計劃，故整體配合也比較順利。但也有同事反應與機構及長者合作極不愉快。因此，在服務學習項目運作之前，導師和合作機構的代表應該先進行良好的溝通。\n\n<i>與其他大學的合作</i>\n\n蕭博士曾與香港浸會大學 (以下簡稱浸大) 的中醫學院合作過服務學習課程，即將「人物採訪」與「中醫食療」結合，讓嶺南大學 (以下簡稱嶺大) 的學生負責採訪長者，浸大的學生根據採訪內容提供食療方案。然而在這過程中面對一些挑戰：\n\n\t1）課程的設計使兩所大學的學生負責的內容有所分隔。具體而言，兩所大學的學生負責的內容重疊的很少，導致雙方溝通較少，也沒有交換採訪知識與中醫藥知識。蕭博士採取的措施是增加額外的工作坊，讓嶺大的學生有機會了解多一些的中醫藥知識。\n\t(2）兩所大學時間安排上需要磨合。例如，蕭博士會堅持嶺大的學生作三次訪問。但浸大則無相關硬性的要求。"
           },
           {
-            header: "Rethinking the credit requirement and no credit requirement",
-            text: "By coincidence, Dr. Siu received funding from the Office of Service-Learning to carry out a cross-regional service-learning project in Taiwan, applying the 'news writing' curriculum. This was a separate project with no credit requirements. Students who had participated in 'news writing' service-learning would be recruited. According to Dr. Siu’s observation, students were more open to non-credit projects than courses with credit requirements. Specifically, in credit courses, homework is linked to scores and many of the students' considerations will be about test scores, such as the accuracy of words used and the level of detail in descriptions. The advantage of this is that they can well constrain and regulate their own output, but the disadvantage is that the choice of topics and the use of sentences will be more conservative, with fewer breakthroughs and innovations. In a separate project, students would have a more personal style of using sentences, and the choice of topics was also related to their interests. Taking the latter as an example, upon the students’ arrival in Taiwan, they chose various topics, such as the reconstruction of Taipei Twin Island, community pollution or transportation.\n\nIn addition, in Taiwan, the time period for individual projects was short and services were more concentrated. In a relatively unfamiliar and isolated environment, students could be more engaged. In Hong Kong, the student engagement and concentration were often disturbed by various other affairs, such as other courses, meetings, and other homework."
+            header: "有學分要求與無學分要求的對比",
+            text: "機緣巧合下，蕭博士獲得服務學習中心資助去台灣開展跨地服務學習項目，把「新聞寫作」的課程套用到台灣地區。這是一個單獨的項目，沒有學分的要求。，並招募曾參與「新聞寫作」服務學習的學生。 \n\n根據蕭博士的觀察，相比有學分要求的課程，學生在無學分項目會更開放一些。具體而言，在有學分課程中，因為功課與分數掛鈎，學生的許多考慮會聚焦在考試評分上，如用字的準確性、描述的詳細度等。如此的好處是他們能夠很好地約束和規範自己的功課成果，但壞處在於議題的選擇以及語句的運用會比較保守，較少突破和創新。而在單獨項目中，學生對語句的運用會更具個人風格，議題的選擇也會與興趣相關，以後者為例，學生來到台灣後，議題選擇多元化，如選擇關於台北雙子島的重建、社區污染或交通等議題。\n\n除此之外，在台灣，單獨項目的時間週期短，服務更集中。在一個相對陌生及隔絕的環境下，學生能夠更加投入。而在香港，投入度與集中度常常會被其他各種事務干擾，例如其他課程、會議及其他功課等。"
           }
         ]
       }
@@ -865,129 +865,120 @@ const data = [
     caseCode: 13,
     university: universityList["polyu"],
     department: "Institute of Textiles & Clothing",
-    caseTitle: "Community engagement through expressive textile arts and fashion",
+    caseTitle: "透過紡織藝術及時裝參與社區 ( Community Engagement through Expressive Textile Arts and Fashion) ",
     lecturer: "Dr. Jin Lam",
     details: {
       caseDescription: {
         content: [
           {
             header: "",
-            text: "Case 13 reports a three-credit service-learning course titled “Community engagement through expressive textile arts and fashion” (Hereinafter referred to as Textile). This course was offered by Dr. Jin Lam, she is from the Institute of textiles & Clothing of the Hong Kong Polytechnic University."
+            text: "個案十三報導了一個名為「透過紡織藝術及時裝參與社區」（以下簡稱「紡織」）的三學分服務學習課程。 本課程是由來自香港理工大學 (以下簡稱理大) 紡織及服裝學系的林枝衍博士 (Dr. Jin Lam) 所提供。"
           },
           {
-            header: "Background of the course",
-            text: "Since 2015, Dr. Lam acted as an observer to help with this course. In 2016, the previous course instructor asked if Dr. Lam was interested in leading this course and he has officially been responsible for the course ITC2S01 from then on. There was only one service-learning course at their department at that time. To increase the number of service-learning courses, Dr. Lam revised the course ITC2S01 and added other elements to create another course ITC2S02. In 2017, the course ITC2S02 began. According to Dr. Lam, one major difference between the two courses is that ITC2S01 mainly involves conducting service for the disabled while course ITC2S02 aims at conducting service with the service recipients through a co-design process.\nFrom her observation since 2015, Dr. Lam realized that many service-recipients, in the service activities, tended to act like making orders to the students, such as asking students to make clothes or a dress. It seemed that students were there to serve the disabled. Dr. Lam commented that both parties should benefit from the service-learning process and encouraged each other. The co-design process allowed the service recipients to get involved. With some guidance, the service-recipients could put some efforts in the activities within their capabilities. For instance, if the service recipients were good at drawing, they could draw some pictures on the cloth with which the students could use to make clothes. “The rationale for the co-design process was to encourage interaction between the students and the service recipients,” Dr. Lam said. For instance, students could talk with the service recipients about their hobbies. The students could then talk about stories through the clothes. Dr. Lam said that the main character of the course was not just about the product but more like expressing the thoughts of the service recipients.\nThere had been big changes since the past 5 years. According to Dr. Lam, many NGO partners gave positive feedback that many service recipients felt being respected from the co- design process as they never thought that they could successfully make their own clothes."
+            header: "課程發展簡介",
+            text: "自2015年以來，林博士擔任觀察員，以幫助 ITC2S01 (Engaging Fashion as a Communication Media for the Need) 這服務學習課程的進行。在2016年，前任課程講師詢問林博士是否有興趣主持此課程，從那時開始林博士便正式負責ITC2S01這一課。當時他們的部門只有一個服務學習課程。為了增加服務學習課程的數量，林博士修訂了ITC2S01課程，並添加了其他要素以創建另一個課程ITC2S02 (Community Engagement through Expressive Textile Arts and Fashion)。在2017年，ITC2S02課程開始了。 林博士認為，這兩個課程之間的主要區別在於ITC2S01主要涉及為殘疾人士提供服務，而ITC2S02課程旨在通過共同設計過程與服務對象進行互动。\n自2015年開始以來的觀察中，林博士意識到在服務活動中，許多服務對象傾向於向學生下達命令，例如要求學生做某些衣服，學生似乎只是在服務殘疾人士。 林博士評論說，雙方都應從服務學習過程中受益，並相互鼓勵。在共同設計的過程中服務接受者可以參與其中，在一些指導下，在活動中他們可以在個人能力範圍內付出一些努力。例如，如果他們擅長畫圖，他們可以在布上畫一些圖畫，學生便可以用來做衣服。 林博士說：「共同設計過程的基本原理是鼓勵學生與服務接受者之間的互動。」 例如，學生可以與服務接受者談論他們的愛好，然後，學生可以通過衣服説故事。 林博士說，課程的主要特徵不僅在於產品，更重要是表達服務對象的想法。\n過去5年以來發生了很大的變化。林博士說，許多非政府組織合作夥伴給予積極的反饋，許多服務接受者在共同設計過程中感受到被尊重，因為他們從來沒有想到自己可以成功地製造自己的衣服。"
           },
           {
-            header: "Course structure and organization",
-            text: "The course is composed of two main parts. The first one aims at introducing the definition and principles of service-learning. The Office of Service-Learning will teach basic concepts and practice of service-learning through an e-learning module. Students are required to successfully complete the e-learning module within the first four weeks after the commencement of the course.\nThe second part comprises lectures and workshops for the teaching of concepts, theories and practice of expressive textile arts as well as a service-learning project which aims at developing students’ practical skills with the service recipients. Through lectures, the course instructor would convey the knowledge and skills specific to the practice of expressive textile arts in the semester two. Dr. Lam would show students some literature and explain academically how the interventions involving expressive textile arts would benefit different service recipients. Moreover, students would also understand the rationales behind the concepts and their functions.\nAfter the students have acquired some basic concepts, they will be engaged in the service- learning project to develop their practical skills together with the service recipients, who are people with special needs, such as underprivileged children and women, single parents, ex- mentally ill persons, etc. All the artworks from the co-design process would be recorded. Given that service recipients need to get involved in the co-designing process, the service- learning project is arranged to start in semester three from the mid of May to July. In the one and half months, students would spend 40 hours in 5 weeks in direct contact with the recipients. The service recipients would be invited to take the course.\nA styling presentation with photo-shooting sessions were conducted as part of the service rendering and the service recipients modeled their own expressive textile artworks during the presentation. Specifically, the photo records of artworks and the actual artworks developed were jointly presented in a mini fashion show. In the mini fashion show, the local service recipients modeled their own expressive textile artworks with their personal expressions."
+            header: "課程結構與組織",
+            text: "這課程由兩個主要部分組成。第一部分旨在介紹服務學習的定義和原則。 服務學習及領導才能發展處(Service-Learning and Leadership Office, SLLO)(以下簡稱SLLO) 將通過電子學習單元教授服務學習的基本概念和實踐。學生必須在課程開始後在最初四個星期內成功完成這電子學習單元。\n第二部分包括課堂及工作坊，主要內容包括表達紡織藝術的概念，理論和實踐，以及旨在與服務接受者一起發展學生的實踐技能的服務學習項目。通過課堂，講師將在第二學期傳達有關表達紡織藝術實踐的知識和技能。 林博士將向學生展示一些文獻，並在學術上解釋涉及表達紡織藝術的干預措施如何使不同的服務對象受益。此外，學生也會明白相關概念及其功能的基本原理。\n學生掌握了一些基本概念後，將與有特殊需要的服務對象一起參加服務學習項目，例如弱勢的兒童和婦女、單親父母、精神病患康復者等，以提高他們的實踐技能。共同設計過程中的所有藝術品都將被記錄下來。 考慮到服務接受者需要參與共同設計過程，服務學習項目計劃從5月中旬至7月的第三個學期開始。 在一個半月的時間裏，學生將在5是星期內使用40個小時直接與服務接受者聯繫。服務接收者將被邀請參加這課程。\n一項有照片拍攝的表演活動，讓服務接受者在演示過程中模擬自己的表現紡織藝術品。具體來說，藝術品的照片及實際發展出來的作品會在小型的時裝表演中一同展示。在時裝表演中，服務對象建議展示自己的紡織作品與他們的個人表達。"
           },
           {
-            header: "Class size",
-            text: "This course not only involved university students, but also the service recipients from the NGO. The students would take the course and learn some basic concepts. The NGO would lead the service recipients to come and join the co-design process of producing clothing items. Every year, there would be around 20 service recipients joining the class. 4 students would be arranged to take care of a service recipient. Then, there would be around 100 participants, including university students and service recipients in the whole class."
+            header: "班級人數",
+            text: "這課程不僅涉及大學生，還包括來自非政府機構的服務接受者。學生將參與本課程及學習一些基本概念。 合作機構將帶領服務接受者來參加共同設計生產服裝的過程。 每年大約有20位服務接受者加入這課程，4名學生會被安排照顧1名服務接受者。 所以全班將有大約100名參與者，包括大學生和服務接受者。"
           }
         ]
       },
       partnership: {
         content: [
           {
-            header: "Collaborating with different NGOs in one program",
-            text: "There are 20 quotas for the service recipients every year for the program. In the past 5 years, Dr. Lam had only collaborated with one NGO. When she thought about serving different people, she then started promotion in different NGOs. She adopted a method of mixing service recipients from different NGOs in one program. She said that this way of collaboration could promote the teaching effect. For instance, during break-time, service recipients from different groups would communicate with one another and watch the artworks others were doing. Such interactions motivated participants in the co-design process."
+            header: "同一課程與不同機構合作",
+            text: "這個服務學習課程每年會有20位服務接受者的配額。在過去的五年中，林博士只與一間非政府機構 (Non-Governmental Organization, NGO)合作。當她考慮為不同的人士服務時，便開始在不同的NGO中推廣有關課程。 她在同一個課程中接受及組織來自不同NGO的服務對象 。 她認為這種合作方式可以提高教學效果。 例如，在休息時間，來自不同群體的參加者將彼此交流並觀看其他人正在製做的藝術品。這種互動激勵了共同設計過程中的參與者。"
           },
           {
-            header: "Type of service recipients",
-            text: "Dr. Lam pointed out that it was very important to advise their recruiting requirements for the service recipients to the NGOs. Due to the nature of the co-design process, she would talk to the NGOs initially that these service recipients should be physically strong enough and could understand properly throughout the co-design process. Since the staff from the NGO would be in a better position to tell the interest and capability of its members in this service-learning project, Dr. Lam invited them to identify suitable service recipients to take part in this co- design process."
+            header: "揀選適合的服務接受者 ",
+            text: "林博士指出，向合作機構提供參加者的招聘要求非常重要。由於共同設計過程的活動性質，她將首先與機構討論有關這些參加成員應具備的條件，包括足夠的體力，並且在整個共同設計過程中能正確理解。由於合作機構的工作人員可以更適當地表明其成員對這服務學習項目的興趣和能力，因此林博士邀請他們確定合適的對象來參與此共同設計過程。"
           },
           {
-            header: "The involvement of the social workers from NGOs",
-            text: "Dr. Lam thought that it was important to engage the social workers in the program as the students were not professional in handling the service recipients, especially those who suffered from mental problems. Involving the social workers, to some extent, facilitated the personal relationship development between both parties. For instance, the social workers were familiar with the characters of the service recipients and in such case, whenever the service recipients were not in the mood, the social workers would inform the students beforehand and asked them not to assign many tasks for the service recipients."
+            header: "社會工作者的參與",
+            text: "林博士認為，讓社會工作者參與這計劃很重要，因為學生在處理參加者方面，尤其是那些患有精神疾病的人，並不專業。 社會工作者的參與在一定程度上促進了雙方之間的人際關係發展。 例如，社工熟悉服務對象的性格，在這種情況下，每當服務對象心情不好時，社工都會事先通知學生，並要求他們不要為服務對象分配很多任務 。"
           },
         ]
       },
       linkage: {
         content: [
           {
-            header: "Use of expressive textile arts making to help the needy",
-            text: "To facilitate expressive textile arts making in the community, Dr. Lam taught students to help develop the expressive textile artworks through products. For instance, many service recipients were not good at expression and easy to change their minds. Therefore, she shared some experience and asked students to show the color or the products through pictures or drawing to determine what the service recipients needed in the clothing instead of just asking them the size or color they wanted. In this way, students would not waste a lot of time in arguing with the service recipients, and would also enable them to use expressive textile arts knowledge to help needy people."
+            header: "透過紡織工藝製作幫助有需要的人",
+            text: "為了促進社區紡織藝術創作，林博士教導學生們通過產品來幫助發展富有表達效能的紡織藝術作品。 例如，許多服務接受者不善於表達，亦容易改變主意。 因此，她分享了一些經驗，並要求學生通過圖片或圖畫來展示顏色或產品，從而確定參加者在服裝中需要什麼，而不僅只是詢問他們想要的尺寸或顏色。 這樣，學生將不會在與參加者爭論的過程中浪費很多時間，也將使他們能夠利用紡織藝術知識來幫助有需要的人。"
           },
           {
-            header: "Enhancing skills of problem solving, communication and teamwork in the context of art and design",
-            text: "The co-design process enables students to think from others’ point of views. Before the service, students thought that design was just an individual task and designers could just design whatever they thought was appropriate. The process of designing with the service recipients allowed students to get to know their design targets and the special requirements they needed. Communicating with the service recipients (their clients) was also a process of problem solving. Having service recipients told the students their needs encouraged students to think about what they could provide for the service recipients. The interaction process allowed both parties to coordinate better and exchange of ideas."
+            header: "促進學生的個人成長",
+            text: "共同設計過程促進學生的解難、溝通和團隊合作的能力。學生可以在藝術和設計的背景下從他人的角度進行思考。 在提供服務之前，學生認為設計只是一項單獨的任務，設計師可以根據自己的想法進行設計。 與服務接受者共同設計的過程使學生能夠了解到他們的設計目標和服務對象所需要的特別要求。 而且與參加者（他們的客戶）進行交流也是解決問題的過程。 讓參加者告訴學生他們的需求能鼓勵學生思考他們可以為參加者提供什麼。 這互動過程使雙方可以更好地協調和交換意見。"
           }
         ]
       },
       service: {
         content: [
           {
-            header: "Benefiting the service providers",
-            text: "Dr. Lam commented that the arrangement of co-design also aimed at benefiting the service providers who were university students. She added that some students could feel that the service was not only designed to help the service recipients, but also help them to get along well with the service recipients. She said that if the service role was not balanced, students might only consider themselves playing a passive role in helping the service recipients. The whole meaning of the service was to show students that they were equally important."
+            header: "使服務提供者受益",
+            text: "林博士評論說，共同設計的安排還旨在使大學生作為服務提供者受益。她說，一些學生可能會覺得該服務不僅在幫助服務接受者，而且還幫助他們自己與服務接受者融洽地相處。 她補充說，如果服務角色不平衡，學生可能在幫助服務接受者中認為只是扮演被動者角色。然而服務的整體含義是要向學生表明他們是同等重要的。"
           },
           {
-            header: "Understanding the service recipients",
-            text: "This face-to-face direct service also changed students’ views towards the service recipients, according to Dr. Lam. For example, the students would initially think that the service recipients were incapable, radical and gloomy. During the co-design process, students could observe that service recipients were easily satisfied and full of positive energy. When the service recipients, though inexperienced, showed their hard-working attitude, students were more motivated to participate in the course. The interpersonal interaction allowed students to reevaluate that the service recipients were very optimistic. The positive characters of the service recipients also encouraged students to take a more sanguine view towards life."
+            header: "了解服務接受者",
+            text: "林博士說，這項面對面的直接服務也改變了學生對接受服務者的看法。 例如學生最初會認為服務接受者沒有能力，過於激進和陰沉。 在共同設計過程中，學生可以觀察到接受服務的人很容易感到滿足，並且充滿正能量。 儘管服務接受者沒有經驗，但當表現出他們的努力的工作態度時，學生就會更有動力參與這課程。 相互間的互動使學生重新評估接受服務者是非常樂觀。服務接受者的積極性也鼓勵學生對生活更加樂觀。"
           },
           {
-            header: "Youth voices",
-            text: "Dr. Lam regarded that the involvement of students to direct the modelling event encouraged them to engage in and value the event more. Before the mini fashion show, students were given chances to plan for the process. For instance, students were responsible for helping their service recipients to find out what gestures, and catwalk worked the best with the clothing of the service recipients. Students also had to consider the tools, music, and dances to help the service recipients express their own stories through modelling their own expressive textile artworks. Dr. Lam said that the whole process took students up to 39 hours but they made no complaints. To her surprise, students asked for more time to do modelling rehearsal."
+            header: "青年人心聲",
+            text: "林博士認為，學生參與指導模特兒展示服裝活動會鼓勵他們積極參與並更重視該活動。 在小型時裝表演之前，學生有機會計劃整個過程。 例如，學生負責幫助服務對象了解哪些手勢及步姿是最適合展示他們的服裝。 學生還必須考慮哪些工具、音樂和舞蹈，讓服務接受者以透過展示個人紡織藝術品來幫助表達自己的故事。林博士說，整個過程最多花費了學生39個小時，但他們沒有抱怨。 令她驚訝的是，學生要求更多的時間練習時裝表演。"
           },
           {
-            header: "Multi-disciplinary grouping",
-            text: "Dr. Lam encouraged students of diversified disciplines to group together in the class. She said, having students from diverse background enabled them to learn from each other and get in touch with students in other disciplines. There were one third of the students, whose major was not in textile in her class. Some of them probably majored in computer science, engineering and nursing. The cooperation with students from other majors encouraged learning from each other. For instance, some students with nursing background, did not know basic expressive textile arts techniques but they were good at taking care of the service recipients. With their interaction, the ITC students could learn the nursing skills while the nursing students could pick up some stamping and painting skills in the program. Dr. Lam mentioned that apart from studying, many students did not have many opportunities to know students from other backgrounds. The mixture grouping enabled students to get along with other students in a short and intensive period"
+            header: "跨學科分組",
+            text: "林博士鼓勵各學科的學生一起上課。她說，來自不同背景的學生能夠相互學習並與其他學科的學生取得聯繫。有三分之一的學生，其專業不是紡織專業，其中一些學生可能主修計算機科學，工程學和護理學。與其他專業學生的合作能鼓勵彼此學習。例如一些今年加入護理學專業的學生不了解紡織藝術的基本表達技巧，但他們善於照顧服務對象。通過他們的互動，紡織及服裝學系學生可以學習護理技能，而護理學生可以在計劃中學習一些沖壓和繪畫技能。林博士提到，除了學習外，許多學生沒有太多機會認識其他背景的學生。混合不同學科的學生再分組使學生能夠在短而密集的時間內與其他學生相處。"
           }
         ]
       },
       reflection: {
-        content: [
-          {
-            header: "",
-            text: "There were two ways of reflection: reflective journals and debriefing."
-          },
-          {
-            header: "Reflective journals and report",
-            text: "Students were required to write reflective journals and report both during and after the service-learning project. The reflective journals were designed to check students’ abilities to (a) link their service-learning experience with the academic focus/discipline-specific content of the course, (b) reflect on their service-learning experience to identify their learning gains as well as areas for improvement, and (c) reflect on their roles and social responsibilities. Dr. Lam mentioned that guidelines, such as questions, were given to students to answer in the reflective journals rather than their writing by themselves. The questions that students needed to answer, such as what kinds of challenges they had encountered; how they overcome these challenges; whether they would put what they had learnt into the future practice and about their insights of the activity they joined."
-          }
-        ]
+        content: "反思的方式有兩種，包括填寫反思日誌和回顧並匯報學習經歷。在進行學習服務項目 期間及完成後，學生需填寫反思日誌和回顧並匯報學習經歷。反思日誌旨在檢查學生 的能力，了解學生如何(a)將他們的服務學習經驗與課程的學術重點/學科特定內容 聯繫起來，(b)反思他們的服務學習經驗以識別他們的學習成果及需要改善之處，及 (c)反思他們的角色和社會責任。林博士提到，諸如提問之類的指導指引是給予學生 在反思日誌中回答的，而不是他們自己撰寫的。學生需要回答的問題，例如他們遇到 了什麼樣的挑戰，如何克服這些挑戰。他們是否會將所學的知識於未來實踐出來，以 及對他們所參加的活動的心得。"
       },
       assessment: {
-        content: "Dr. Lam commented that a clear assessment structure was very important in service-learning course. She explained that with a transparent structure, students would think that it was worthwhile to put effort and to know their roles and responsibilities. Students’ performance would be assessed through different tasks, such as the e-learning module and project, specific seminars/workshops (10%), group (20%) and individual performance (20%), quality of the deliverable (20%) and reflective journal and reports (30%).\nThe e-learning module and project-specific seminars/workshops included assignments and learning tasks that were designed to assess students’ ability to link service-learning with the academic content of the course of expressive textile arts and their understanding of their role and responsibilities in society.\nFor individual and group performance, Dr. Lam would assess the students’ attitude and performance in the rendering of service, their degree of engagement with the service recipients, their collaboration with other students and interactions with the service recipients and/or collaborating NGOs. She had 8 staff to observe the students on-site and to do assessment. For instance, these teaching assistants recorded students’ punctuality, absenteeism and their preparation. According to Dr. Lam, not all the students got the same scores within group. The teaching assistants would base on their observation and also asked the students the types of work they were responsible with so as to get clear pictures of their roles were in the team, and gave scores according to each person’s performance in the team. For the quality of the deliverables, she said that it included expressive textile artworks and styling presentation or mini-fashion and/or static exhibition to reflect students’ understanding of the discipline-specific concepts, and their role and responsibilities as a professional, their ability to communicate effectively and empathize with their service recipients. She conducted assessment based on two perspectives: the preparation of the clothing items and the service recipients’ responses. She would ask the service recipients again about the clothing making process to make sure that it was a co-design and collaboration process. Moreover, she could also assess whether the service recipients liked the clothing or not."
+        content: "林博士評論說，在服務學習課程中，清晰的評核結構是非常重要。 她解釋說，有了透 明的結構，學生會認為是值得付出努力並了解自己的角色和責任。 學生的表現將通過 不同的任務進行評核，例如電子學習單元和項目、専題研討會/工作坊 (10%)、小組 (20%) 和個人表現 (20%)、作業成果的質量 (20%) 和反思日誌及報告(30%)。\nT電子學習單元和針對專題項目的研討會及工作坊包括功課作業和學習任務，旨在評核學生將服務學習與紡織藝術課程的學術內容聯繫起來的能力，以及他們在社會中對自己的角色和責任的理解。\n在個人和團體表現方面，林博士會評核學生在提供服務時的態度和表現、他們對服務接受者的投入程度、與其他學生的合作以及與服務接受者和/或合作機構的互動交流的情況。 她安排八名工作人員在現場觀察學生並進行評核。 例如，這些助教記錄了學生的準時、缺勤和準備情況。 根據林博士的說法，並不是所有的學生在小組內都會獲得相同的分數。 助教會根據觀察情況，詢問學生負責的工作類型，以了解他們在團隊中的角色，並根據每個人在團隊中的表現給予評分。\n對於學生遞交的功課作業的質量，她表示評核項目包括了表現紡織藝術品和造型的學生報告 (Presenation) 或小型時裝表演和/或靜態展覽，以反映學生對學科專業概念的理解，以及他們作為專業人士的角色和責任，與服務對象有效溝通及產生同理心的能力。 她基於兩方面進行評核：服裝項目的準備和服務接受者的回應。 她會再次詢問服務接受者服裝製作程序，以確保這是一個共同設計和協作的過程。 另外，她還可以評核服務接受者是否喜歡這些衣服。"
       },
       support: {
         content: [
           {
-            header: "Professional support",
-            text: "As mentioned, some professional people from mental rehabilitation were hired to help sewing so as to minimize the technical issues faced by the students. Although these people are suffering from mental illness, they are very professional in sewing and they have even better than the skills from most of the university students. Meanwhile, university students could also learn from these professionals."
+            header: "專業的支持",
+            text: "一些來自心理康復的專業人員被僱用了幫助縫製服裝，以盡量減少學生所面臨的技術問題。 儘管這些人患有精神疾病，但是他們在縫紉方面非常專業，與大多數大學生相比較，他們的技能更勝一籌。 同時，大學生也可以向這些專業人士學習。"
           },
           {
-            header: "NGO's support",
-            text: "The NGO partner was invited to have a seminar sharing the interpersonal skills to handle different service recipients. The sharing mainly involved skills and a few things to pay attention to when students interacted with the service recipients. For instance, students should avoid mentioning certain things when dealing with specific service recipients. The NGO wrote down some taboos related to each service recipient and distributed to students according to service recipients they took care of. During the seminar, there would be some warm-up activities, such as making introductions or playing games.\nAfter introduction, the social workers would take the service recipients to another room to rest and then guided the students to tour around the NGO. Another social worker would start the sharing section. Dr. Lam stated that it was very important for the NGO to share the interpersonal skills. For instance, in the third year of operating this service-learning course, there were 10 mentally retarded people involved in the program and they were different from the other normal mentally ill people as they did not know how to express with words. It was a huge challenge for the students.\nTo involve those service recipients in the co-design process, the NGO suggested students to use leading method, instead of commending, in the co-design process. One 70-year-old woman suffering from severe mental retardation impressed Dr. Lam the most. This elderly did not have long span of attention that she would take a nap every 15 minutes. Therefore, students needed to be very patient. Using the leading method, the students cut some flowers for the elderly and then the elderly would use a sponge roller to print out the flower. Although printing with shaky hands, the elderly enjoyed this process a lot that she immediately wrapped the cloth around her neck as if it was a scarf. Seeing this scene, students believed that although the elderly could not express, she could show her emotions through action. This new way of expression was also very novel to students."
+            header: "合作機構的支持",
+            text: "合作機構應邀參加了一個研討會，分享與不同人際交往的技巧，以處理不同的服務接受者的需要。分享的內容主要包括一些技能和學生與服務接受者交流時要注意的一些事項。 例如在與一些服務接受者接觸時，學生應避免提及某些事情。合作機構寫下了與每位參加者有關的禁忌，並根據學生所照顧的參加者分派給他們。 在研討會期間，會舉行一些熱身活動，例如做介紹或玩遊戲。\n互相介紹之後，社會工作者會把接受服務的人士帶到另一間房間休息，然後引導學生參觀機構組織。 另一位社會工作者便會開始分享的環節。 林博士說，由合作機構分享人際關係技巧是非常重要的。 例如，在開辦這服務學習課程的第三年，參加者包括10名智障人士，他們與其他正常智能人士不同，因為他們不知道如何用語言表達。 對學生來說，這是一個巨大的挑戰， 為了使這些參加者參與共同設計過程，合作機構建議學生在共同設計過程中使用帶領的方法，而不是只是稱讚而讓他們自己做。\n一名患有嚴重智力障礙的70歲婦女給林博士留下了最深刻的印象。 這名老人只有很短的專注力，她每15分鐘要小睡一次。 因此，學生需要非常有耐性。使用帶領 (leading)方法，學生為老人剪出一些花朵的樣板，然後老人使用海綿滾軸，將花朵打印出來。 儘管老人用搖晃的手來打印，但她卻很喜歡這個過程，她立刻將那塊布像圍巾般包裹在脖子上。 看到這一幕，儘管老人無法表達，學生們相信，她也可以通過行動表現出自己的情感。 這種新的表達方式對學生而言也很新穎。"
           }
         ]
       },
       communityPractice: {
         content: [
           {
-            header: "Funding support from the university",
-            text: "The university provided funding for the operation of service-learning course. The funding was based on the number of students in the course. There would be around 2000 HKD for one credit of the course and there would be three credits for a student who enrolled the course. Accordingly, there would be 80 enrollments, and the amount of funding would be around 600-700 thousand HKD in total, but there was always around 300 thousand HKD that was left unused. Dr. Lam would use some of the funding to hire two project assistants. In addition, there would be three student helpers in the classroom."
+            header: "大學的支持",
+            text: "大學為服務學習課程的營運提供了資金。資金是根據參與課程的學生人數而定。一個課程的一個學分約為2000元港幣，註冊這課程的學生將有3個學分。因此，將有80名學生報名，總資金額約為六十至七十萬元港幣。但最終仍會剩餘大約30萬元港幣未被使用。林博士會動用部分資金聘請兩名項目助理。另外，在教室中將有三名學生助手。"
           },
           {
-            header: "Developing a package of teaching for sustainable development",
-            text: "Dr. Lam believes that students’ expressive textile expertise and skills can be used to transform the society for sustainable development. For previous service-learning project, there was only one visit which was a site-visit or food delivery to the poor. This form of service-learning activity could only produce a short-term effect. However, if the service recipients were taught with some skills, they could apply them in future when needed."
+            header: "制定一套可持續發展的教學材料",
+            text: "林博士認為，學生的紡織專業知識和技能可以用來改變社會，促進可持續發展。 以前的服務學習項目，只有一次探訪活動或向窮人提供食物。 這種形式的服務學習活動只能產生短期影響。 但是，如果參加者者被教導了一些技能，則他們可以在將來有需要時學以致用。"
           },
           {
-            header: "Raising scholarships for knowledge transfer",
-            text: "Students were offered scholarships share their learning in this program with the next-year students. When compared with the teachers, Dr. Lam said that students learned better if former students transferred the knowledge. Students who joined the program could apply for scholarship at the end of the course and those who successfully got accepted would share their experience in the service with students who joined next year."
+            header: "學生的知識分享",
+            text: "向學生提供獎學金，讓他們與來年的學生分享這服務學習計劃的學習成果。 林博士說，與導師相比，讓有經驗的學生作出分享，藉此傳遞知識。應屆學生會學得更好。 若想加入這項計劃的學生，可以在課程結束時申請獎學金。那些成功被錄取的學生將與來年參加這課程的學生分享他們在服務方面的經驗。"
           }
         ]
       },
       challenges: {
         content: [
           {
-            header: "Technical challenges",
-            text: "It was challenging for Dr. Lam to teach students from diverse backgrounds because of their different areas of expertise. She used various methods to minimize technical problems during the process of co-design. For instance, she would ask the sponsors to provide existing cloths and clothing so that students could use the existing materials for DIY. She also told the students to provide larger cloth to enable the service recipients to have more creative ideas. These methods, to some extent, prevented technical problems from affecting their interaction. She would also hire some professional people for sewing so that students could focus more on the needs of the service recipients and at the same time learned how to sew from these professionals."
+            header: "技術挑戰",
+            text: "對於教導不同專業領域的學生，林博士説是頗具挑戰性的，在共同設計的過程中，她使用了各種方法來盡量減少技術問題。 例如，她會要求贊助商提供現有的布料和衣服，以便學生可以使用現有的材料自我製造(Do it yourself)。 她還告訴學生們提供更大的布料，讓服務對像有更多的創意。 這些方法在一定程度上防止了技術問題影響它們的交流互動。 她也會聘請一些專業的縫紉人員，讓學生更專注於服務對象的需求，同時向這些專業人士學習如何縫紉。"
           },
           {
-            header: "Time consuming",
-            text: "Dr. Lam stated that the course was very complicated and time consuming when compared with other courses in terms of logistic arrangement. She added that although the teaching hours were the same, this course involved another element- the final show. That means, the whole process included hiring professionals for photo-taking and cosmetic makeups, and the run-way for modeling show. These all consumed plenty of time and manpower."
+            header: "耗費時間",
+            text: "林博士表示，在後勤安排方面，與其他課程相比，這課程非常複雜和耗費時間。 她補充說，雖然教學時間相同，但本課程涉及另一個元素：最後的表演。 這意味著，整個過程包括聘請專業人士進行拍照和化妝，以及模特兒時裝表演的跑道，這些都耗費了大量的時間和人力。 "
           }
         ]
       }
@@ -997,71 +988,245 @@ const data = [
     caseCode: 14,
     university: universityList["polyu"],
     department: "Department of Applied Social Sciences",
-    caseTitle: " Community Psychology",
+    caseTitle: "社區心理學",
     lecturer: "Dr. Chan Hin Wang",
     details: {
       caseDescription: {
-        content: "Case 14 reports a three-credit service-learning course titled “Community Psychology” (Hereinafter referred to as Psychology). This course was offered by Dr. Chan Hin Wang Kevin, he is from the department of Applied Social Sciences of the Hong Kong Polytechnic University.\n\nThe course Community Psychology started from 2011. At that time, the course was run as a pilot service-learning course for the three-year curriculum students as a general education elective. The reason for constructing it as a service-learning module was that Dr. Chan wanted to use the service-learning pedagogy to serve the course purpose. Specifically, the course required students to not only learn theory and knowledge about how people behave in a community, but also take corresponding actions to change the community. Only through a service-learning module can students fully grasp the community psychology properly. The pilot service-learning course had attained positive achievement. Therefore, this course commenced as a subject of the four-year curriculum. Later, it has been categorized as one of the service-learning subjects and the course has been offered to the students who take this four-year new curriculum, contributing to their achieving the general university requirements, which involve thirty credits of the class subject to service learning, the interpersonal leadership and etc.\n\nCommunity Psychology includes three modules of learning: Lectures/workshops, e-learning and first-hand community service. It was a small class size enrolled with 24-40 university students.\n\n\ta. Lectures/workshops are designed to equip students with the discipline-specific knowledge, including health promotion and prevention, empowerment, and sense of community and social capital. Some intervention targeting at community health, individual’s wellness and civic society at higher level will also be introduced.\n\tb. Students need to attend 10-hour e-learning module developed and delivered by the Office of Service Learning at PolyU, which aims to introduce basic concepts and practice of service-learning. Students are required to complete the e-learning module within the first four weeks of the semester.\n\tc. For gaining the first-hand community service experience, students can participate in either a health promotion or a child development program. Within the program, the students are expected to work closely with the collaborative agency to deliver a range of tasks and activities to the service recipients. The students would be divided into teams of around five persons. Each team are required to participate in home visitation, specific tasks assigned by the service agency and design activity according to the community and service needs."
+        content: "個案十四報導了一個名為「社區心理學」（以下簡稱「心理學」）的三學分服務學習課程。 這課程是由來自香港理工大學應用社會科學系陳顯宏博士所提供。\n\n《心理學》這課程於2011年開辦。當時，這課程是作為三年制課程學生的通識教育選修課的試點 (pilot) 服務學習課程。後來這課程被建構為服務學習單元，原因是陳博士想使用服務學習教學法來配合課程目的。具體而言，這課程要求學生不僅要學習有關人們在社區中的行為方式的理論和知識，還要採取相應的行動來改變社區。只有通過服務學習單元，學生才能全面正確地掌握社區心理。試點服務學習課程取得積極成果。因此，這課程便開始作為四年制課程的一個科目。後來，它被歸類為服務性學習科目之一，提供給參加這個四年制新課程的學生，有助於他們達到大學一般要求，這課程涉及30個學分的課程科目包括服務學習、人際及領導等。\n\n後來，它被歸類為服務性學習科目之一，該課程提供給參加這個四年制新學制課程的學生，有助於他們達到大學的一般要求，當中涉及三十個學分有關服務學習、人際領導等的培養。社區心理學包括三個學習單元：講座/研討會、電子學習和直接社區服務。這是一個小班授課課程，招收了 24 至 40 名大學生。\n\n\t1.1講座/研討會旨在讓學生掌握特定學科的知識，包括促進健康和作出預防、賦權以及建立社區和社會資本意識。一些針對社區健康、個人健康和更高層次公民社會的干預措施也將被引入。\n\t\t• 學生需修讀由香港理工大學服務學習及領導才能發展處 (Service-Learning and Leadership Office, SLLO) (以下簡稱SLLO) 開發和提供的 10 小時電子學習單元，旨在介紹服務學習的基本概念與實踐。學生必須在學期的最初四個星期內完成電子學習單元。\n\t\t • 為了獲得直接參與社區服務的經驗，學生可以參加健康促進或兒童發展計劃。在這計劃中，學生應與服務機構緊密合作，為服務對象提供一系列的任務和活動。學生們將被分成大約五人的小組。每個小組都需要根據社區和服務需求參與家訪、服務機構所分配的具體任務、和設計活動。"
       },
       partnership: {
         content: [
           {
             header: "",
-            text: "Dr. Chan has been partnering with Kwai Tsing district for almost 20 years. They have developed a solid, concrete, trustful working relationship with each other. At the beginning, Dr. Chan was working with Kwai Tsing Safe Community and Healthy City Association. Nowadays, they do not only collaborate on service-learning project which is the core of the collaboration packages, but also on several other community projects."
+            text: "陳博士與葵青區合作接近20年，彼此之間建立了穩固、具體及信任的工作關係。在開始的時候，陳博士在葵青安全社區及健康城市協會 (Kwai Tsing Safe Community and Healthy City Association) 工作。 如今，他們合作計劃包括核心的服務學習項目，以及其他幾個社區項目。"
           },
           {
-            header: "Sustainable relationship",
-            text: "To develop a stable and long-term partnership, Dr. Chan states that building up a stable human relations is the key, such as establishing a good communication relationship prior to the start of the service-learning programme, and converting and materializing students’ efforts into achieving community projects."
+            header: "可持續的關係",
+            text: "陳博士表示，要發展穩定和長期的夥伴關係，建立穩定的人際關係是關鍵，例如在服務學習計劃開始之前建立良好的溝通關係，轉化學生付出的努力為動力，以完成社區項目。"
           },
           {
-            header: "Balanced relationship",
-            text: "Dr. Chan also advocates that course leaders should focus on the tension or the balance between the service recipients, NGO versus the students. The intention/needs between service recipients, NGO and the students might be different. As a service-learning coordinator, reconciling these three parties further facilitates good partnership, not only between the NGO and university, but also the NGO and the university students."
+            header: "平衡的關係",
+            text: "陳博士還主張課程負責人應關注服務對象、NGO與學生之間的緊張或平等的關係。 服務接受者、NGO和學生之間的意圖或需求可能不同。 作為服務學習協調人，良好地協調這三方的需要能進一步促進了良好的夥伴關係，包括是NGO與大學之間及NGO與大學生之間的關係。"
           }
         ]
       },
       linkage: {
-        content: "Dr. Chan believes that understanding the theory and knowledge about how people behave as a community without engaging students in practice in community is meaningless in analyzing the contemporary issue in one’s community from a multidisciplinary perspective and also understanding the corresponding actions to change the community.\n\nApart from teaching related concepts in classroom, Dr. Chan put much emphasis on students’ reflective journal. The reflective report was structured to let students describe the activities in which they took part and they were also required to relate their experience to their personal reflection as community engagement as well as the academic linkage with the subject matter. Through written reflective reports and on-site home visiting, students’ concepts were strengthened, such as community cohesion, sense of community or community action model or health coalition model. Only through written and handy experience can students apply the framework on program, and understand the maintenance and sustainability mechanism of community psychology."
+        content: "陳博士認為，若不讓學生實習於實際社區的情況下，而要讓他們明白有關人們在社區中的行為表現的相關理論及知識，那麼對於從多學科角度分析社區的當代問題以及理解改變社區的相應行動是沒有意義的。\n\n除了在課堂上學習相關概念外，陳博士非常重視學生的反思日誌。反思報告的結構是讓學生描述他們參與的活動，他們還需要將他們的經歷與他們投入社區參與的個人反思以及與學術主題聯繫起來。通過書面反思報告和實際家訪，強化了學生有關的概念，包括社區凝聚力、社區意識、社區行動模式、或健康聯盟模式等。只有通過書面和親身的經驗，學生才能將所學的框架應用於課程中，並了解社區心理的維持和可持續的機制。"
       },
       service: {
         content: [
           {
-            header: "Service activities",
-            text: "Three service sections were set up in this course: visiting the elderly home, assisting in organizing center’s activities, and designing an activity for the seniors.\n\nFor the first section, university students were required to make at least 8-12 hours for a home visitation in total throughout the entire span of the course. Through home visitation, students would be exposed to and get to know about the community. For example, going through home visitation routine allows students to get first-hand experience about what a unit in an old building estate looks like; what does a singleton elderly home look like; what does a two senior couple only with one domestic helper look like; what it was like to step into a home of an ethnic minority.\n\nFor the second section, university students would be helping out some community activities organized by the service partner, such as a community health fair, or the seniors-organized or senior-let activities on recreational exercise. Being a passive role in those activities allows students to reflect on their role and responsibilities both as a professional in their chosen discipline and as a responsible citizen.\n\nFor the third section, students needed to design one activity for the seniors, which would be on the need or topic that the seniors wanted the most. Students could choose whatever format or style they wanted for the activity. They had to plan the activities. Usually, the course teacher would give them a list of hot topics or prioritized needs in the community. Dr. Chan mentioned that designing an activity aims to foster and nurture students’ critical thinking, problem-solving skills, interpersonal skills and teamwork. Moreover, the designing activity could not only promote students’ awareness of community issues, but also their abilities in applying the skills acquired to giving care in the community context."
+            header: "服務活動",
+            text: "這次課程設置了三個服務部分，包括探訪老人院、協助中心活動及設計長者活動。對於第一部分，大學生被要求在整個課程期間總共最少進行 8-12 小時的家訪。 通過家訪，學生將接觸並了解社區。 例如，通過一般家訪的例行程序，學生可以親身體驗舊樓宇中的個別單位是什麼樣子； 單身老人的家是什麼樣子的； 一對只有一個家庭傭工的老年夫婦是什麼樣的； 又或且走進一個少數民族的家是什麼感覺。\n\n對於第二部分，大學生將幫助合作夥伴組織的一些社區活動，例如社區健康博覽會，或老年人組織或帶領的休閒鍛煉活動。 作為這些活動中的被動角色，學生可以反思自己作為所選學科的專業人士和負責任公民的責任。對於第三部分，學生需要為長者設計一項活動，該活動將針對長者最需求的或最想要的主題。 學生可以為活動選擇他們想要的任何形式或風格。 他們必須計劃活動。 通常課程導師會給他們列出社區中的熱門話題或優先需求。 陳博士提到設計活動旨在培養和激發學生的批判性思維、解決問題的技巧、人際交往技巧和團隊合作精神。 此外，設計活動不僅可以提高學生對社區問題的認識，還可以提高他們將所掌握的技能應用於關懷社區。"
           },
           {
-            header: "Youth voices",
-            text: "Dr. Chan believes that it is significant for students to have autonomy to have different experience among a good mix of each type of activities. Autonomy activities can facilitate students’ interest, and cater for their own needs for building knowledge. For instance, by design, Dr. Chan’s course was set up to expose students in three types of activities: the home visit, the center activities and students’ design of an activity."
+            header: "青年發聲",
+            text: "陳博士認為，學生在各種活動的良好組合中擁有自主權，擁有不同的體驗是很重要的。 自主活動可以促進學生的興趣，並滿足他們自己建立知識的需求，並在每個類別(任務中)達到最低要求 。 例如，陳博士的課程被設計為讓學生參與三種類型的活動：家訪、中心活動和學生設計的活動。"
           },
           {
-            header: "Diversity of the tasks",
-            text: "Dr. Chan thinks that the diversity of a tasks is very important. In Dr. Chan’s mind, the diversity includes different timeslots for various activities and diversity of task difficulty.\n\nHaving different timeslots of activities allows university students to flexibly choose the community service activity according to their timetable. Take PolyU students as an example, they would have a lot of commitments, such as doing part-time jobs, and preparing quizzes on Saturdays. With students having heavy schedule at school (university), course leaders should set different and diverse spectrum of community services with varying degrees of skills and time commitment required for students to have the flexibility to choose the timeslot according to their timetable.\n\nNevertheless, Dr. Chan put forward that there must be a good balance between enough diversity and unified and feasible service offering for the students. He added that too much diversity would not only drain students’ energy, but also the teaching team, the service NGO and the recipients. Therefore, striking a balance, such as having a personalized or tailored service packages, would save a lot of financial and time resources from the NGO as well as time from the recipients."
+            header: "多元化的 任務",
+            text: "陳博士認為一項任務的多元化很重要， 在他看來，多元化包括各種活動的不同時段及任務的不同難度。\n\n具有不同的活動時段，讓大學生可以根據自己的時間表靈活選擇社區服務活動。 以理大學生為例，他們會有很多承諾，例如兼職工作及於週六準備測驗。 由於學生在大學的日程安排得很繁重，課程負責人應設置不同和多元化的社區服務，以迎合不同程度的技能和時間投入的需要，讓學生可以根據自己的時間表靈活地選擇適合的時間。\n\n儘管如此，陳博士提出，必須在足夠的多元化的活動選擇和為學生提供統一可行的服務活動間取得良好的平衡。 他補充說，過多的種類不僅會消耗學生的精力，還會消耗教學團隊、NGO及受助者的精力。 因此，取得平衡，例如提供個人化或度身定制的服務組合，將節省NGO 的大量財務和時間資源以及受助者的時間。"
           }
         ]
       },
       reflection: {
-        content: "The reflective activities were led by the service partners who were more concerned as those activities operated by registered social workers. Therefore, Dr. Chan would generally sat back and the social workers would run the debriefing session as they would like to know what students had learned in activities. Meanwhile, social workers and the students would discuss some challenges they encountered during the activities. For instance, some of the neighbors were less friends and some students were banned by a very fierce old lady. Also, there were some awkward cases, for example, a group of all female members knocked on the door and saw a 70-year-old man dressed in only a pair of underpants.\n\nSocial workers, Dr. Chan and students would also discuss together and come up with some solutions to prevent or solve such problems. For instance, a policy was set up about grouping students, such as mixing up with female and male members in each group. Therefore, grouping students with mix genders can, to some extent, avoid any potential embarrassment when students pay home visits."
+        content: "反思活動由合作夥伴主導，他們更關注由註冊社工舉辦的活動。因此，陳博士一般會坐下來由社工主持匯報會，因為他們想知道學生在活動中學到了什麼。同時，社工與同學們討論在活動中遇到的一些挑戰，例如有些鄰居的朋友比較少，有些學生被一位很兇的老太太禁止探訪，還有一些尷尬的情況，例如一群全是女團員敲門，看到一位70多歲的男人只穿著一條內褲。\n\n社工、陳博士和學生也會一起討論，想出一些辦法來預防或解決這些問題。例如制定了將學生分組的政策，其中每組組成成員必須包括女性及男性。因此，將不同性別的學生分組，在一定程度上可以避免學生進行家訪時可能出現的尷尬。"
       },
       assessment: {
-        content: "There are six types of assessment methods for students’ learning: 20% on-site observation, 10% group project presentation, 30% reflective journals/short essay, 20% quiz, 10% E- learning module and 10% class participation.\n\nDr. Chan tried to minimize the group performance yet acknowledge students’ team efforts so that he could have more discriminating power on assessing students’ individual performance. Different from other service-learning courses, his course involves assessment from multiple assessors. That is, both course lecturer and on-site supervisors would assess students. In order to maintain the consistency among different assessors, he requires assessors to grade students based on the rubric. The service rubric has clearly outlined several key components, such as professionalism, punctuality, commitment to the community service and to what extent they would exhibit their sincere concern on the service recipients. Dr. Chan would give students brief descriptions on each service assessment as well as the requirement of other assessment forms, such as reflective journal and paper assessment.\n\nFor individual performance, Dr. Chan could assess students from their reflective journals or essays submitted after the service-learning activities. The reasons of collecting their reflective journals or essays were to know how well students blended theories learnt in class coverage of subject matter and practice in their community service-learning experience. Quizzes were set as part of the course work, aiming at consolidating students’ comprehension of the essential and content knowledge blocks in the respective units. The questions were based on the weekly required reading and the lecture. Students were required to attend a number sessions of e-learning module developed and delivered by the Office of Service-Learning in PolyU to learn basic concepts and practice of service-learning.\n\nAnother issue is that with diverse portfolio of tasks, students’ satisfaction could be easily achieved. For example, some students might be very enthusiastic but they only have limited effort to invest time in a task due to their heavy workload at school. In this case, course teachers should set up a diverse portfolio of task that students at varying levels of competence can somehow meet the requirements of the tasks and get satisfaction and sense of competence after accomplishing the tasks"
+        content: "學生學習的評核方式有六種：20%現場觀察、10%小組項目介紹、30%反思日誌/短文、20%測驗、10%電子學習單元和10%課堂參與。 \n\n陳博士盡量減少小組合作任務，但也承認學生團隊的努力，這以便在評核學生的個人表現時有更多的辨別力。與其他服務學習課程不同，他的課程涉及多位評核人員參與評核，也就是說，課程講師和現場主管都會對學生進行評核。為了保持各評核入員之間的一致性，他要求評核人員根據評分準則 (rubric)  對學生進行評分。服務準則清楚列明了幾個關鍵組成部分，例如專業精神、準時、對社區服務的承諾以及他們對服務接受者的真誠關心程度。陳博士會根據每項服務評核以及其他評核形式（例如反思日誌和論文評核）的要求向學生簡要說明。 \n\n對於個人表現，陳博士可根據學生在服務學習活動後提交的反思日誌 (reflective journal) 或論文 (essay)來評核學生。 收集他們的反思日誌 或論文的原因是為了了解學生如何把在課堂中學到的理論實踐於社區服務學習活動中。 測驗被設置為課程功課的一部分，旨在鞏固學生對各個單元中基本知識內容的理解。 測驗的問題根據於每週必讀的閱讀文章和講座。 學生也須參加由理大SLLO開發和提供的多個節數的電子學習單元，以學習服務學習的基本概念和實踐。\n\n另一個情況就是通過多元化的任務組合，可以輕鬆達至學生的滿意度。 例如有些學生可能非常熱情，但由於學校的工作量很大，他們在一項任務上投入的時間有限， 在這種情況下，課程導師應安排多種任務組合，讓不同能力水平的學生都能以某種方式滿足任務的要求，並在完成任務後獲得滿足感和勝任感。"
       },
       support: {
         content: [
           {
-            header: "The Office of Service-Learning",
-            text: "Dr. Chan thinks that it is significantly necessary to have a team and proper supporting structure from university for service-learning programmes to operate smoothly. The Office of Service-Learning (OSL) in the Hong Kong Polytechnic University gives supports to operate the local and overseas service-learning courses, such as fostering the establishment of community partnership. Dr. Chan was fortunate to have a staff from the OSL to assist him in the course.\n\nRecently, the OSL has been restructured, which is being integrated with the Office of University Studies. The restructure leads to the re-arrangement of resource support and the priority of solving the needs of overseas service-learning projects. With the allocation of resources from the university, Dr. Chan started to seek external help by himself, such as recruiting other professions from outside to form the teaching team. He has already sorted another two to three visiting associates with strong human service and social work or community background to come and form a team.\n\nDr. Chan also mentioned that for overseas service-learning, only one junior instructor or teaching fellow is impossible to complete a successful overseas project. That is because, there might involve not only teaching, but also communication and administration work. Dr. Chan gave an example of a project led by his colleague in mainland. He mentioned that when 50 to 60 students were going to shanghai, other supports, such as Chinese in Mainland Affairs Office (CMAO), were needed to help with administration work, such as logistics and itinerary issues. Otherwise, the subject course leader could not handle everything."
+            header: "服務學習部門",
+            text: "陳博士認為，要讓服務學習計劃順利運作，是很需要大學團隊的支持和適當的支援架構。 香港理工大學的服務學習及領導才能發展處 (SLLO)支援本地和海外服務學習課程的運作，例如促進建立社區夥伴合作關係。 提供助教或初級教職員來幫助準備和教授課程。 陳博士有幸地有 SLLO的工作人員協助他完成相關的課程。\n\nSLLO 是自2019年9 月經過重組而成 。 重組後資源支持得以重新安排和海外服務學習項目的需求也給與優先解決。 隨著大學資源的調配，陳博士開始自己尋求外來的幫助，例如從外部招聘其他專業人士組成教學團隊。 他已經挑選了另外二至三名具有強大人類服務、社會工作或社區背景的來訪同事 (Visiting Associates) 來組建一個團隊。\n\n陳博士還提到，若只有一名初級講師或助教是不可能完成一個成功的海外服務學習項目。 那是因為除了涉及教學，還涉及溝通和行政工作。 陳博士舉了一個例子，是關於由他在內地的同事領導的一個項目， 他提到當50至60名學生前往上海時，是需要其他支援的，例如中國內地事務處(Chinese Mainland Affairs Office) (CMAO) ，以幫助處理行政工作，關於一些後勤和行程問題等。 否則，學科的主要導師是無法處理所有事情的。"
           },
           {
-            header: "Financial support",
-            text: "Dr. Chan believes that financial support is also important to maintain the teaching team. He could obtain a certain amount of budget from his department to afford the junior teaching staff. However, he mentioned that when incorporating more senior staff, he had to design and plan his budget carefully to make sure that the senior staff’s involvement was on the point and constrained to an affordable budget. The key was to balance the budget and investment of the time and effort of the particular senior staff wisely on the overall cost preparation."
+            header: "財力支持",
+            text: "陳博士認為，財政支持對於維持教學團隊也很重要。 他可以從他的部門獲得一定數量的預算來支付初級導師的費用。 但是，他提到在加入更多高級員工時，他必須仔細設計和規劃預算，以確保高級員工的參與恰到好處並限制預算是在可負擔範圍內。 關鍵是在準備總體成本上，能明智地平衡預算，讓特定高級員工只投入適當的時間和精力。"
           },
           {
-            header: "Local senior volunteers",
-            text: "Apart from involving senior teaching staff, Dr. Chan also worked with the local senior volunteers in this service-learning project. They mainly helped to lead and moderate the home visitation for the university students. There are several advantages of such pairing arrangement. Firstly, the senior volunteers were more familiar with the service recipients. There would be higher possibilities that the service recipients would let the university students in for the visitation. Secondly, university students could take this chance to observe how local senior volunteers started the conversation with the elderly, so as to appreciate the social cohesion, and to strengthen their application of developmental theories that had been taught in the class to their adaptation in the home visits."
+            header: "本地老年志願者",
+            text: "除了讓資深教職員工參與，陳博士亦與本地資深義工一起參與這項服務學習計劃。 他們主要幫助領導和協調大學生的家訪。 這種配對安排有幾個優點。 一是年長義工對服務對象更熟悉，因此服務對象讓大學生來探望的可能性會更高。 其次，大學生可以藉此機會觀察這些老年志願者如何開始與老人的對話，從中體會社會的凝聚力，加強將課堂上所教授的發展理論適當地應用到他們的家訪中。"
           },
         ]
       },
       challenges: {
-        content: "For Dr. Chan, the main challenge was that for students from the social work profession, it was relatively difficult for them to pick up the services. They had higher anxiety and challenge in differentiating community service from their own professional practice. Some of them would undermine the service and think that the community service was too easy for them while others would raise the bar of excellence so high that they became too demanding on themselves as well as the service NGO.\n\nFor students who set higher bar for their performance, Dr. Chan attempted to solve the problem by re-emphasizing to the students that this was not a social work practicum, but a community service. He tried to tell the students to set lower requirement because it was unreasonable to have high demand on students who were not registered social workers."
+        content: "對陳博士而言，主要的挑戰是來自社會工作專業的學生，因為他們接受服務工作項目相對困難。 他們在區分社區服務與他們自己的專業實踐方面有感更高的焦慮和挑戰。 他們中的一些人會看輕社區服務，認為這些服務對於他們來說是太容易處理了，而另一些人則將卓越的標準提高，以至於他們對自己和服務NGO組織的要求很高。\n\n對於成績要求較高的學生，陳博士嘗試通過再次向學生強調這不是社會工作實習，而是一項社區服務。 他試圖告訴學生把要求降低，因為對沒有註冊為社工的學生提出高要求是不合理的。"
+      }
+    }
+  },
+  {
+    caseCode: 15,
+    university: universityList["polyu"],
+    department: "Department of Biomedical Engineering",
+    caseTitle: "個案十五：透過 STEM（科學、技術、工程和數學）活動項目減少中學生的科學鴻溝的課程 ",
+    lecturer: "Dr Lau Hin Chung",
+    details: {
+      caseDescription: {
+        content: [
+          {
+            header: "",
+            text: "個案十五報導了一個名為「透過 STEM（科學、技術、工程和數學）活動項目減少中學生的科學鴻溝的課程」以下簡稱「STEM」的三學分服務學習課程。這課程是由來自香港理工大學 (以下簡稱理大) 生物醫學工程學系Dr. Lau Hin Chung所提供。"
+          },
+          {
+            header: "課程發展背景",
+            text: "劉博士於 2013 年承接了這個名為透過 STEM（科學、技術、工程和數學）活動項目減少中學生的科學鴻溝的課程。此後，這課程的活動模式、學生背景以及相應提供的培訓活動也有所改變。\n\n在以前，這課程僅開放給具有工程、設計或科學背景的學生。 自2013年開始，這課程的名額約為60人，實際每年招生人數約為30至40人。 兩三年後，它對所有學生開放。 隨著這項招生政策的改變，學生人數激增至100人。劉博士認為學生人數多是有幫助的，因為服務學習活動會得到更多的支持。服務對象為中學學生，參與學校的數目由一間增加至八間。 隨著不斷增加的服務對象人數，更多的教職員和大學生加入參加服務學習的項目。 多年來，我們一直在不斷努力修訂服務學習計劃，以確保它們與學科課程掛鉤，同時滿足社區的實際需要。"
+          },
+          {
+            header: "課程結構及組織",
+            text: "這課程是一門三學分的必修科目。 在課程中，大學生必須參加所有講座、研討會和相關的工作坊，然後才能參與服務學習項目。在 四星期內只有四堂課。 劉博士解釋說，他提供較少的教學時間，讓學生有更多空間參與更多與服務學習相關的項目，並從他們的實踐中獲得更多知識。 \n\n首先，有一個選課期，對於學生的實際教學時間相對較少。 其次，劉博士希望學生從服務學習活動的經驗中學習。 然而，劉博士評論說，這種教學方式取決於服務的性質。 他補充說，如果服務活動旨在檢查人們的健康狀況，則應提供更多培訓，以提高學生的專業技能。 但對於這個課程，他表示，大學生不需要具備特定的專業知識，他們只需要多看書。 他們可以回顧中一和中二學生已經獲得的知識種類，並確定一些知識他們是可以教得好的同時，接受服務的中學生也感到興趣 。"
+          },
+          {
+            header: "將工程科學生分組",
+            text: "參加課程的大學生大約有90%都不是主修工程。對他們來說， 向中學生教授有關 STEM 的知識是具有挑戰性的。而更加困難的是當他們製造產品而需涉及組裝機器部件的時候。 因此，劉博士建議每個學生團隊應包括一兩位有工程背景的學生而組成。 這樣，每個學生團隊都可以鞏固各種專業知識和專長，提高團隊表現的效率和效果。 例如，有工程背景的學生可以指導團隊組裝機器部件，而具有教育知識的學生可以更多地支持課堂管理，而商科學生可以準確地談論商業術語。 學生之間的分享可以將他們的知識視野拓寬到新的領域。 他們共同為自己搭建了一個有益的學習平台。"
+          }  
+        ]
+      },
+      partnership: {
+        content: "劉博士與服務學習及領導才能發展處 (2019第四季採用這新名稱) (以下簡稱SLLO ) 的同事聯絡有興趣合作的中學，以製定服務學習計劃。 碰巧香港聖公會舉辦了一個展覽，展示了學生與老人交流後的一些產品設計。 劉博士產生興趣，便與香港聖公會的工作人員洽談合作事宜。 服務學習及領導才能發展處也聯絡其他學校了解他們的興趣，如果答案是肯定的，劉博士會聯絡他們直接跟進。"
+      },
+      service: {
+        content: [
+          {
+            header: "學校間的分享",
+            text: "劉博士在有一年的七月為所有的中小學組織了一場小規模的比賽。 參加比賽的學生將代表他們的學校展示他們的 STEM 產品。 這樣的安排是有原因的。 首先，它旨在提高學生和教師在服務學習活動中的積極性和參與度。 其次，比賽旨在表明 STEM 不僅僅是編程，而且還可以幫助有需要的人，並挑戰只有高級技術才可行的謬論。"
+          }
+        ]
+      },
+      reflection: {
+        content: "最初幾年，學生們被要求用兩頁紙寫下他們的感想，並進行小組介紹。然而，有發現這些反思可能不會使學生受益。因此，他對反思練習進行了修改，而是要求學生在簡歷中増加與服務學習相關的內容。例如，學生可以在簡歷中寫下他們的個人成長和人際關係。學生不需要做小組介紹，但他們仍然需要完成最少三頁的反思。\n\n劉博士亦會主持簡介會 (briefing)及匯報會(debriefing)，以促進學生反思。服務學習活動結束後，他請學生多留些時間作匯報。在第一次的匯報中，劉博士著重提醒學生有關課堂管理的注意事項，並為下一次的服務學習活動做準備。"
+      },
+      assessment: {
+        content: "學習評核包括三個部分。首先是準備教材，如簡報、學生用小冊子、實驗筆記等。學生還需要完成由SLLO 提供的電子學習單元，它是關於服務學習的概念和基本原則。其次，它與為中學生提供的直接服務以及與學校教師的會面有關。課程導師將在中學現場評核大學生的表現。在這次評核工作中，劉博士堅持讓一位導師在同一所學校和同一組學生一起完成整個過程，以保持一致性。在現場評核中，包括學生在服務學習活動後是否有任何成長和轉變，例如學生是否更了解中學生，或學生在服務後的看法是否有改變。第三，劉博士會評核三頁的書面反思報告和一份值得記錄和提及的服務學習經歷的簡歷，但他不會為這份簡歷給予評分。"
+      },
+      support: {
+        content: [
+          {
+            header: "服務學習及領導才能發展處",
+            text: "劉博士認為得到大學裏服務學習部門的幫助是非常重要的，SLLO的支援主要包括提供導師和課程助教的培訓。 有更多的師資的支持，有助服務學習活動的順利開展。 自 2013 年以來，隨著學生人數的增加，SLLO 安排了二 至 四 名導師來支援課程。 當有五所中學在同一日期和時間開展服務活動時，便需要 三 和四 名導師在不同的中學擔任督導角色。 在每間中學，都會有一名導師和一名助教共同展開活動。 劉博士強調，如果沒有其他導師的支持，課程可能無法進行。 \n\nSLLO導師將督導學生開展服務學習活動，例如教導學生如何反思，並付以分數評估學生的現場表現。在整個過程中，讓同一位導師全程監督和觀察學生，除了是為了保持對學生評核的一致性外， 同時，這位導師可以記錄服務學習活動的進展和發生的事情。 若是由不同的導師負責，他們便會無法對整個過程進行更詳細的概述。 例如，如果學生在前一天打架，當下負責的導師就沒有關於整個過程的信息。 導師們也舉辦了一些關於團隊建設和溝通技巧的課程，但為了避免近年來緊張的預算，劉博士接任了這個教學角色。"
+          },
+          {
+            header: "助教的恊助",
+            text: "SLLO 還提供了一名助教來支持劉博士。 這些助教是曾參加服務學習課程的學生，並以B+ 或以上成績的良好表現獲得獎學金。 助教在獲得獎學金後，必須工作20個小時。 他們在擔任助教之前會接受提升領導能力的培訓。 如果他們的工作時間超過 20 小時，將獲得劉博士的額外報酬。 對於這課程，助教主要涉及物流管理，例如一些數據輸入和記錄成績。 在與大學生的活動後匯報會(debriefing sessions)上分享是助教扮演的另一個關鍵角色。"
+          },
+          {
+            header: "提供適當的培訓",
+            text: "當課程僅限於具有科學和工程背景的學生時，在參與服務學習活動之前是不需要接受培訓。 當課程開放給所有學習背景的學生時，劉博士為那些沒有工程背景的學生安排了課後培訓。 培訓內容涵蓋連接線和機器部件組裝方面的知識。 當服務性質轉變為解決老年人的需求後，大學生需要教導中學生，共同為老年人製造產品。 當大學生難以確定要設計的產品時，劉博士將培訓改為小組諮詢，帶領學生在小組內克服這一困難。"
+          }, 
+          {
+            header: "提供指導",
+            text: "近期，這課程開放給所有不同專業的學生選修。 劉博士發現若提供教學框架可以防止學生錯誤掌握課程的重點，尤其是那些沒有任何 STEM 背景知識的學生。有人會擔心這個課程不像是與學術性質有關的。 劉博士評論說，這課程相當能夠提高學生解決問題的能力，但他沒有使用時間教授學生通用技能，例如溝通和人際交往能力。"
+          },
+          {
+            header: "小組諮詢",
+            text: "學生可能對中學生的教學主題和適合老年人的產品感到困惑。 為了確保學生對自己的服務方向有信心，每個學生團隊都可以安排與他的諮詢會。 在諮詢環節裏，劉博士引導學生討論長者面對的問題，並找出最能解決問題的技術類型。 諮詢有助於提高學生解決問題的能力，並促進他們的不同想法。 "
+          },
+          {
+            header: "教材經費支持",
+            text: "這課程的資金由部門根據註冊人數分配。 大部分資金用於聘用助教和研究助理。 也將用於確保大學生開展服務的學習教材。若有資金支持學生購買所需的學習材料是很有幫助的，例如那些在服務學習活動中組裝產品的機器組件。 每個學生團隊的預算為300-500港元。 同時，劉博士鼓勵回收材料以備下學期的使用。"
+          }
+        ]
+      },
+      evaluation: {
+        content: [
+          {
+            header: "",
+            text: "在改善課程方面，劉博士期望大學生與服務對象之間有更多的互動。 他發覺現在的課程比較急速，大學生和中學生只有40個小時的時間進行互動和熟悉彼此。 為了提高課程的效果，他會建議他們多作交流，以促進學生們的反思。"
+          },
+          {
+            header: "服務方式",
+            text: "關於服務學習活動，服務對象起始時只包括中學生，後來便增加了一群長者。 當服務對象是中學生時，大學生才會教授 STEM 知識。 若以老年人為附加服務對象，大學生便先向中學生傳授STEM知識和概念，共同產生想法，以開發對老年人有用的產品。 隨著這一重點的轉變，STEM 不僅與編程有關，還可用於幫助有需要的人。 另一個改變的原因是與老齡化問題有關的熱門話題，劉博士希望中學生能加深對這個問題的認識。"
+          },
+          {
+            header: "結構完善的培訓方法",
+            text: "在開始的時候，學生可以在合作的學校的上午時間部份向低年級學生教授任何與 STEM 相關主題的內容。 大學生有理科背景，他們會與中學生分享有關肌肉的知識 ，以及如何收縮肌肉以產生力量及其他合適的話題。 在服務日的下午，他們會以1比1或1比2的比例輔導高中生。 但從 2014 年開始，學生團隊將有特定的主題來計劃他們的課程。 劉博士會提供一個教學架構供學生參考。 有了這樣一個更有條理的服務大綱，學生才能更好地把握自己的教學方向和目標。"
+          }
+        ]
+      },
+      challenges: {
+        content: [
+          {
+            header: "專業不足",
+            text: "大多數大學生沒有任何工程方面的知識，但服務成果需要包涵工程概念和使用一些技術技能，例如接線和組裝機器。 因此，劉博士建議學生組隊時，至少要有一到兩名具有工程背景的成員。 多元化的團隊幫助匯集來自不同學習背景的學生的知識以取得成功。 \n\n另外讓大學生感到困難的情況，就是因為他們不確定應該教中學生的那些技術知識，以便他們可以應用 STEM 知識來製作給老年人有用的產品。 因此，劉博士要確定教授的技術知識種類是一個挑戰。 因此，他需要花時間進行小組諮詢，並幫助大學生談論老年人面臨的問題以及適合開發對老年人有用的產品的技術。 劉博士建議學生可以使用資訊技術以外的其他類型的技術來開發產品。 如果可行的話，他們甚至可以使用機械技術為老年人生產手杖。"
+          },
+          {
+            header: "維持夥伴關係的問題",
+            text: "與學校維持夥伴關係有兩個挑戰。 首先，經過幾年的合作後，一些學校可以獨立進行有關服務學習項目。 其次，當服務學習計劃與教師的期望不符時，一些教師認為這些活動並沒有為他們在校的學生帶來任何好處。 "
+          }
+        ]
+      }
+    }
+  },
+  {
+    caseCode: 16,
+    university: universityList["hkbu"],
+    department: "School of Chinese Medicine",
+    caseTitle: "通往健康服務服務領導地位的途徑 (Paths to Service Leadership in Health Services)",
+    lecturer: "Dr Kevin K. M. Yue",
+    details: {
+      caseDescription: {
+        content: [
+          {
+            header: "",
+            text: "個案十六報導了一個名為「通往健康服務服務領導地位的途徑」（以下簡稱「服務領導」）的三學分服務學習課程。這課程是由來自香港浸會大學中醫藥學院余堅文博士所提供。"
+          },
+          {
+            header: "發展簡史",
+            text: "這課程大概於2014年開辦，是一科以「服務領導」為主題的通識課程。一開始便已經有很多服務學習的元素，而當時大約有60到80名學生。\n\n余博士建議了這個課程，它是跨學科的。 例如在「服務領導」部分，他就是與宗教及哲學系和學生事務處共同組織。學生事務處主要聯繫了一些社區合作夥伴。他會介紹一些關於如何選擇合作夥伴的背景資訊，例如明愛醫院 (Caritas Medical Centre) 和基督教聯合醫院 (United Christian Hospital )，它們於開展某些醫療服務的原因及其背後的概念，以及當學生掌握所學的知識後如何開展相關的服務學習活動。 "
+          },
+          {
+            header: "課程結構及組織",
+            text: "服務學習雖然分為服務和學習兩部分，但每個課程的比重會有所不同，並且會有所變化。 第一次可能會有更多的服務，第二次可能會有更多的學習。 比如關於江西的項目。在第一次時，服務部分的比重較大，在第二次時，它不是專注於教學，而是專注於校園設計，是一個完全不同的服務主題。 同時，課程結構會根據實際情況發生而持續改變，當然還是會以學生為本，以服務為導向。因為這不僅僅是為了擁有一種美好的感覺，而是為了幫助我們所服務的人。"
+          }
+        ]
+      },
+      partnership: {
+        content: [
+          {
+            header: "建立關係",
+            text: "在服務學習中，與不同的利益相關者愉快地合作也是一個學習的過程。剛開始時，在第一次與老年人相見並提供服務時，大家不會有親密的關係。 因此，余博士會再次安排老年人參加相關服務，再次與學生進行更深入的互動交流，逐漸便建立了默契。而在他們的互動過程中，導師們會在現場給予支持和指導。"
+          },
+          {
+            header: "維持可持續的夥伴合作的關係 ",
+            text: "如果想達致課程的最佳效果，余博士認為與服務合作夥伴保持長期的關係是有幫助的。如果大家能專注於特定的服務對象三到五年，導師和學生將更能夠了解服務對象的需求並作出相應的調整。\n\n這個科目更側重於相互交流的過程。與其他非常有結構的科目不同，因為我們會知道學生需要學習什麼，而也更容易定義預期的學習成果。此外，針對服務對象在服務學習過程中的需求，也需要作出調整。並注意對方說話中的意思。只有雙方有實際的對話，才會有真正的溝通。只有這樣，我們才能更加關注服務對象及真正幫助到社區。"
+          }
+        ]
+      },
+      linkage: {
+        content: "關於「服務領導」的課程設計，例如與健康相關的交流可能過於理論化。但是當學生有機會接觸和了解長者後，他們便學會如何更有效地溝通。通過視頻展示和角色扮演，學生可以練習如何與長者談話，然後會更有技巧地溝通，正確地表達適當的說話。這樣，在探望長者之前，學生可以在一定程度上作好準備。當學生進入不同的社區中心與長者接觸時，更能了解長者的生活條件和居住的社區環境。讓學生有機會與長者交談也是一種很好的做法。這是一次很好的訓練，學生會學習穴位按摩 (acupuncture points and massage) (也就是推拿)，然後為長者服務，所以「服務領導」這課程結構是很完善的。學生必須配合長者的需要來設計相應的活動。 因此，在服務學習課程中會有很多學習元素，包括團隊合作和溝通。"
+      },
+      service: {
+        content: "事實上，中醫學生有很多機會。導師必須根據學生的實際情況因材施教。課程大部分的參加者並不是中醫學生，很多學生對中醫所知不多。 他們可能從小就不看中醫。余博士認為多接觸便能多學習，也就是說，如果學生未曾接觸過中醫，便不會知道中醫的實用性。 例如關於頭疼，余博士會教他們「合谷」， 若是感冒，他會教「風池」，以立即減輕他們的不適。 余博士他們稱這些不適為臨床症狀。 學生們非常高興，他們成為了受歡迎的人物，因為他們可以幫助自己、家人和朋友。 \n\n余博士稱在設計這門課程時必須照顧好學生。 但也必須考慮他們所服務的人。因為除了學生感覺良好之外，他們還必須考慮是否可以為社區作出貢獻。 因此，重要的是要考慮課程的時期。 服務學習的意義在於它的幫助可以跨越社區邊界。完成服務學習過程後，學生可以拓寬視野，提升自己日後再次服務的能力。余博士覺得每位學生的學習起點不同，所以進步也不同。 但在這個過程中，導師最想看到的是學生的改變。許多學生也發現他們在參與服務學習後有所改變，並在短時間內看到了改變的效果。這些改變在傳統教學中是看不到的。"
+      },
+      reflection: {
+        content: "每次服務結束後，都會有一個分享會，讓學生從新鮮的記憶中互相學習，內化他們的學習，並為下一次服務做好準備。 第一次服務結束後，學生們就已經見到了那些老年人，然後他們幫助老人做一些問卷調查，為老人提供服務。學生必須配合長者的需要設計活動，這涉及很多元素。在整個過程中，它涉及到很多團隊合作和溝通。 因此，學生可以體驗並逐漸掌握同理心和創造力。"
+      },
+      assessment: {
+        content: "學生將被評估他們理解講課的能力，並通過不同的案例研究和角色扮演，評估他們如何使用所學的服務和領導能力（包括知識、技能、價值觀和態度）。\n\n服務學習的考核內容主要包括：（1）學生對服務對象的需要及其醫療保健需求的了解； (2) 他們的計劃、組織、人際關係和解決問題的技巧，以及 (3) 後續服務活動，以及； (4) 通過反思，關於他們的動機、服務態度和社會對社區有需要的群體的關注。"
+      },
+      support: {
+        content: [
+          {
+            header: "大學的承諾",
+            text: "此外，大學的承諾也很重要，因為這會涉及到資源的分配和教師的工作量。"
+          },
+          {
+            header: "教師的承諾",
+            text: "教師的合作和承諾很重要，他們也應走出舒適區，保持開放態度，持續學習，探索服務學習的不同領域。 余博士承認，老師會非常清楚學生的情況和需求。 在整個服務學習過程中，可以進一步體現教師參與的重要性，因為提供的服務需要掌握許多技能，包括一些專業技能，如穴位和按摩。 其中，有五六名教師和註冊中醫師全程指導，密切監督，因為學生可能無法回答老人提出的問題。\n\n余博士以身作則，陪伴學生走進社區，積極與學生交流。 當學生自己做服務時，他也會參與其中。 在教師的支持下，學生們也感到很開心。 當大家熟絡後，便可以暢所欲言，互相分享了。 從學生的反思中，學生也可以提出自己的意見，並指出需要改進的地方。\n\n教師的合作和承諾很重要。 余博士承認，教師會非常清楚學生的情況和需求。 學生從教師那裏獲得知識，但新知識的來源是不斷創新的。 未來，學生會發現很多教師從來沒有教過的知識，需要自己去學習。 因此，培養學生的自主學習能力顯得尤為重要，教師應為實現這一使命負責。 他們也應走出舒適區，保持開放態度，持續學習，探索服務學習的不同領域。\n\n在整個服務學習過程中，可以進一步體現到教師參與的重要性，因為提供服務時大家需要掌握許多技能，包括一些專業技能，如穴位和按摩。 其中，有五六名教師和註冊中醫提供指導，及密切關注過程，因為學生可能無法回答老年人所提出的問題。"
+          },
+          {
+            header: "對學生的支持",
+            text: "余博士以身作則，陪伴學生走進社區，積極與學生交流。 當學生自己做服務時，他也會參與其中。 在教師的支持下，學生們也感到很開心。 大家在熟絡後，便可暢所欲言，互相分享了。 學生在反思中，也可以提出己見，及指出需要改進的地方。"
+          },
+          {
+            header: "準備和培訓",
+            text: "學生從教師那裡獲得知識，但新知識的來源不斷變化。 例如，一位校長曾說，幾年前，他從沒想過WhatsApp和航拍會如此流行，終身學習是必然的。 未來，學生會發現很多教師從來沒有教過的知識，而必須自學。 因此，培養學生的自主學習能力顯得尤為重要，教師應負責實現這一使命。\n\n學生可以通過一些培訓來提高自學能力。 他們也有自己的長處，可以掌握不同的技能。 可以為學生提供一個發展大學希望培養的畢業生特質的環境。 作為教育者，教師必須有這樣的信念，才能攜手並肩培養大學生的特質。"
+          }
+        ]
+      },
+      evaluation: {
+        content: "如果我們想知道服務學習的有效性，我們通常會問學生，但我們想要一個綜合的評估計劃。 我覺得應該多詢問導師、服務機構和服務對象的意見。 每個利益相關者的期望和目標是不同的。 能夠相互分享最佳實踐非常重要。 如果我們能多了解其他人的做法，根據實際情況進行調整。 這將是有啟發性的，我們可以找到一些有用的榜樣。\n\n若想知道服務學習的有效性，他們通常會問學生，但為了實踐一個綜合的評估計劃。 余愽士認為該多詢問教師、服務機構和服務對象的意見。 每位利益相關者的期望和目標是不同的。 能夠互相分享最佳實踐方法是非常重要的。 如果我們能多了解其他人的做法，我們將會根據實際情況作出調整。 這會很有啟發性，我們也可以找到一些有用的榜樣。 "
       }
     }
   }//end case
