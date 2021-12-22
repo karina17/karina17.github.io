@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 
-    <title>SL Best Practice</title>
+    <title>服務學習最佳實務</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link href='https://fonts.googleapis.com/css?family=Spartan' rel='stylesheet'>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
@@ -24,14 +24,12 @@
       for (var [key, value] of Object.entries(categoriesCn)){
         $('#categories').append($('<option>', {value: key, text: value}));
       }
-
-      
     });
 
     function syncDept() {
       let deptList = [];
       $('#departmentSelect').empty();
-      $('#departmentSelect').append($('<option>', {value: "", text: "--Select Department--"}));
+      $('#departmentSelect').append($('<option>', {value: "", text: "--學系--"}));
       const university = $('#universitySelect').val();
       deptList = [...new Set(data.filter(x=> x.university == university && x.department).map(x => x.department))];
       for (var item of deptList){
@@ -45,17 +43,17 @@
   <div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index-cn.html">SL Best Practice</a>
+        <a class="navbar-brand" href="index-cn.html">服務學習最佳實務</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="index-cn.html">Home</a>
+              <a class="nav-link active" aria-current="page" href="index-cn.html">主頁</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="caseStudyLibrary-cn.html">Case Library</a>
+              <a class="nav-link" href="caseStudyLibrary-cn.html">案例庫</a>
             </li>
           </ul>
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -75,10 +73,10 @@
   </div>
   <div class="container">
     <div class="search">
-      <h2 class="title">Case Study Search </h2>
+      <h2 class="title">案例搜索</h2>
       <div class="row">
         <div class="col">
-          <h4>Course Information</h4>
+          <h4>個案說明</h4>
           <div class="mb-3">
             <label class="form-label">Case Title</label>
             <input id="caseTitle" class="form-control" aria-describedby="emailHelp">
@@ -86,22 +84,22 @@
           <div class="mb-3">
             <label class="form-label">大學</label>
             <select id = "universitySelect" class="form-select" onchange ="syncDept()">
-              <option value="">--Select University--</option>
+              <option value="">--大學--</option>
             </select>
           </div>
           <div class="mb-3">
-            <label class="form-label">Department</label>
+            <label class="form-label">學系</label>
             <select id = "departmentSelect" class="form-select">
-              <option value="">--Select Department--</option>
+              <option value="">--學系--</option>
             </select>
           </div>
-          <button type="button" class="btn btn-primary" onclick="getResult()">Search</button>
+          <button type="button" class="btn btn-primary" onclick="getResult()">搜索</button>
         </div>
         <div class="col">
-          <h4>Good Practices and Challenges</h4>
+          <h4>良好實務及挑戰</h4>
           <form>
             <div class="mb-3">
-              <label class="form-label">Key Elements <span class="grey-color">(Hold Ctrl/CMD for multiple selection)</span></label>
+              <label class="form-label">關鍵要素 <span class="grey-color">(Hold Ctrl/CMD for multiple selection)</span></label>
               <select id="categories" class="form-select" size="10" multiple></select>
               <span id="error" class="help-block">Please select a key element</span>
             </div>
@@ -109,7 +107,7 @@
         </div>
     </div>
     <div class="result">
-      <h2 class = 'title'>Search result</h2>
+      <h2 class = 'title'>搜尋結果</h2>
       <div class="success-result">
         <div class="accordion">
         </div> 
