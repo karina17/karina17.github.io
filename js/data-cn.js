@@ -15,8 +15,8 @@ const data = [
     caseCode: 1,
     university: universityList["polyu"],
     department: "應用社會科學系",
-    caseTitle: "兒童與青少年發展",
-    lecturer: "于璐博士",
+    caseTitle: "兒童與青少年發展 (Promotion of Children and Adolescent Development)",
+    lecturer: "于璐",
     details: {
       caseDescription: {
         content: "個案一報導了一個名為「促進兒童與青少年發展」(以下簡稱「兒童」)的三學分服務 學習課程。本課程是由來自香港理工大學 (以下簡稱理大) 應用社會科學系的于璐博士 所提供。\n\n這課程旨在讓學生能夠 1) 批判地研究兒童和青少年發展的不同觀點，並將其應用於理 解社區中貧困兒童和青少年的需求和發展潛力;2) 通過服務提供，在現實生活處境中 整合有關兒童及青少年成長的知識;3)應用學科的知識和技能(例如與兒童和青少年 的互動和溝通技巧)來處理服務環境中的複雜問題;4)作為選擇學科的專業人士及負 責任的公民身份，反思他們的角色和職責;5)培養積極的價值觀和長處;6)培養公 民責任及親善社會行為;7)培養對他人的關懷和同情心，特別是對於弱勢兒童和社區 中的青少年;8)增強自信、解決問題和決策能力; 9)通過與合作夥伴、合作機構、 父母和服務對象的合作來增強社交能力和人際交往能力。\n\n「兒童」課程跨越春季和暑假兩個學期。在春季學期裏，學生需要完成 10 小時網上服 務學習課程，內容包括服務學習的基本概念和實踐，例如服務學習的原理、概念和研 究，服務學習對服務使用者、 社區、學生和大學的好處，有關道德的問題，有效的團 隊合作和服務學習中的解決問題技巧，反思作為學習特定學科概念的工具。\n\n在春季學期中，這課程還包括一節課涉及課程內容和三節課有關兒童青少年發展相關 的理論。每節課持續三個小時，包括: 1) 獲取學科特定知識的講座和研討會，兒童和 青少年發展的發展理論、人類發展的生態模式、正向青少年發展、優勢干預模式;2) 一系列研討會，讓學生掌握管理項目特定的技能，例如兒童和青少年的投入參與和溝 通技巧、提升他們能力的方法、兒童和青少年發展的評估、服務規劃、提供服务和評 估服务成效等; 3) 學生小組討論和工作坊，為貧困兒童和青少年制定服務課程，分享 道德和倫理問題、服務提供技巧和課堂管理，學生藉此培養團隊合作能力。在服務活 動工作坊中，課程導師指導大學生如何設計教學方案，掌握基本的教學技能，例如針對如何激發小學生的學習興趣和動力，以及讓他們參與課堂學習的策略的課程，大學 生可以根據自己的經驗和興趣，自由選擇具體的教學主題。\n\n暑假學期開始時，學生需在理大完成五個工作坊。接着便是參加為期 10 天的內地服務 學習活動項目，地點包括上海、杭州、西安。在這十天中，首兩天是服務前的準備， 隨後五天是在一間指定小學進行教學活動。服務活動結束後翌日，課程導師會組織第 六個工作坊，旨在幫助學生鞏固所學到的東西。返回香港後，學生還需參加最後一個 工作坊，內容主要是同學以小組形式作出口頭報告。"
@@ -136,8 +136,9 @@ const data = [
   {
     caseCode: 2,
     university: universityList["lu"],
-    caseTitle: "藝術與心身健康",
-    lecturer: "Dr. Sophia Suk-Mun LAW",
+    department: "視覺研究系",
+    caseTitle: "藝術與心身健康 (Art and Well Being)",
+    lecturer: "羅淑敏",
     details: {
       caseDescription: {
         content: [
@@ -208,8 +209,9 @@ const data = [
   {
     caseCode: 3,
     university: universityList["hkbu"],
-    caseTitle: "運動技能學習與發展",
-    lecturer: "Prof. Cheung Siu Yin",
+    department: "體育、運動及健康學系",
+    caseTitle: "運動技能學習與發展 (Motor Learning and Development)",
+    lecturer: "張小燕",
     details: {
       caseDescription: {
         content: "個案三報導了一個名為「運動技能學習與發展」（以下簡稱「運動技能」）的三學分服務學習課程。本課程是由來自香港浸會大學 (以下簡稱浸大) 張小燕教授所提供。張教授投入服務學習的教學已經超越十年時間。最初的意念是來自參加一次商學院組織的服務學習工作坊，自始她便開始了解服務學習的理念，及如何為學生提供新的學習機會。而張教授本人從小到大都參與很多服務和義工活動，對於如何通過服務活動助人成長及改變她深有體會。「運動技能」這課程於每學年的春季學期進行，初期修讀學生為就讀大學三、四年級的學生，每班30人左右。最初六年左右的時間，張教授主要與香港大埔一間幼稚園和相鄰的老人中心合作，因此，大學生有機會對兒童和長者的肌肉發展進行比較。後來，課程安排有所更改，修讀學生改為以一、二年級為主，並於秋季學期開課。這樣的改變無法與幼稚園的時間表配合，於是她只保留了老人中心的服務活動，而修讀人數漸漸增加到六十左右，而學生的反思習作和其他功課也聚焦在長者的身體健康素質（physical fitness）方面。"
@@ -259,8 +261,9 @@ const data = [
   {
     caseCode: 4,
     university: universityList["lu"],
-    caseTitle: "透過服務研習參與社區",
-    lecturer: "Ms. CHAN Wing-yee, Constance",
+    department: "服務研習處",
+    caseTitle: "透過服務研習參與社區 (Community Engagement through Service-Learning)",
+    lecturer: "陳穎兒",
     details: {
       caseDescription: {
         content: "個案四報導了一個名為 「透過服務研習參與社區」（以下簡稱 「社區」）的三學分服務學習課程。 本課程由來自嶺南大學 (以下簡稱嶺大) 服務研習處陳穎兒導師所提供。\n\n「社區」這一科目的開設已有超過四年的時間，與其它學系所開設的服務學習課程不同，這一科目主要是圍繞服務學習的理念與實踐而發展，旨在通過各種互動形式的教學活動 ，提升學生對自我和社區的了解。 本課程介紹和概述了服務學習理論和實踐、服務機構所提供的服務及福利、社會企業的出現以及本地和全球社會和環境問題。學生有機會在課程導師和/或社區主管的指導下親自設計服務項目。 通過小組項目，學生有機會了解及滿足特定社區的需求，並對所涉及的問題進行批判性思考。 這課程還幫助學生了解反思的重要性以及有效進行反思的方法。 學生需自主學習，並在導師的定期監督下與他們的同學合作。\n\n有關課堂學習部分，導師會介紹服務學習的歷史背景、理論、評估方法、研究技巧、評估社區需要的方法等。於每一個學期，根據特定的服務對象與服務活動特點，在課堂中導師會介紹和討論相關的社會議題，例如，有些機構較為專注長者認知障礙症 (dementia) 的議題，在課堂上便會探討多一些老化問題（aging）。對於服務社會基層的項目，便會探討多一些與貧窮、全球公民、或社創企業有關等議題，讓學生有機會在服務中深入探究這些問題，了解不同機構和團體如何應對這些問題。\n\n導師會帶領學生到不同社區了解服務對象的需要，然後學生再設計具體的服務學習項目/活動 ，透過共同合作的社區中心，應對社會的需要。有別於其他的服務學習課程，「社區」一科在發展和選擇服務機構方面較為靈活，導師也有機會根據個人背景、專長、與機構關係來尋找合作機構。陳老師具有社工背景，這讓她更關注社會相關的具體議題，例如貧窮、婦女。在尋找機構方面，陳老師一方面希望拓展嶺南大學現有服務活動的範疇，另一方面與已有合作機構商談可行的服務活動。"
@@ -321,9 +324,9 @@ const data = [
   {
     caseCode: 5,
     university: universityList["polyu"],
-    department: "Department of Computing",
-    caseTitle: "超越國界的技術：跨越文化、種族和社區界限的服務學習",
-    lecturer: "Dr. Grace Ngai",
+    department: "電子計算學系",
+    caseTitle: "科技超越界限：跨文化、種族、社區之服務學習 (Technology Beyond Borders: Service Learning across Cultural, Ethnic and Community Lines)",
+    lecturer: "倪恩恩",
     details: {
       caseDescription: {
         content: [
@@ -378,8 +381,9 @@ const data = [
   {
     caseCode: 6,
     university: universityList["eduhk"],
-    caseTitle: "與社福機構同行",
-    lecturer: "Dr. Theodore Lee",
+    department: "教育政策與領導學系",
+    caseTitle: "與社福機構同行 (Working with Community Agency)",
+    lecturer: "李泰開",
     details: {
       caseDescription: {
         content: "個案六報導了一個名為「與社福機構同行」（以下簡稱「同行」）的三學分服務學習課程。 本課程是由來自香港教育大學李泰開博士所提供。\n\n本課程的設計不是基於某一種學科知識，而是重於讓學生了解個人的社會責任，最重要的是通過示範加深他們的理解。 通過讓學生與不同的非政府組織 (NGO)合作，李博士希望學生了解一個組織如何看待其使命和社會責任，以及社會工作者和員工如何解釋他們的工作。 如果學生有機會與服務對象直接接觸，他們便可以了解這些人真正的需要，以及為何他們在特定的社會環境中有這些需要。 這些經歷讓學生學會了解自己的社會責任， 同時，他們可以具體體驗有關的社會責任，並學會如何運用自己所擁有的資源來回饋社會。\n\n在「同行」這一科目裏，學生會前往不同類型的NGOs，參與機構委派的工作，通過觀察、訪談、溝通、直接參與NGO日常的工作等，了解NGO如何履行和實現它們的社會使命。 \n\n在開始服務活動前，同學會先在課堂中學習有關社會責任的理論和概念等。導師也會邀請服務機構的同事分享他們如何完成日常工作及如何看待自己的工作意義，以及他們所觀察到的社會議題，如何解決問題以改善社區。此外，透過學生在不同NGO中提供的協助，學生有機會學習到一些工作的態度和共通的技巧，例如準時、溝通，如何協調不同人士及工作。"
@@ -413,8 +417,9 @@ const data = [
   {
     caseCode: 7,
     university: universityList["hkbu"],
-    caseTitle: "在生物課程中整合服務學習",
-    lecturer: "Dr. Patrick Ying Kit YUE",
+    department: "生物系",
+    caseTitle: "在生物課程中整合服務學習 (Integrating service-learning in Biology courses)",
+    lecturer: "余英傑",
     details: {
       caseDescription: {
         content: "個案七報導了二個名為 「環境健康與毒理學」（以下簡稱「毒理學」）及發酵與酶技術（以下簡稱「發酵」）各三學分服務學習課程。 本課程是由來自香港浸會大學余英傑博士所提供。\n\n在接觸服務學習之前，余博士經已對非傳統教學方法有了些己見解與探索經驗。他認為傳統課堂經常是沉悶且毫無活力的，導師對著簡報一直地講，學生坐在講臺下乏味地聽。所以，為了打破課堂的無聊氣氛，讓學生投入學習，余博士嘗試採用各種不同的教學方法。例如在開展服務學習前，他曾與學校圖書館合作，運用網絡平臺教授部分課程。他希望借助網絡平臺，讓學生能夠自己去分析和學習，而不是單純地在課堂上聽他講課。\n\n在2018年3月，余博士在一次教學分享會上結識了創新服務學習中心（Centre for Innovative Service-Learning）(CISL)的一位同事 ，在那次交談中他正式接觸到服務學習的理念。在那之前，他對服務學習的概念與實踐都不甚了解，但CISL願意協助他進行教學嘗試，他本人亦對非傳統教學法抱有興趣，於是便一拍即合，確立了後來的服務學習計劃。\n\n在2018年9月，余博士第一次嘗試把服務學習的元素加入他的課程「FERMENTATION & ENZYME TECHNOLOGY」中。從起草計劃到落實課程，時間緊迫，且學校和部門都未能提供直接支援與輔助，所有的事情幾乎都需要由他一人負責解決。「這是一個不斷碰釘子不斷學習的過程，畢竟我是第一次做，在以前都是全無認識及經驗的。」他說道。       \n\n在第一次開展過程中，余博士積累了很多經驗，知道了需注意及再改善之處，並把這些經驗運用於後來發展的環節中。到了2019年1月第二門課開展時，他對流程的設計與執行已然成熟很多，對如何提升學生的積極性、如何對接機構及如何控制時間都有了重新的安排。 在經歷了兩次嘗試後，他對服務學習有了更多的欣賞與感悟。在未來，他表示依然會對服務學習進行更多的探索。"
@@ -451,8 +456,9 @@ const data = [
   {
     caseCode: 8,
     university: universityList["hkbu"],
-    caseTitle: "傳統中醫中的服務學習",
-    lecturer: "Mr. Cheung Chun Hoi",
+    department: "中醫藥學院",
+    caseTitle: "傳統中醫中的服務學習 (Service-learning in Traditional Chinese Medicine)",
+    lecturer: "張振海",
     details: {
       caseDescription: {
         content: [
@@ -536,9 +542,10 @@ const data = [
   },
   {
     caseCode: 9,
-    university: [universityList["hkbu"], universityList["eduhk"]],
-    caseTitle: "跨院校的服務學習合作項目",
-    lecturer: "Dr. Xu Hui Xuan, Dr. Leung Ka Wai and Ms. Leung Hiu Mann",
+    university: [universityList["eduhk"], universityList["eduhk"], universityList["hkbu"]],
+    department: ["課程與教學學系", "課程與教學學系", "語文中心"],
+    caseTitle: "跨院校的服務學習合作項目 (A cross-institutional Service-learning project)",
+    lecturer: "徐慧璇, 梁嘉慧, 梁曉雯",
     details: {
       caseDescription: {
         content: [
@@ -601,9 +608,9 @@ const data = [
   {
     caseCode: 10,
     university: universityList["lu"],
-    department: "Department of Management",
-    caseTitle: "在管理和領導力課程中整合服務學習",
-    lecturer: "Prof. Tingting, CHEN",
+    department: "管理學系",
+    caseTitle: "在管理和領導力課程中整合服務學習 (Integrating service-learning in Management and leadership courses)",
+    lecturer: "陳婷婷",
     details: {
       caseDescription: {
         content: [
@@ -741,8 +748,9 @@ const data = [
   {
     caseCode: 11,
     university: universityList["lu"],
-    caseTitle: "生命科學：探索生命如何運作  ( Life Sciences: The Way Life Works)",
-    lecturer: "Dr. Fong Jonathan",
+    department: "核心課程及通識教育辦事處科學教研組",
+    caseTitle: "生命科學：探索生命如何運作  (Life Sciences: The Way Life Works)",
+    lecturer: "方健恩",
     details: {
       caseDescription: {
         content: "個案十一報導了一個名為 「生命科學：探索生命如何運作」（以下簡稱「生命」）的三學分服務學習課程。 本課程是由來自嶺南大學(以下簡稱 嶺大) 方教授所提供。\n\n本課程簡要介紹生命的起源，並了解使地球能夠創造和維持生命的物理條件。將採用實用的方法來激發學生對該學科的好奇心和興趣，以激發批判性的科學思維。本課程涉及活細胞重要成分的基礎化學和生物化學，並解釋了植物和動物中各種器官和細胞器的作用和功能。 \n\n這課程「生命科學：生命的運作方式」旨在介紹生命的起源，並讓參加的學生了解使地球能夠創造和維持生命的物理條件。課程採用實用的方法來激發學生對學科的好奇心和興趣，以促進批判性的科學思維。透過方敎授的聯繫，他成功地與香港海洋公園（以下簡稱海洋公園）合作。與其他為老年人服務的課程不同，在這門「生命」課程中，學生和老年人會一起來到海洋公園，向遊客傳授一些生物知識，例如鯊魚和保育等。學生們的實踐經驗不僅可以幫助他們拓寬知識層面，還可以讓他們充滿自信，以個人的能力解決關於生命的問題。跨代服務活動讓學生改變對老年人的看法，並向他們學習。"
@@ -800,8 +808,9 @@ const data = [
   {
     caseCode: 12,
     university: universityList["lu"],
-    caseTitle: "新聞寫作",
-    lecturer: "Prof. Siu Yan-ho",
+    department: "中文系",
+    caseTitle: "新聞寫作 (News Writing)",
+    lecturer: "蕭欣浩",
     details: {
       caseDescription: {
         content: "個案十二報導了一個名為新「新聞寫作」（以下簡稱「寫作」）的三學分服務學習課程。 本課程是由來自嶺南大學中文系的蕭欣浩博士所提供。\n蕭欣浩博士第一次接觸服務學習是在2015年的時候。那時候他與一位教授合作教授「古典小說」這門課程。該課程與長者中心合作，運用生命回顧敘事的方法，結合文學創作與訪問，幫助學生理解文學的創作過程。在這過程中，蕭博士獲得了許多開展服務學習的經驗，包括如何與機構合作、擬定流程與目標、指導寫作及訪談等經驗。這些經驗的累積，有助蕭博士展開日後的服務學習課程。\n\n2016-2017年度，蕭博士開始獨立教授服務學習的課程，即「新聞寫作」。這門課程承接了「古典小說」中採訪加寫作的模式，服務對象也仍然是以長者為主，並以「1950年的香港」為主題展開，嘗試將課堂中所學有關採訪寫作知識與服務學習相結合，讓學生實踐所學。他表示，選擇以訪問長者、1950年的香港為主題主要有三個原因：一是蕭博士對二戰以後，即1950往後的香港文學文化有研究興趣，然而該時段的相關資料有所缺乏，而他所能了解的東西也較少，他相信通過長者的訪問調查，能夠補充該部分的研究資料; 二是蕭博士覺得，該年齡層的長者年紀較大，如果當時没有即時跟進，往後可能便沒有機會了。此外，蕭博士所接觸的長者很多都有初級認知障礙問題，他們即使身體健康狀態良好，難免記憶會退化模糊，所以如果想做採訪調查，及早做會較好; 三是蕭博士認為，保留五六十年代香港的記憶，是他對香港社區的責任，因為他覺得這份記憶無論對受訪長者個人、其家人以及社區都是珍貴的及重要的。\n\n到了2017-2018年度，蕭博士繼續與洪水橋的長者中心合作，但主題改為「1960年的香港」，原因是學校希望導師發展不同的課程。除此之外，他還增加了與其他機構的合作，服務對象仍然是長者，這包括與香港浸會大學中醫藥學院開展有關食療的服務，與大館合辦年代展覽，也嘗試走到台灣實踐計劃，進一步使課程模式和成果更加豐富。"
@@ -864,9 +873,9 @@ const data = [
   {
     caseCode: 13,
     university: universityList["polyu"],
-    department: "Institute of Textiles & Clothing",
-    caseTitle: "透過紡織藝術及時裝參與社區 ( Community Engagement through Expressive Textile Arts and Fashion) ",
-    lecturer: "Dr. Jin Lam",
+    department: "紡織及服裝學系",
+    caseTitle: "透過紡織藝術及時裝參與社區 (Community Engagement through Expressive Textile Arts and Fashion) ",
+    lecturer: "林枝衍",
     details: {
       caseDescription: {
         content: [
@@ -987,9 +996,9 @@ const data = [
   {
     caseCode: 14,
     university: universityList["polyu"],
-    department: "Department of Applied Social Sciences",
-    caseTitle: "社區心理學",
-    lecturer: "Dr. Chan Hin Wang",
+    department: "應用社會科學系",
+    caseTitle: "社區心理學 (Community Psychology)",
+    lecturer: "陳顯宏",
     details: {
       caseDescription: {
         content: "個案十四報導了一個名為「社區心理學」（以下簡稱「心理學」）的三學分服務學習課程。 這課程是由來自香港理工大學應用社會科學系陳顯宏博士所提供。\n\n《心理學》這課程於2011年開辦。當時，這課程是作為三年制課程學生的通識教育選修課的試點 (pilot) 服務學習課程。後來這課程被建構為服務學習單元，原因是陳博士想使用服務學習教學法來配合課程目的。具體而言，這課程要求學生不僅要學習有關人們在社區中的行為方式的理論和知識，還要採取相應的行動來改變社區。只有通過服務學習單元，學生才能全面正確地掌握社區心理。試點服務學習課程取得積極成果。因此，這課程便開始作為四年制課程的一個科目。後來，它被歸類為服務性學習科目之一，提供給參加這個四年制新課程的學生，有助於他們達到大學一般要求，這課程涉及30個學分的課程科目包括服務學習、人際及領導等。\n\n後來，它被歸類為服務性學習科目之一，該課程提供給參加這個四年制新學制課程的學生，有助於他們達到大學的一般要求，當中涉及三十個學分有關服務學習、人際領導等的培養。社區心理學包括三個學習單元：講座/研討會、電子學習和直接社區服務。這是一個小班授課課程，招收了 24 至 40 名大學生。\n\n\t1.1講座/研討會旨在讓學生掌握特定學科的知識，包括促進健康和作出預防、賦權以及建立社區和社會資本意識。一些針對社區健康、個人健康和更高層次公民社會的干預措施也將被引入。\n\t\t• 學生需修讀由香港理工大學服務學習及領導才能發展處 (Service-Learning and Leadership Office, SLLO) (以下簡稱SLLO) 開發和提供的 10 小時電子學習單元，旨在介紹服務學習的基本概念與實踐。學生必須在學期的最初四個星期內完成電子學習單元。\n\t\t • 為了獲得直接參與社區服務的經驗，學生可以參加健康促進或兒童發展計劃。在這計劃中，學生應與服務機構緊密合作，為服務對象提供一系列的任務和活動。學生們將被分成大約五人的小組。每個小組都需要根據社區和服務需求參與家訪、服務機構所分配的具體任務、和設計活動。"
@@ -1059,9 +1068,9 @@ const data = [
   {
     caseCode: 15,
     university: universityList["polyu"],
-    department: "Department of Biomedical Engineering",
-    caseTitle: "個案十五：透過 STEM（科學、技術、工程和數學）活動項目減少中學生的科學鴻溝的課程 ",
-    lecturer: "Dr Lau Hin Chung",
+    department: "生物醫學工程學系",
+    caseTitle: "個案十五：透過 STEM（科學、技術、工程和數學）活動項目減少中學生的科學鴻溝的課程 (Reducing the Scientific Divide in Secondary Students through STEM (Science, Technology, Engineering and Mathematics) Projects)",
+    lecturer: "劉衍中",
     details: {
       caseDescription: {
         content: [
@@ -1161,9 +1170,9 @@ const data = [
   {
     caseCode: 16,
     university: universityList["hkbu"],
-    department: "School of Chinese Medicine",
+    department: "中醫藥學院",
     caseTitle: "通往健康服務服務領導地位的途徑 (Paths to Service Leadership in Health Services)",
-    lecturer: "Dr Kevin K. M. Yue",
+    lecturer: "余堅文",
     details: {
       caseDescription: {
         content: [

@@ -54,3 +54,7 @@ body {
   left: auto !important;
   right: 0px;
 }
+
+.caseLib {
+  padding: 0px 100px;
+}

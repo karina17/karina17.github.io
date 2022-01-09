@@ -15,6 +15,7 @@
     <script type="text/javascript" src="js/helper.js"></script>
     <script type="text/javascript" src="js/data-cn.js"></script>
     <script type="text/javascript">
+    $("#footer").load("footer.html"); 
     loadModule("CN");
     $(document).ready(function() {
       for (var item of universityList){
@@ -78,7 +79,7 @@
         <div class="col">
           <h4>個案說明</h4>
           <div class="mb-3">
-            <label class="form-label">Case Title</label>
+            <label class="form-label">案例名稱</label>
             <input id="caseTitle" class="form-control" aria-describedby="emailHelp">
           </div>
           <div class="mb-3">
@@ -99,7 +100,7 @@
           <h4>良好實務及挑戰</h4>
           <form>
             <div class="mb-3">
-              <label class="form-label">關鍵要素 <span class="grey-color">(Hold Ctrl/CMD for multiple selection)</span></label>
+              <label class="form-label">關鍵要素 <span class="grey-color">(按Ctrl/CMD鍵可多選)</span></label>
               <select id="categories" class="form-select" size="10" multiple></select>
               <span id="error" class="help-block">Please select a key element</span>
             </div>
@@ -120,7 +121,6 @@
       </div>
     </div>
   </div>
-
   <!-- Optional JavaScript; choose one of the two! -->
 
   <!-- Option 1: Bootstrap Bundle with Popper -->

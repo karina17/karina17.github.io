@@ -28,7 +28,7 @@
                                 '<td>'+ university + (record.department == undefined ? "" : ' - ' + record.department) + '</td>'+
                                 '<td>'+ record.caseTitle + '</td>'+
                                 '<td>'+ record.lecturer + '</td>'+
-                                '<td><a href = "caseDetails-cn.html?case='+ record.caseCode +'"> See </a></td></tr>'
+                                '<td><a href = "caseDetails-cn.html?case='+ record.caseCode +'"> 查看詳情 </a></td></tr>'
                                 );
         }
         $(".result").show();
@@ -67,16 +67,16 @@
           </div>
       </nav>
     </div>
-    <div class="container">
+    <div class="container-fluid caseLib">
       <h2 class="title">案例庫</h2>
         <table class="table table-hover">
         <thead>
           <tr>
-            <th scope="col">Case Code</th>
+            <th scope="col">案例編號</th>
             <th scope="col">大學 - 學系</th>
-            <th scope="col">Course Title</th>
-            <th scope="col">Course Lecturer</th>
-            <th scope="col">See Details</th>
+            <th scope="col">科目名稱</th>
+            <th scope="col">任課教師</th>
+            <th scope="col">查看詳情</th>
           </tr>
         </thead>
         <tbody id="caseTable">
