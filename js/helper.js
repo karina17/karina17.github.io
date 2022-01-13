@@ -47,33 +47,35 @@ function populateData(params, id) {
   }
 }
 
-function addPreamble(key, caseTitle, department, university, lecturer) {
-  let practice = " practice";
-
-  if(key == 'caseDescription')
-    practice = "";
-  
+function addPreamble(key, caseTitle, department, university, lecturer, lang) {
+  const dict = {
+    title: ['Case Title', '案例名稱'],
+    department: ['Offering Department', '學系'],
+    institution: ['Institution', '大學'],
+    lecturer: ['Teacher', '任課教師']
+  }
   if(!department)
     department = "XXXX";
   
   $('#' + key).append($("<div class='preamble'></div>")
-  .append("<p><b>Case Title: </b>" + caseTitle + "</p>")
-  .append("<p><b>Offering Department: </b>" + department + "</p>")
-  .append("<p><b>Institution: </b>" + university + "</p>")
-  .append("<p><b>Interviewed Teacher: </b>" + lecturer + "</p>"))
+  .append(`<p><b>${dict.title[lang]}:</b> ${caseTitle}</p>`)
+  .append(`<p><b>${dict.department[lang]}:</b> ${department}</p>`)
+  .append(`<p><b>${dict.institution[lang]}:</b> ${university}</p>`)
+  .append(`<p><b>${dict.lecturer[lang]}:</b> ${lecturer}</p>`))
 }
 
-function createAccordion(category){
+function createAccordion(category, categories){
   panelCount++;
   $( ".accordion" ).append($('<div></div>').addClass('accordion-item').attr({id: 'item' +panelCount})
     .append($('<h2></h2>').attr({id: 'heading' + panelCount}).addClass('accordion-header')
-      .append($('<button></button>').text(categoriesCn[category]).addClass('accordion-button').attr({type: 'button', "data-bs-toggle": 'collapse', "data-bs-toggle": 'collapse', "data-bs-target":"#collapse" + panelCount}))));
+      .append($('<button></button>').text(categories[category]).addClass('accordion-button').attr({type: 'button', "data-bs-toggle": 'collapse', "data-bs-toggle": 'collapse', "data-bs-target":"#collapse" + panelCount}))));
 
   $('#item' + panelCount).append($('<div></div>').addClass('accordion-collapse collapse show').attr({id: "collapse" + panelCount,"aria-labelledby":"heading" + panelCount})
     .append($('<div></div>').addClass("accordion-body").attr({id : category}).css("white-space", "pre-wrap")));
 }
 
-function getResult() {
+function getResult(lang) {
+  var categoryList = lang ? categoriesCn : categories;
   var filteredData = [];
   var filter = {
     university: $('#universitySelect').val() ,
@@ -104,9 +106,9 @@ function getResult() {
       $('.accordion').empty();
       for (var key of filter.categories){
         $('#' + key).empty();
-        createAccordion(key);
+        createAccordion(key, categoryList);
         for(var record of filteredData){
-          addPreamble(key, record.caseTitle, record.department, record.university, record.lecturer);
+          addPreamble(key, record.caseTitle, record.department, record.university, record.lecturer, lang);
           populateData(record.details[key].content, key);
           $("#" + key).append("<hr/>")
         }
