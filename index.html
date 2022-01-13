@@ -41,8 +41,8 @@
 
   </script>
 </head>
-<body>
-  <div>
+<body class='page-content'>
+  <div class="content-wrap">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
         <a class="navbar-brand" href="index.html">SL Best Practice</a>
@@ -72,57 +72,68 @@
         </div>
       </div>
     </nav>
-  </div>
-  <div class="container">
-    <div class="search">
-      <h2 class="title">Case Study Search </h2>
-      <div class="row">
-        <div class="col">
-          <h4>Course Information</h4>
-          <div class="mb-3">
-            <label class="form-label">Case Title</label>
-            <input id="caseTitle" class="form-control" aria-describedby="emailHelp">
-          </div>
-          <div class="mb-3">
-            <label class="form-label">University</label>
-            <select id = "universitySelect" class="form-select" onchange ="syncDept()">
-              <option value="">--Select University--</option>
-            </select>
-          </div>
-          <div class="mb-3">
-            <label class="form-label">Department</label>
-            <select id = "departmentSelect" class="form-select">
-              <option value="">--Select Department--</option>
-            </select>
-          </div>
-          <button type="button" class="btn btn-primary" onclick="getResult()">Search</button>
-        </div>
-        <div class="col">
-          <h4>Good Practices and Challenges</h4>
-          <form>
+    <div class="container content">
+      <div class="search">
+        <h2 class="title">Case Study Search </h2>
+        <div class="row">
+          <div class="col">
+            <h4>Course Information</h4>
             <div class="mb-3">
-              <label class="form-label">Key Elements <span class="grey-color">(Hold Ctrl/CMD for multiple selection)</span></label>
-              <select id="categories" class="form-select" size="10" multiple></select>
-              <span id="error" class="help-block">Please select a key element</span>
+              <label class="form-label">Case Title</label>
+              <input id="caseTitle" class="form-control" aria-describedby="emailHelp">
             </div>
-          </form>
+            <div class="mb-3">
+              <label class="form-label">University</label>
+              <select id = "universitySelect" class="form-select" onchange ="syncDept()">
+                <option value="">--Select University--</option>
+              </select>
+            </div>
+            <div class="mb-3">
+              <label class="form-label">Department</label>
+              <select id = "departmentSelect" class="form-select">
+                <option value="">--Select Department--</option>
+              </select>
+            </div>
+            <button type="button" class="btn btn-primary" onclick="getResult()">Search</button>
+          </div>
+          <div class="col">
+            <h4>Good Practices and Challenges</h4>
+            <form>
+              <div class="mb-3">
+                <label class="form-label">Key Elements <span class="grey-color">(Hold Ctrl/CMD for multiple selection)</span></label>
+                <select id="categories" class="form-select" size="10" multiple></select>
+                <span id="error" class="help-block">Please select a key element</span>
+              </div>
+            </form>
+          </div>
         </div>
-    </div>
-    <div class="result">
-      <h2 class = 'title'>Search result</h2>
-      <div class="success-result">
-        <div class="accordion">
-        </div> 
-      </div>
-      <div class="no-result">
-        <p> No results </p>
-      </div>
-      <div class="caseDetails">
-
+        <div class="result">
+          <h2 class = 'title'>Search result</h2>
+          <div class="success-result">
+            <div class="accordion">
+            </div> 
+          </div>
+          <div class="no-result">
+            <p> No results </p>
+          </div>
+          <div class="caseDetails"></div>
+        </div>
       </div>
     </div>
   </div>
-
+  <footer class="footer bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col center">
+          <img src="img/logo_eduhk.png" width="40%">
+        </div>
+        <div class="col center">
+          <img src="img/logo_polyu.png" width="50%">
+        </div>
+      </div>
+      <p class="copyright">Copyright © 2022 All rights reserved. </p>
+    </div>
+  </footer>
   <!-- Optional JavaScript; choose one of the two! -->
 
   <!-- Option 1: Bootstrap Bundle with Popper -->

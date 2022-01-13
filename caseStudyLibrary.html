@@ -36,8 +36,8 @@
 
     </script>
   </head>
-  <body>
-    <div>
+  <body class="page-content">
+    <div class="content-wrap">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
           <a class="navbar-brand" href="index.html">SL Best Practice</a>
@@ -66,26 +66,38 @@
             </ul>
           </div>
       </nav>
+      <div class="container-fluid caseLib content">
+        <h2 class="title">Case Study Library </h2>
+          <table class="table table-hover">
+          <thead>
+            <tr>
+              <th scope="col">Case Code</th>
+              <th scope="col">University - Department</th>
+              <th scope="col">Course Title</th>
+              <th scope="col">Course Lecturer</th>
+              <th scope="col">See Details</th>
+            </tr>
+          </thead>
+          <tbody id="caseTable">
+            <tr>
+            </tr>
+          </tbody>
+        </table>   
+      </div>
     </div>
-    <div class="container-fluid caseLib">
-      <h2 class="title">Case Study Library </h2>
-        <table class="table table-hover">
-        <thead>
-          <tr>
-            <th scope="col">Case Code</th>
-            <th scope="col">University - Department</th>
-            <th scope="col">Course Title</th>
-            <th scope="col">Course Lecturer</th>
-            <th scope="col">See Details</th>
-          </tr>
-        </thead>
-        <tbody id="caseTable">
-          <tr>
-          </tr>
-        </tbody>
-      </table>   
-  </div>
-
+    <footer class="footer bg-light">
+      <div class="container">
+        <div class="row">
+          <div class="col center">
+            <img src="img/logo_eduhk.png" width="40%">
+          </div>
+          <div class="col center">
+            <img src="img/logo_polyu.png" width="50%">
+          </div>
+        </div>
+        <p class="copyright">Copyright © 2022 All rights reserved. </p>
+      </div>
+    </footer>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
